@@ -1,0 +1,30 @@
+const axios = require("axios");
+const $ = require("jquery");
+
+const getData = () => {
+  let page = 1;
+  try {
+    axios.get("https://cenhomes.vn/bds-cong-nghiep").then(async (res) => {
+      const body = res.data;
+      var html = document.createElement("div");
+      var mystr = '<div id="main"></div>';
+      myTestDiv.innerHTML = mystr;
+
+      console.log(myTestDiv.querySelector("div#main"));
+      let _token = null;
+      if (name === "_token") _token = $("#id").attr("value");
+      console.log("getData -> _token", _token);
+    });
+  } catch (error) {
+    console.log("getData -> error", error);
+  }
+};
+
+const test = () => {
+  var str = "Hello world, welcome to the universe.";
+  var n = str.includes("worlds");
+  console.log("test -> n", n);
+};
+// test();
+getData();
+
