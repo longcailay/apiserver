@@ -7,7 +7,7 @@ from flask import request, jsonify, make_response, Blueprint
 areas = Blueprint('areas', __name__)
 
 #đọc dữ liệu combobox của tỉnh, huyện xã
-df = pd.read_csv('./data/addressResult.csv')
+df = pd.read_csv('./data/areas.csv')
 dfProvince = df.loc[df["provinceID"] <= 999, ["province","provinceID","provinceCode"]]#tạo subDataframe từ df có 3 cột với điều kiện serial trong df <= 63
 
 #load lên danh sách tất cả các tỉnh
