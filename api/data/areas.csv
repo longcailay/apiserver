@@ -1,718 +1,718 @@
 ﻿serial,province,provinceID,district,districtID,pro_districtID,village,villageID,dis_villageID,provinceCode,districtCode,villageCode,pro_districtCode,dis_villageCode
-1,An Giang,805,Quận Ba Đình,10101,101,Phường Phúc Xá,1010101,10101,an-giang,quan-ba-dinh,phuong-phuc-xa,ha-noi,quan-ba-dinh
-2,Bà Rịa - Vũng Tàu,717,Quận Tây Hồ,10103,101,Phường Trúc Bạch,1010103,10101,ba-ria-vung-tau,quan-tay-ho,phuong-truc-bach,ha-noi,quan-ba-dinh
-3,Bắc Giang,221,Quận Hoàn Kiếm,10105,101,Phường Vĩnh Phúc,1010105,10101,bac-giang,quan-hoan-kiem,phuong-vinh-phuc,ha-noi,quan-ba-dinh
-4,Bắc Kạn,207,Quận Long Biên,10106,101,Phường Cống Vị,1010107,10101,bac-kan,quan-long-bien,phuong-cong-vi,ha-noi,quan-ba-dinh
-5,Bạc Liêu,821,Quận Hai Bà Trưng,10107,101,Phường Liễu Giai,1010109,10101,bac-lieu,quan-hai-ba-trung,phuong-lieu-giai,ha-noi,quan-ba-dinh
-6,Bắc Ninh,223,Quận Hoàng Mai,10108,101,Phường Nguyễn Trung Trực,1010111,10101,bac-ninh,quan-hoang-mai,phuong-nguyen-trung-truc,ha-noi,quan-ba-dinh
-7,Bến Tre,811,Quận Đống đa,10109,101,Phường Ngọc Hà,1010113,10101,ben-tre,quan-dong-da,phuong-ngoc-ha,ha-noi,quan-ba-dinh
-8,Bình Định,507,Quận Thanh Xuân,10111,101,Phường Đội Cấn,1010115,10101,binh-dinh,quan-thanh-xuan,phuong-doi-can,ha-noi,quan-ba-dinh
-9,Bình Dương,711,Quận Cầu Giấy,10113,101,Phường Kim Mã,1010117,10101,binh-duong,quan-cau-giay,phuong-kim-ma,ha-noi,quan-ba-dinh
-10,Bình Phước,707,Huyện Sóc sơn,10115,101,Phường Giảng Võ,1010119,10101,binh-phuoc,huyen-soc-son,phuong-giang-vo,ha-noi,quan-ba-dinh
-11,Bình Thuận,715,Huyện Đông Anh,10117,101,Phường Thành Công,1010121,10101,binh-thuan,huyen-dong-anh,phuong-thanh-cong,ha-noi,quan-ba-dinh
-12,Cà Mau,823,Huyện Gia Lâm,10119,101,Phường Điện Biên,1010123,10101,ca-mau,huyen-gia-lam,phuong-dien-bien,ha-noi,quan-ba-dinh
-13,Cần Thơ,815,Huyện Từ Liêm,10121,101,Phường Quán Thánh,1010125,10101,can-tho,huyen-tu-liem,phuong-quan-thanh,ha-noi,quan-ba-dinh
-14,Cao Bằng,203,Huyện Thanh Trì,10123,101,Phường Ngọc Khánh,1010127,10101,cao-bang,huyen-thanh-tri,phuong-ngoc-khanh,ha-noi,quan-ba-dinh
-15,Đà Nẵng,501,Huyện Mê Linh,10125,101,Phường Nhật Tân,1010301,10103,da-nang,huyen-me-linh,phuong-nhat-tan,ha-noi,quan-tay-ho
-16,Đắk Lắk,605,Quận Hà Đông,10127,101,Phường Tứ Liên,1010303,10103,dak-lak,quan-ha-dong,phuong-tu-lien,ha-noi,quan-tay-ho
-17,Đắk Nông,606,Thị xã Sơn Tây,10129,101,Phường Quảng An,1010305,10103,dak-nong,thi-xa-son-tay,phuong-quang-an,ha-noi,quan-tay-ho
-18,Điện Biên,301,Huyện Phúc Thọ,10131,101,Phường Xuân La,1010307,10103,dien-bien,huyen-phuc-tho,phuong-xuan-la,ha-noi,quan-tay-ho
-19,Đồng Nai,713,Huyện Đan Phượng,10133,101,Phường Bưởi,1010309,10103,dong-nai,huyen-dan-phuong,phuong-buoi,ha-noi,quan-tay-ho
-20,Đồng Tháp,803,Huyện Thạch Thất,10135,101,Phường Thuỵ Khuê,1010311,10103,dong-thap,huyen-thach-that,phuong-thuy-khue,ha-noi,quan-tay-ho
-21,Gia Lai,603,Huyện Hoài Đức,10137,101,Phường Phú Thượng,1010313,10103,gia-lai,huyen-hoai-duc,phuong-phu-thuong,ha-noi,quan-tay-ho
-22,Hà Giang,201,Huyện Quốc Oai,10139,101,Phường Yên Phụ,1010315,10103,ha-giang,huyen-quoc-oai,phuong-yen-phu,ha-noi,quan-tay-ho
-23,Hà Nam,111,Huyện Thanh Oai,10141,101,Phường Phúc Tân,1010501,10105,ha-nam,huyen-thanh-oai,phuong-phuc-tan,ha-noi,quan-hoan-kiem
-24,Hà Nội,101,Huyện Thường Tín,10143,101,Phường Hàng Mã,1010503,10105,ha-noi,huyen-thuong-tin,phuong-hang-ma,ha-noi,quan-hoan-kiem
-25,Hà Tĩnh,405,Huyện Mỹ Đức,10145,101,Phường Hàng Buồm,1010505,10105,ha-tinh,huyen-my-duc,phuong-hang-buom,ha-noi,quan-hoan-kiem
-26,Hải Dương,107,Huyện ứng Hoà,10147,101,Phường Hàng Đào,1010507,10105,hai-duong,huyen-ung-hoa,phuong-hang-dao,ha-noi,quan-hoan-kiem
-27,Hải Phòng,103,Huyện Phú Xuyên,10149,101,Phường Hàng Bồ,1010509,10105,hai-phong,huyen-phu-xuyen,phuong-hang-bo,ha-noi,quan-hoan-kiem
-28,Hậu Giang,816,Huyện Ba Vì,10151,101,Phường Lý Thái Tổ,1010511,10105,hau-giang,huyen-ba-vi,phuong-ly-thai-to,ha-noi,quan-hoan-kiem
-29,Hòa Bình,305,Huyện Chương Mỹ,10153,101,Phường Hàng Bạc,1010513,10105,hoa-binh,huyen-chuong-my,phuong-hang-bac,ha-noi,quan-hoan-kiem
-30,Hưng Yên,109,Quận Nam Từ Liêm,10155,101,Phường Chương Dương,1010515,10105,hung-yen,quan-nam-tu-liem,phuong-chuong-duong,ha-noi,quan-hoan-kiem
-31,Khánh Hòa,511,Quận Bắc Từ Liêm,10157,101,Phường Hàng Trống,1010517,10105,khanh-hoa,quan-bac-tu-liem,phuong-hang-trong,ha-noi,quan-hoan-kiem
-32,Kiên Giang,813,Quận Hồng Bàng,10301,103,Phường Cửa Nam,1010519,10105,kien-giang,quan-hong-bang,phuong-cua-nam,hai-phong,quan-hoan-kiem
-33,Kon Tum,601,Quận Ngô Quyền,10303,103,Phường Trần Hưng Đạo,1010521,10105,kon-tum,quan-ngo-quyen,phuong-tran-hung-dao,hai-phong,quan-hoan-kiem
-34,Lai Châu,302,Quận Hải An,10304,103,Phường Phan Chu Trinh,1010523,10105,lai-chau,quan-hai-an,phuong-phan-chu-trinh,hai-phong,quan-hoan-kiem
-35,Lâm Đồng,703,Quận Lê Chân,10305,103,Phường Hàng Bài,1010525,10105,lam-dong,quan-le-chan,phuong-hang-bai,hai-phong,quan-hoan-kiem
-36,Lạng Sơn,209,Quận Kiến An,10307,103,Phường Hàng Bông,1010527,10105,lang-son,quan-kien-an,phuong-hang-bong,hai-phong,quan-hoan-kiem
-37,Lào Cai,205,Quận Đồ Sơn,10309,103,Phường Đồng Xuân,1010529,10105,lao-cai,quan-do-son,phuong-dong-xuan,hai-phong,quan-hoan-kiem
-38,Long An,801,Huyện Thuỷ Nguyên,10311,103,Phường Cửa Đông,1010531,10105,long-an,huyen-thuy-nguyen,phuong-cua-dong,hai-phong,quan-hoan-kiem
-39,Nam Định,113,Huyện An Dương,10313,103,Phường Hàng Gai,1010533,10105,nam-dinh,huyen-an-duong,phuong-hang-gai,hai-phong,quan-hoan-kiem
-40,Nghệ An,403,Huyện An Lão,10315,103,Phường Tràng Tiền,1010535,10105,nghe-an,huyen-an-lao,phuong-trang-tien,hai-phong,quan-hoan-kiem
-41,Ninh Bình,117,Huyện Kiến Thụy,10317,103,Phường Giang Biên,1010601,10106,ninh-binh,huyen-kien-thuy,phuong-giang-bien,hai-phong,quan-long-bien
-42,Ninh Thuận,705,Huyện Tiên Lãng,10319,103,Phường Đức Giang,1010603,10106,ninh-thuan,huyen-tien-lang,phuong-duc-giang,hai-phong,quan-long-bien
-43,Phú Thọ,217,Huyện Vĩnh Bảo,10321,103,Phường Việt Hưng,1010605,10106,phu-tho,huyen-vinh-bao,phuong-viet-hung,hai-phong,quan-long-bien
-44,Phú Yên,509,Huyện Cát Hải,10323,103,Phường Gia Thuỵ,1010607,10106,phu-yen,huyen-cat-hai,phuong-gia-thuy,hai-phong,quan-long-bien
-45,Quảng Bình,407,Huyện Bạch Long Vĩ,10325,103,Phường Phúc Lợi,1010609,10106,quang-binh,huyen-bach-long-vi,phuong-phuc-loi,hai-phong,quan-long-bien
-46,Quảng Nam,503,Quận Dương Kinh,10327,103,Phường Bồ Đề,1010611,10106,quang-nam,quan-duong-kinh,phuong-bo-de,hai-phong,quan-long-bien
-47,Quảng Ngãi,505,Thành phố Hải Dương,10701,107,Phường Sài Đồng,1010613,10106,quang-ngai,thanh-pho-hai-duong,phuong-sai-dong,hai-duong,quan-long-bien
-48,Quảng Ninh,225,Thành phố Chí Linh,10703,107,Phường Thạch Bàn,1010615,10106,quang-ninh,thanh-pho-chi-linh,phuong-thach-ban,hai-duong,quan-long-bien
-49,Quảng Trị,409,Huyện Nam Sách,10705,107,Phường Phúc Đồng,1010617,10106,quang-tri,huyen-nam-sach,phuong-phuc-dong,hai-duong,quan-long-bien
-50,Sóc Trăng,819,Huyện Thanh Hà,10707,107,Phường Cự Khối,1010619,10106,soc-trang,huyen-thanh-ha,phuong-cu-khoi,hai-duong,quan-long-bien
-51,Sơn La,303,Thị xã Kinh Môn,10709,107,Phường Thượng Thanh,1010621,10106,son-la,thi-xa-kinh-mon,phuong-thuong-thanh,hai-duong,quan-long-bien
-52,Tây Ninh,709,Huyện Kim Thành,10711,107,Phường Ngọc Thuỵ,1010623,10106,tay-ninh,huyen-kim-thanh,phuong-ngoc-thuy,hai-duong,quan-long-bien
-53,Thái Bình,115,Huyện Gia Lộc,10713,107,Phường Ngọc Lâm,1010625,10106,thai-binh,huyen-gia-loc,phuong-ngoc-lam,hai-duong,quan-long-bien
-54,Thái Nguyên,215,Huyện Tứ Kỳ,10715,107,Phường Long Biên,1010627,10106,thai-nguyen,huyen-tu-ky,phuong-long-bien,hai-duong,quan-long-bien
-55,Thanh Hoá,401,Huyện Cẩm Giàng,10717,107,Phường Lê Đại Hành,1010701,10107,thanh-hoa,huyen-cam-giang,phuong-le-dai-hanh,hai-duong,quan-hai-ba-trung
-56,Thừa Thiên Huế,411,Huyện Bình Giang,10719,107,Phường Đồng Nhân,1010703,10107,thua-thien-hue,huyen-binh-giang,phuong-dong-nhan,hai-duong,quan-hai-ba-trung
-57,Tiền Giang,807,Huyện Thanh Miện,10721,107,Phường Đống Mác,1010705,10107,tien-giang,huyen-thanh-mien,phuong-dong-mac,hai-duong,quan-hai-ba-trung
-58,Hồ Chí Minh,701,Huyện Ninh Giang,10723,107,Phường Thanh Lương,1010707,10107,ho-chi-minh,huyen-ninh-giang,phuong-thanh-luong,hai-duong,quan-hai-ba-trung
-59,Trà Vinh,817,Thành phố Hưng yên,10901,109,Phường Thanh Nhàn,1010709,10107,tra-vinh,thanh-pho-hung-yen,phuong-thanh-nhan,hung-yen,quan-hai-ba-trung
-60,Tuyên Quang,211,Thị xã Mỹ Hào,10903,109,Phường Cầu Dền,1010711,10107,tuyen-quang,thi-xa-my-hao,phuong-cau-den,hung-yen,quan-hai-ba-trung
-61,Vĩnh Long,809,Huyện Khoái Châu,10905,109,Phường Bách Khoa,1010713,10107,vinh-long,huyen-khoai-chau,phuong-bach-khoa,hung-yen,quan-hai-ba-trung
-62,Vĩnh Phúc,219,Huyện Ân Thi,10907,109,Phường Đồng Tâm,1010715,10107,vinh-phuc,huyen-an-thi,phuong-dong-tam,hung-yen,quan-hai-ba-trung
-63,Yên Bái,213,Huyện Kim Động,10909,109,Phường Vĩnh Tuy,1010717,10107,yen-bai,huyen-kim-dong,phuong-vinh-tuy,hung-yen,quan-hai-ba-trung
-,,,Huyện Phù Cừ,10911,109,Phường Bạch Mai,1010719,10107,,huyen-phu-cu,phuong-bach-mai,hung-yen,quan-hai-ba-trung
-,,,Huyện Tiên Lữ,10913,109,Phường Quỳnh Lôi,1010721,10107,,huyen-tien-lu,phuong-quynh-loi,hung-yen,quan-hai-ba-trung
-,,,Huyện Văn Giang,10915,109,Phường Trương Định,1010723,10107,,huyen-van-giang,phuong-truong-dinh,hung-yen,quan-hai-ba-trung
-,,,Huyện Văn Lâm,10917,109,Phường Ngô Thì Nhậm,1010725,10107,,huyen-van-lam,phuong-ngo-thi-nham,hung-yen,quan-hai-ba-trung
-,,,Huyện Yên Mỹ,10919,109,Phường Bạch Đằng,1010727,10107,,huyen-yen-my,phuong-bach-dang,hung-yen,quan-hai-ba-trung
-,,,Thành phố Phủ Lý,11101,111,Phường Phạm Đình Hổ,1010729,10107,,thanh-pho-phu-ly,phuong-pham-dinh-ho,ha-nam,quan-hai-ba-trung
-,,,Thị xã Duy Tiên,11103,111,Phường Bùi Thị Xuân,1010731,10107,,thi-xa-duy-tien,phuong-bui-thi-xuan,ha-nam,quan-hai-ba-trung
-,,,Huyện Kim Bảng,11105,111,Phường Phố Huế,1010733,10107,,huyen-kim-bang,phuong-pho-hue,ha-nam,quan-hai-ba-trung
-,,,Huyện Lý Nhân,11107,111,Phường Minh Khai,1010735,10107,,huyen-ly-nhan,phuong-minh-khai,ha-nam,quan-hai-ba-trung
-,,,Huyện Thanh Liêm,11109,111,Phường Quỳnh Mai,1010737,10107,,huyen-thanh-liem,phuong-quynh-mai,ha-nam,quan-hai-ba-trung
-,,,Huyện Bình Lục,11111,111,Phường Nguyễn Du,1010739,10107,,huyen-binh-luc,phuong-nguyen-du,ha-nam,quan-hai-ba-trung
-,,,Thành phố Nam Định,11301,113,Phường Vĩnh Hưng,1010801,10108,,thanh-pho-nam-dinh,phuong-vinh-hung,nam-dinh,quan-hoang-mai
-,,,Huyện Vụ Bản,11303,113,Phường Định Công,1010803,10108,,huyen-vu-ban,phuong-dinh-cong,nam-dinh,quan-hoang-mai
-,,,Huyện Mỹ Lộc,11305,113,Phường Mai Động,1010805,10108,,huyen-my-loc,phuong-mai-dong,nam-dinh,quan-hoang-mai
-,,,Huyện Ý Yên,11307,113,Phường Tương Mai,1010807,10108,,huyen-y-yen,phuong-tuong-mai,nam-dinh,quan-hoang-mai
-,,,Huyện Nam Trực,11309,113,Phường Tân Mai,1010809,10108,,huyen-nam-truc,phuong-tan-mai,nam-dinh,quan-hoang-mai
-,,,Huyện Trực Ninh,11311,113,Phường Hoàng Văn Thụ,1010811,10108,,huyen-truc-ninh,phuong-hoang-van-thu,nam-dinh,quan-hoang-mai
-,,,Huyện Xuân Trường,11313,113,Phường Giáp Bát,1010813,10108,,huyen-xuan-truong,phuong-giap-bat,nam-dinh,quan-hoang-mai
-,,,Huyện Giao Thuỷ,11315,113,Phường Thịnh Liệt,1010815,10108,,huyen-giao-thuy,phuong-thinh-liet,nam-dinh,quan-hoang-mai
-,,,Huyện Nghĩa Hưng,11317,113,Phường Hoàng Liệt,1010817,10108,,huyen-nghia-hung,phuong-hoang-liet,nam-dinh,quan-hoang-mai
-,,,Huyện Hải Hậu,11319,113,Phường Trần Phú,1010819,10108,,huyen-hai-hau,phuong-tran-phu,nam-dinh,quan-hoang-mai
-,,,Thành phố Thái Bình,11501,115,Phường Thanh Trì,1010821,10108,,thanh-pho-thai-binh,phuong-thanh-tri,thai-binh,quan-hoang-mai
-,,,Huyện Quỳnh Phụ,11503,115,Phường Đại Kim,1010823,10108,,huyen-quynh-phu,phuong-dai-kim,thai-binh,quan-hoang-mai
-,,,Huyện Hưng Hà,11505,115,Phường Lĩnh Nam,1010825,10108,,huyen-hung-ha,phuong-linh-nam,thai-binh,quan-hoang-mai
-,,,Huyện Thái Thụy,11507,115,Phường Yên Sở,1010827,10108,,huyen-thai-thuy,phuong-yen-so,thai-binh,quan-hoang-mai
-,,,Huyện Đông Hưng,11509,115,Phường Cát Linh,1010901,10109,,huyen-dong-hung,phuong-cat-linh,thai-binh,quan-dong-da
-,,,Huyện Vũ Thư,11511,115,Phường Văn Miếu,1010903,10109,,huyen-vu-thu,phuong-van-mieu,thai-binh,quan-dong-da
-,,,Huyện Kiến Xương,11513,115,Phường Láng Thượng,1010905,10109,,huyen-kien-xuong,phuong-lang-thuong,thai-binh,quan-dong-da
-,,,Huyện Tiền Hải,11515,115,Phường ô Chợ Dừa,1010907,10109,,huyen-tien-hai,phuong-o-cho-dua,thai-binh,quan-dong-da
-,,,Thành phố Ninh Bình,11701,117,Phường Hàng Bột,1010909,10109,,thanh-pho-ninh-binh,phuong-hang-bot,ninh-binh,quan-dong-da
-,,,Thành phố Tam Điệp,11703,117,Phường Khâm Thiên,1010911,10109,,thanh-pho-tam-diep,phuong-kham-thien,ninh-binh,quan-dong-da
-,,,Huyện Nho quan,11705,117,Phường Thổ Quan,1010913,10109,,huyen-nho-quan,phuong-tho-quan,ninh-binh,quan-dong-da
-,,,Huyện Gia Viễn,11707,117,Phường Nam Đồng,1010915,10109,,huyen-gia-vien,phuong-nam-dong,ninh-binh,quan-dong-da
-,,,Huyện Hoa Lư,11709,117,Phường Quang Trung,1010917,10109,,huyen-hoa-lu,phuong-quang-trung,ninh-binh,quan-dong-da
-,,,Huyện Yên Mô,11711,117,Phường Trung Liệt,1010919,10109,,huyen-yen-mo,phuong-trung-liet,ninh-binh,quan-dong-da
-,,,Huyện Yên Khánh,11713,117,Phường Phương Liên,1010921,10109,,huyen-yen-khanh,phuong-phuong-lien,ninh-binh,quan-dong-da
-,,,Huyện Kim Sơn,11715,117,Phường Thịnh Quang,1010923,10109,,huyen-kim-son,phuong-thinh-quang,ninh-binh,quan-dong-da
-,,,Thành phố Hà Giang,20101,201,Phường Kim Liên,1010925,10109,,thanh-pho-ha-giang,phuong-kim-lien,ha-giang,quan-dong-da
-,,,Huyện Đồng Văn,20103,201,Phường Ngã Tư Sở,1010927,10109,,huyen-dong-van,phuong-nga-tu-so,ha-giang,quan-dong-da
-,,,Huyện Mèo Vạc,20105,201,Phường Khương Thượng,1010929,10109,,huyen-meo-vac,phuong-khuong-thuong,ha-giang,quan-dong-da
-,,,Huyện Yên Minh,20107,201,Phường Văn Chương,1010931,10109,,huyen-yen-minh,phuong-van-chuong,ha-giang,quan-dong-da
-,,,Huyện Quản Bạ,20109,201,Phường Phương Mai,1010933,10109,,huyen-quan-ba,phuong-phuong-mai,ha-giang,quan-dong-da
-,,,Huyện Bắc Mê,20111,201,Phường Quốc Tử Giám,1010935,10109,,huyen-bac-me,phuong-quoc-tu-giam,ha-giang,quan-dong-da
-,,,Huyện Hoàng Su Phì,20113,201,Phường Láng Hạ,1010937,10109,,huyen-hoang-su-phi,phuong-lang-ha,ha-giang,quan-dong-da
-,,,Huyện Vị Xuyên,20115,201,Phường Trung Phụng,1010939,10109,,huyen-vi-xuyen,phuong-trung-phung,ha-giang,quan-dong-da
-,,,Huyện Xín Mần,20117,201,Phường Trung Tự,1010941,10109,,huyen-xin-man,phuong-trung-tu,ha-giang,quan-dong-da
-,,,Huyện Quang Bình,20118,201,Phường Nhân Chính,1011101,10111,,huyen-quang-binh,phuong-nhan-chinh,ha-giang,quan-thanh-xuan
-,,,Huyện Bắc Quang,20119,201,Phường Thượng Đình,1011103,10111,,huyen-bac-quang,phuong-thuong-dinh,ha-giang,quan-thanh-xuan
-,,,Thành phố Cao Bằng,20301,203,Phường Khương Trung,1011105,10111,,thanh-pho-cao-bang,phuong-khuong-trung,cao-bang,quan-thanh-xuan
-,,,Huyện Bảo Lạc,20303,203,Phường Thanh Xuân Trung,1011107,10111,,huyen-bao-lac,phuong-thanh-xuan-trung,cao-bang,quan-thanh-xuan
-,,,Huyện Hà Quảng,20305,203,Phường Phương Liệt,1011109,10111,,huyen-ha-quang,phuong-phuong-liet,cao-bang,quan-thanh-xuan
-,,,Huyện Thông Nông,20307,203,Phường Hạ Đình,1011111,10111,,huyen-thong-nong,phuong-ha-dinh,cao-bang,quan-thanh-xuan
-,,,Huyện Trà Lĩnh,20309,203,Phường Khương Đình,1011113,10111,,huyen-tra-linh,phuong-khuong-dinh,cao-bang,quan-thanh-xuan
-,,,Huyện Trùng Khánh,20311,203,Phường Kim Giang,1011115,10111,,huyen-trung-khanh,phuong-kim-giang,cao-bang,quan-thanh-xuan
-,,,Huyện Nguyên Bình,20313,203,Phường Thanh Xuân Nam,1011117,10111,,huyen-nguyen-binh,phuong-thanh-xuan-nam,cao-bang,quan-thanh-xuan
-,,,Huyện Hoà An,20315,203,Phường Khương Mai,1011119,10111,,huyen-hoa-an,phuong-khuong-mai,cao-bang,quan-thanh-xuan
-,,,Huyện Quảng Hòa,20317,203,Phường Thanh Xuân Bắc,1011121,10111,,huyen-quang-hoa,phuong-thanh-xuan-bac,cao-bang,quan-thanh-xuan
-,,,Huyện Phục Hoà,20318,203,Phường Mai Dịch,1011301,10113,,huyen-phuc-hoa,phuong-mai-dich,cao-bang,quan-cau-giay
-,,,Huyện Hạ Lang,20319,203,Phường Dịch Vọng,1011303,10113,,huyen-ha-lang,phuong-dich-vong,cao-bang,quan-cau-giay
-,,,Huyện Thạch An,20321,203,Phường Dịch Vọng Hậu,1011305,10113,,huyen-thach-an,phuong-dich-vong-hau,cao-bang,quan-cau-giay
-,,,Huyện Bảo Lâm,20323,203,Phường Quan Hoa,1011307,10113,,huyen-bao-lam,phuong-quan-hoa,cao-bang,quan-cau-giay
-,,,Thành phố Lào Cai,20501,205,Phường Trung Hoà,1011309,10113,,thanh-pho-lao-cai,phuong-trung-hoa,lao-cai,quan-cau-giay
-,,,Huyện Mường Khương,20505,205,Phường Nghĩa Đô,1011311,10113,,huyen-muong-khuong,phuong-nghia-do,lao-cai,quan-cau-giay
-,,,Huyện Bát Xát,20507,205,Phường Nghĩa Tân,1011313,10113,,huyen-bat-xat,phuong-nghia-tan,lao-cai,quan-cau-giay
-,,,Huyện Bắc Hà,20509,205,Phường Yên Hoà,1011315,10113,,huyen-bac-ha,phuong-yen-hoa,lao-cai,quan-cau-giay
-,,,Huyện Bảo Thắng,20511,205,Thị trấn Sóc Sơn,1011501,10115,,huyen-bao-thang,thi-tran-soc-son,lao-cai,huyen-soc-son
-,,,Thị xã Sa Pa,20513,205,Xã Bắc Sơn,1011503,10115,,thi-xa-sa-pa,xa-bac-son,lao-cai,huyen-soc-son
-,,,Huyện Bảo Yên,20515,205,Xã Hồng Kỳ,1011505,10115,,huyen-bao-yen,xa-hong-ky,lao-cai,huyen-soc-son
-,,,Huyện Văn Bàn,20519,205,Xã Nam Sơn,1011507,10115,,huyen-van-ban,xa-nam-son,lao-cai,huyen-soc-son
-,,,Huyện Si Ma Cai,20521,205,Xã Trung Giã,1011509,10115,,huyen-si-ma-cai,xa-trung-gia,lao-cai,huyen-soc-son
-,,,Thành phố Bắc Kạn,20701,207,Xã Minh Phú,1011511,10115,,thanh-pho-bac-kan,xa-minh-phu,bac-kan,huyen-soc-son
-,,,Huyện Ba Bể,20703,207,Xã Phù Linh,1011513,10115,,huyen-ba-be,xa-phu-linh,bac-kan,huyen-soc-son
-,,,Huyện Pác Nặm,20704,207,Xã Bắc Phú,1011515,10115,,huyen-pac-nam,xa-bac-phu,bac-kan,huyen-soc-son
-,,,Huyện Ngân Sơn,20705,207,Xã Quang Tiến,1011517,10115,,huyen-ngan-son,xa-quang-tien,bac-kan,huyen-soc-son
-,,,Huyện Chợ Đồn,20707,207,Xã Hiền Ninh,1011519,10115,,huyen-cho-don,xa-hien-ninh,bac-kan,huyen-soc-son
-,,,Huyện Na Rì,20709,207,Xã Việt Long,1011521,10115,,huyen-na-ri,xa-viet-long,bac-kan,huyen-soc-son
-,,,Huyện Bạch Thông,20711,207,Xã Xuân Giang,1011523,10115,,huyen-bach-thong,xa-xuan-giang,bac-kan,huyen-soc-son
-,,,Huyện Chợ Mới,20713,207,Xã Mai Đình,1011525,10115,,huyen-cho-moi,xa-mai-dinh,bac-kan,huyen-soc-son
-,,,Thành phố Lạng Sơn,20901,209,Xã Thanh Xuân,1011527,10115,,thanh-pho-lang-son,xa-thanh-xuan,lang-son,huyen-soc-son
-,,,Huyện Tràng Định,20903,209,Xã Đông Xuân,1011529,10115,,huyen-trang-dinh,xa-dong-xuan,lang-son,huyen-soc-son
-,,,Huyện Văn Lãng,20905,209,Xã Kim Lũ,1011531,10115,,huyen-van-lang,xa-kim-lu,lang-son,huyen-soc-son
-,,,Huyện Bình Gia,20907,209,Xã Phú Minh,1011533,10115,,huyen-binh-gia,xa-phu-minh,lang-son,huyen-soc-son
-,,,Huyện Bắc Sơn,20909,209,Xã Xuân Thu,1011535,10115,,huyen-bac-son,xa-xuan-thu,lang-son,huyen-soc-son
-,,,Huyện Văn Quan,20911,209,Xã Tân Dân,1011537,10115,,huyen-van-quan,xa-tan-dan,lang-son,huyen-soc-son
-,,,Huyện Cao Lộc,20913,209,Xã Phù Lỗ,1011539,10115,,huyen-cao-loc,xa-phu-lo,lang-son,huyen-soc-son
-,,,Huyện Lộc Bình,20915,209,Xã Minh Trí,1011541,10115,,huyen-loc-binh,xa-minh-tri,lang-son,huyen-soc-son
-,,,Huyện Chi Lăng,20917,209,Xã Tân Hưng,1011543,10115,,huyen-chi-lang,xa-tan-hung,lang-son,huyen-soc-son
-,,,Huyện Đình Lập,20919,209,Xã Tân Minh,1011545,10115,,huyen-dinh-lap,xa-tan-minh,lang-son,huyen-soc-son
-,,,Huyện Hữu Lũng,20921,209,Xã Tiên Dược,1011547,10115,,huyen-huu-lung,xa-tien-duoc,lang-son,huyen-soc-son
-,,,Thành Phố Tuyên Quang,21101,211,Xã Đức Hoà,1011549,10115,,thanh-pho-tuyen-quang,xa-duc-hoa,tuyen-quang,huyen-soc-son
-,,,Huyện Na Hang,21103,211,Xã Phú Cường,1011551,10115,,huyen-na-hang,xa-phu-cuong,tuyen-quang,huyen-soc-son
-,,,Huyện Chiêm Hoá,21105,211,Xã Xuân Nộn,1011701,10117,,huyen-chiem-hoa,xa-xuan-non,tuyen-quang,huyen-dong-anh
-,,,Huyện Hàm Yên,21107,211,Xã Thuỵ Lâm,1011703,10117,,huyen-ham-yen,xa-thuy-lam,tuyen-quang,huyen-dong-anh
-,,,Huyện Yên Sơn,21109,211,Xã Bắc Hồng,1011705,10117,,huyen-yen-son,xa-bac-hong,tuyen-quang,huyen-dong-anh
-,,,Huyện Sơn Dương,21111,211,Xã Nam Hồng,1011707,10117,,huyen-son-duong,xa-nam-hong,tuyen-quang,huyen-dong-anh
-,,,Huyện Lâm Bình,21113,211,Xã Tiên Dương,1011709,10117,,huyen-lam-binh,xa-tien-duong,tuyen-quang,huyen-dong-anh
-,,,Thành phố Yên Bái,21301,213,Xã Vân Hà,1011711,10117,,thanh-pho-yen-bai,xa-van-ha,yen-bai,huyen-dong-anh
-,,,Thị xã Nghĩa Lộ,21303,213,Xã Liên Hà,1011713,10117,,thi-xa-nghia-lo,xa-lien-ha,yen-bai,huyen-dong-anh
-,,,Huyện Lục Yên,21305,213,Xã Việt Hùng,1011715,10117,,huyen-luc-yen,xa-viet-hung,yen-bai,huyen-dong-anh
-,,,Huyện Văn Yên,21307,213,Xã Kim Chung,1011717,10117,,huyen-van-yen,xa-kim-chung,yen-bai,huyen-dong-anh
-,,,Huyện Mù Cang Chải,21309,213,Xã Dục Tú,1011719,10117,,huyen-mu-cang-chai,xa-duc-tu,yen-bai,huyen-dong-anh
-,,,Huyện Trấn Yên,21311,213,Xã Vĩnh Ngọc,1011721,10117,,huyen-tran-yen,xa-vinh-ngoc,yen-bai,huyen-dong-anh
-,,,Huyện Yên Bình,21313,213,Xã Cổ Loa,1011723,10117,,huyen-yen-binh,xa-co-loa,yen-bai,huyen-dong-anh
-,,,Huyện Văn Chấn,21315,213,Xã Hải Bối,1011725,10117,,huyen-van-chan,xa-hai-boi,yen-bai,huyen-dong-anh
-,,,Huyện Trạm Tấu,21317,213,Xã Võng La,1011727,10117,,huyen-tram-tau,xa-vong-la,yen-bai,huyen-dong-anh
-,,,Thành phố Thái Nguyên,21501,215,Xã Mai Lâm,1011729,10117,,thanh-pho-thai-nguyen,xa-mai-lam,thai-nguyen,huyen-dong-anh
-,,,Thành Phố Sông Công,21503,215,Xã Vân Nội,1011731,10117,,thanh-pho-song-cong,xa-van-noi,thai-nguyen,huyen-dong-anh
-,,,Huyện Định Hoá,21505,215,Xã Tàm Xá,1011733,10117,,huyen-dinh-hoa,xa-tam-xa,thai-nguyen,huyen-dong-anh
-,,,Huyện Võ Nhai,21507,215,Thị trấn Đông Anh,1011735,10117,,huyen-vo-nhai,thi-tran-dong-anh,thai-nguyen,huyen-dong-anh
-,,,Huyện Phú Lương,21509,215,Xã Nguyên Khê,1011737,10117,,huyen-phu-luong,xa-nguyen-khe,thai-nguyen,huyen-dong-anh
-,,,Huyện Đồng Hỷ,21511,215,Xã Uy Nỗ,1011739,10117,,huyen-dong-hy,xa-uy-no,thai-nguyen,huyen-dong-anh
-,,,Huyện Đại Từ,21513,215,Xã Kim Nỗ,1011741,10117,,huyen-dai-tu,xa-kim-no,thai-nguyen,huyen-dong-anh
-,,,Huyện Phú Bình,21515,215,Xã Đại Mạch,1011743,10117,,huyen-phu-binh,xa-dai-mach,thai-nguyen,huyen-dong-anh
-,,,Thị Xã Phổ Yên,21517,215,Xã Xuân Canh,1011745,10117,,thi-xa-pho-yen,xa-xuan-canh,thai-nguyen,huyen-dong-anh
-,,,Thành phố Việt Trì,21701,217,Xã Đông Hội,1011747,10117,,thanh-pho-viet-tri,xa-dong-hoi,phu-tho,huyen-dong-anh
-,,,Thị xã Phú Thọ,21703,217,Xã Kiêu Kỵ,1011901,10119,,thi-xa-phu-tho,xa-kieu-ky,phu-tho,huyen-gia-lam
-,,,Huyện Đoan Hùng,21705,217,Xã Bát Tràng,1011903,10119,,huyen-doan-hung,xa-bat-trang,phu-tho,huyen-gia-lam
-,,,Huyện Hạ Hoà,21707,217,Xã Kim Lan,1011905,10119,,huyen-ha-hoa,xa-kim-lan,phu-tho,huyen-gia-lam
-,,,Huyện Thanh Ba,21709,217,Xã Văn Đức,1011907,10119,,huyen-thanh-ba,xa-van-duc,phu-tho,huyen-gia-lam
-,,,Huyện Phù Ninh,21711,217,Xã Đa Tốn,1011909,10119,,huyen-phu-ninh,xa-da-ton,phu-tho,huyen-gia-lam
-,,,Huyện Cẩm Khê,21713,217,Thị trấn Yên Viên,1011911,10119,,huyen-cam-khe,thi-tran-yen-vien,phu-tho,huyen-gia-lam
-,,,Huyện Yên Lập,21715,217,Xã Yên Thường,1011913,10119,,huyen-yen-lap,xa-yen-thuong,phu-tho,huyen-gia-lam
-,,,Huyện Tam Nông,21717,217,Xã Yên Viên,1011915,10119,,huyen-tam-nong,xa-yen-vien,phu-tho,huyen-gia-lam
-,,,Huyện Thanh Sơn,21719,217,Xã Đình Xuyên,1011917,10119,,huyen-thanh-son,xa-dinh-xuyen,phu-tho,huyen-gia-lam
-,,,Huyện Tân Sơn,21720,217,Xã Dương Hà,1011919,10119,,huyen-tan-son,xa-duong-ha,phu-tho,huyen-gia-lam
-,,,Huyện Lâm Thao,21721,217,Xã Phù Đổng,1011921,10119,,huyen-lam-thao,xa-phu-dong,phu-tho,huyen-gia-lam
-,,,Huyện Thanh Thuỷ,21723,217,Xã Cổ Bi,1011923,10119,,huyen-thanh-thuy,xa-co-bi,phu-tho,huyen-gia-lam
-,,,Thành phố Vĩnh Yên,21901,219,Xã Đặng Xá,1011925,10119,,thanh-pho-vinh-yen,xa-dang-xa,vinh-phuc,huyen-gia-lam
-,,,Thị xã Phúc Yên,21902,219,Xã Kim Sơn,1011927,10119,,thi-xa-phuc-yen,xa-kim-son,vinh-phuc,huyen-gia-lam
-,,,Huyện Lập Thạch,21903,219,Thị trấn Trâu Quỳ,1011929,10119,,huyen-lap-thach,thi-tran-trau-quy,vinh-phuc,huyen-gia-lam
-,,,Huyện Tam Đảo,21904,219,Xã Dương Quang,1011931,10119,,huyen-tam-dao,xa-duong-quang,vinh-phuc,huyen-gia-lam
-,,,Huyện Tam Dương,21905,219,Xã Đông Dư,1011933,10119,,huyen-tam-duong,xa-dong-du,vinh-phuc,huyen-gia-lam
-,,,Huyện Vĩnh Tường,21907,219,Xã Lệ Chi,1011935,10119,,huyen-vinh-tuong,xa-le-chi,vinh-phuc,huyen-gia-lam
-,,,Huyện Yên Lạc,21909,219,Xã Ninh Hiệp,1011937,10119,,huyen-yen-lac,xa-ninh-hiep,vinh-phuc,huyen-gia-lam
-,,,Huyện Bình Xuyên,21913,219,Xã Trung Mầu,1011939,10119,,huyen-binh-xuyen,xa-trung-mau,vinh-phuc,huyen-gia-lam
-,,,Huyện Sông Lô,21915,219,Xã Phú Thị,1011941,10119,,huyen-song-lo,xa-phu-thi,vinh-phuc,huyen-gia-lam
-,,,Thành phố  Bắc Giang,22101,221,Xã Dương Xá,1011943,10119,,thanh-pho--bac-giang,xa-duong-xa,bac-giang,huyen-gia-lam
-,,,Huyện Yên Thế,22103,221,Thị trấn Cầu Diễn,1012101,10121,,huyen-yen-the,thi-tran-cau-dien,bac-giang,huyen-tu-liem
-,,,Huyện Tân Yên,22105,221,Xã Thượng Cát,1012103,10121,,huyen-tan-yen,xa-thuong-cat,bac-giang,huyen-tu-liem
-,,,Huyện Lục Ngạn,22107,221,Xã Thuỵ Phương,1012105,10121,,huyen-luc-ngan,xa-thuy-phuong,bac-giang,huyen-tu-liem
-,,,Huyện Hiệp Hoà,22109,221,Xã Tây Tựu,1012107,10121,,huyen-hiep-hoa,xa-tay-tuu,bac-giang,huyen-tu-liem
-,,,Huyện Lạng Giang,22111,221,Xã Xuân Đỉnh,1012109,10121,,huyen-lang-giang,xa-xuan-dinh,bac-giang,huyen-tu-liem
-,,,Huyện Sơn Động,22113,221,Xã Cổ Nhuế,1012111,10121,,huyen-son-dong,xa-co-nhue,bac-giang,huyen-tu-liem
-,,,Huyện Lục Nam,22115,221,Xã Phú Diễn,1012113,10121,,huyen-luc-nam,xa-phu-dien,bac-giang,huyen-tu-liem
-,,,Huyện Việt Yên,22117,221,Xã Xuân Phương,1012115,10121,,huyen-viet-yen,xa-xuan-phuong,bac-giang,huyen-tu-liem
-,,,Huyện Yên Dũng,22119,221,Xã Tây Mỗ,1012117,10121,,huyen-yen-dung,xa-tay-mo,bac-giang,huyen-tu-liem
-,,,Thành phố Bắc Ninh,22301,223,Xã Mễ Trì,1012119,10121,,thanh-pho-bac-ninh,xa-me-tri,bac-ninh,huyen-tu-liem
-,,,Huyện Yên Phong,22303,223,Xã Liên Mạc,1012121,10121,,huyen-yen-phong,xa-lien-mac,bac-ninh,huyen-tu-liem
-,,,Huyện Quế Võ,22305,223,Xã Đại Mỗ,1012123,10121,,huyen-que-vo,xa-dai-mo,bac-ninh,huyen-tu-liem
-,,,Huyện Tiên Du,22307,223,Xã Đông Ngạc,1012125,10121,,huyen-tien-du,xa-dong-ngac,bac-ninh,huyen-tu-liem
-,,,Huyện Thuận Thành,22309,223,Xã Minh Khai,1012127,10121,,huyen-thuan-thanh,xa-minh-khai,bac-ninh,huyen-tu-liem
-,,,Huyện Lương Tài,22311,223,Xã Mỹ Đình,1012129,10121,,huyen-luong-tai,xa-my-dinh,bac-ninh,huyen-tu-liem
-,,,Thị xã Từ Sơn,22313,223,Xã Trung Văn,1012131,10121,,thi-xa-tu-son,xa-trung-van,bac-ninh,huyen-tu-liem
-,,,Huyện Gia Bình,22315,223,Thị trấn Văn Điển,1012301,10123,,huyen-gia-binh,thi-tran-van-dien,bac-ninh,huyen-thanh-tri
-,,,Thành phố Hạ Long,22501,225,Xã Tân Triều,1012303,10123,,thanh-pho-ha-long,xa-tan-trieu,quang-ninh,huyen-thanh-tri
-,,,Thành phố Cẩm Phả,22503,225,Xã Thanh Liệt,1012305,10123,,thanh-pho-cam-pha,xa-thanh-liet,quang-ninh,huyen-thanh-tri
-,,,Thành phố Uông Bí,22505,225,Xã Hữu Hoà,1012307,10123,,thanh-pho-uong-bi,xa-huu-hoa,quang-ninh,huyen-thanh-tri
-,,,Huyện Bình Liêu,22507,225,Xã Tam Hiệp,1012309,10123,,huyen-binh-lieu,xa-tam-hiep,quang-ninh,huyen-thanh-tri
-,,,Thành phố Móng cái,22509,225,Xã Tứ Hiệp,1012311,10123,,thanh-pho-mong-cai,xa-tu-hiep,quang-ninh,huyen-thanh-tri
-,,,Huyện Hải Hà,22511,225,Xã Vĩnh Quỳnh,1012313,10123,,huyen-hai-ha,xa-vinh-quynh,quang-ninh,huyen-thanh-tri
-,,,Huyện Tiên Yên,22513,225,Xã Duyên Hà,1012315,10123,,huyen-tien-yen,xa-duyen-ha,quang-ninh,huyen-thanh-tri
-,,,Huyện Ba Chẽ,22515,225,Xã Vạn Phúc,1012317,10123,,huyen-ba-che,xa-van-phuc,quang-ninh,huyen-thanh-tri
-,,,Huyện Vân Đồn,22517,225,Xã Đại áng,1012319,10123,,huyen-van-don,xa-dai-ang,quang-ninh,huyen-thanh-tri
-,,,Huyện Hoành Bồ,22519,225,Xã Liên Ninh,1012321,10123,,huyen-hoanh-bo,xa-lien-ninh,quang-ninh,huyen-thanh-tri
-,,,Thị xã Đông Triều,22521,225,Xã Ngũ Hiệp,1012323,10123,,thi-xa-dong-trieu,xa-ngu-hiep,quang-ninh,huyen-thanh-tri
-,,,Huyện Cô Tô,22523,225,Xã Tả Thanh Oai,1012325,10123,,huyen-co-to,xa-ta-thanh-oai,quang-ninh,huyen-thanh-tri
-,,,Thị xã Quảng Yên,22525,225,Xã Yên Mỹ,1012327,10123,,thi-xa-quang-yen,xa-yen-my,quang-ninh,huyen-thanh-tri
-,,,Huyện Đầm Hà,22527,225,Xã Ngọc Hồi,1012329,10123,,huyen-dam-ha,xa-ngoc-hoi,quang-ninh,huyen-thanh-tri
-,,,Thành phố Điện Biên Phủ,30101,301,Xã Đông Mỹ,1012331,10123,,thanh-pho-dien-bien-phu,xa-dong-my,dien-bien,huyen-thanh-tri
-,,,Thị xã Mường Lay,30103,301,Xã Đại Thịnh,1012501,10125,,thi-xa-muong-lay,xa-dai-thinh,dien-bien,huyen-me-linh
-,,,Huyện Mường Nhé,30104,301,Xã Kim Hoa,1012503,10125,,huyen-muong-nhe,xa-kim-hoa,dien-bien,huyen-me-linh
-,,,Huyện Mường Chà,30111,301,Xã Thạch Đà,1012505,10125,,huyen-muong-cha,xa-thach-da,dien-bien,huyen-me-linh
-,,,Huyện Tủa Chùa,30113,301,Xã Tự Lập,1012507,10125,,huyen-tua-chua,xa-tu-lap,dien-bien,huyen-me-linh
-,,,Huyện Tuần Giáo,30115,301,Xã Thanh Lâm,1012509,10125,,huyen-tuan-giao,xa-thanh-lam,dien-bien,huyen-me-linh
-,,,Huyện Điện Biên,30117,301,Xã Liên Mạc ,1012511,10125,,huyen-dien-bien,xa-lien-mac,dien-bien,huyen-me-linh
-,,,Huyện Điện Biên Đông,30119,301,Xã Vạn Yên,1012513,10125,,huyen-dien-bien-dong,xa-van-yen,dien-bien,huyen-me-linh
-,,,Huyện Mường ảng,30121,301,Xã Chu Phan,1012515,10125,,huyen-muong-ang,xa-chu-phan,dien-bien,huyen-me-linh
-,,,Huyện Nậm Pồ,30123,301,Xã Mê Linh,1012517,10125,,huyen-nam-po,xa-me-linh,dien-bien,huyen-me-linh
-,,,Huyện Mường Tè,30201,302,Xã Văn Khê,1012519,10125,,huyen-muong-te,xa-van-khe,lai-chau,huyen-me-linh
-,,,Thành phố Lai Châu,30202,302,Xã Hoàng Kim,1012521,10125,,thanh-pho-lai-chau,xa-hoang-kim,lai-chau,huyen-me-linh
-,,,Huyện Phong Thổ,30203,302,Xã Tráng Việt,1012523,10125,,huyen-phong-tho,xa-trang-viet,lai-chau,huyen-me-linh
-,,,Huyện Tam Đường,30205,302,Thị trấn Quang Minh,1012525,10125,,huyen-tam-duong,thi-tran-quang-minh,lai-chau,huyen-me-linh
-,,,Huyện Sìn Hồ,30207,302,Xã Tiến Thắng,1012527,10125,,huyen-sin-ho,xa-tien-thang,lai-chau,huyen-me-linh
-,,,Huyện Than Uyên,30209,302,Xã Tam Đồng,1012529,10125,,huyen-than-uyen,xa-tam-dong,lai-chau,huyen-me-linh
-,,,Huyện Tân Uyên,30211,302,Xã Tiến Thịnh,1012531,10125,,huyen-tan-uyen,xa-tien-thinh,lai-chau,huyen-me-linh
-,,,Huyện Nậm Nhùn,30213,302,Xã Tiền Phong,1012533,10125,,huyen-nam-nhun,xa-tien-phong,lai-chau,huyen-me-linh
-,,,Thành phố Sơn La,30301,303,Thị trấn Chi Đông,1012535,10125,,thanh-pho-son-la,thi-tran-chi-dong,son-la,huyen-me-linh
-,,,Huyện Quỳnh Nhai,30303,303,Phường Nguyễn Trãi,1012701,10127,,huyen-quynh-nhai,phuong-nguyen-trai,son-la,quan-ha-dong
-,,,Huyện Mường La,30305,303,Phường Mộ Lao,1012703,10127,,huyen-muong-la,phuong-mo-lao,son-la,quan-ha-dong
-,,,Huyện Thuận Châu,30307,303,Phường Văn Quán,1012704,10127,,huyen-thuan-chau,phuong-van-quan,son-la,quan-ha-dong
-,,,Huyện Bắc Yên,30309,303,Phường Vạn Phúc,1012705,10127,,huyen-bac-yen,phuong-van-phuc,son-la,quan-ha-dong
-,,,Huyện Phù Yên,30311,303,Phường Quang Trung ,1012707,10127,,huyen-phu-yen,phuong-quang-trung,son-la,quan-ha-dong
-,,,Huyện Mai Sơn,30313,303,Phường Phúc La,1012709,10127,,huyen-mai-son,phuong-phuc-la,son-la,quan-ha-dong
-,,,Huyện Sông Mã,30315,303,Phường Hà Cầu,1012711,10127,,huyen-song-ma,phuong-ha-cau,son-la,quan-ha-dong
-,,,Huyện Yên Châu,30317,303,Phường Yên Nghĩa,1012713,10127,,huyen-yen-chau,phuong-yen-nghia,son-la,quan-ha-dong
-,,,Huyện Mộc Châu,30319,303,Phường Kiến Hưng,1012715,10127,,huyen-moc-chau,phuong-kien-hung,son-la,quan-ha-dong
-,,,Huyện Sốp Cộp,30321,303,Phường Phú Lãm,1012717,10127,,huyen-sop-cop,phuong-phu-lam,son-la,quan-ha-dong
-,,,Huyện Vân Hồ,30323,303,Phường Dương Nội,1012719,10127,,huyen-van-ho,phuong-duong-noi,son-la,quan-ha-dong
-,,,Thành phố Hoà Bình,30501,305,Phường Đồng Mai,1012721,10127,,thanh-pho-hoa-binh,phuong-dong-mai,hoa-binh,quan-ha-dong
-,,,Huyện Đà Bắc,30503,305,Phường Biên Giang,1012723,10127,,huyen-da-bac,phuong-bien-giang,hoa-binh,quan-ha-dong
-,,,Huyện Mai Châu,30505,305,Phường Phú Lương,1012725,10127,,huyen-mai-chau,phuong-phu-luong,hoa-binh,quan-ha-dong
-,,,Huyện Kỳ Sơn,30507,305,Phường Phú La,1012727,10127,,huyen-ky-son,phuong-phu-la,hoa-binh,quan-ha-dong
-,,,Huyện Lương Sơn,30509,305,Phường La Khê,1012728,10127,,huyen-luong-son,phuong-la-khe,hoa-binh,quan-ha-dong
-,,,Huyện Cao Phong,30510,305,Phường Yết Kiêu,1012729,10127,,huyen-cao-phong,phuong-yet-kieu,hoa-binh,quan-ha-dong
-,,,Huyện Kim Bôi,30511,305,Phường Phú Thịnh,1012901,10129,,huyen-kim-boi,phuong-phu-thinh,hoa-binh,thi-xa-son-tay
-,,,Huyện Tân Lạc,30513,305,Phường Quang Trung  ,1012903,10129,,huyen-tan-lac,phuong-quang-trung,hoa-binh,thi-xa-son-tay
-,,,Huyện Lạc Sơn,30515,305,Phường Sơn Lộc,1012905,10129,,huyen-lac-son,phuong-son-loc,hoa-binh,thi-xa-son-tay
-,,,Huyện Lạc Thuỷ,30517,305,Phường Xuân Khanh,1012907,10129,,huyen-lac-thuy,phuong-xuan-khanh,hoa-binh,thi-xa-son-tay
-,,,Huyện Yên Thuỷ,30519,305,Xã Đường Lâm,1012909,10129,,huyen-yen-thuy,xa-duong-lam,hoa-binh,thi-xa-son-tay
-,,,Thành phố Thanh Hoá,40101,401,Xã Xuân Sơn,1012911,10129,,thanh-pho-thanh-hoa,xa-xuan-son,thanh-hoa,thi-xa-son-tay
-,,,Thị xã Bỉm Sơn,40103,401,Phường Trung Hưng,1012913,10129,,thi-xa-bim-son,phuong-trung-hung,thanh-hoa,thi-xa-son-tay
-,,,Thành phố Sầm Sơn,40105,401,Xã Thanh Mỹ,1012915,10129,,thanh-pho-sam-son,xa-thanh-my,thanh-hoa,thi-xa-son-tay
-,,,Huyện Mường Lát,40107,401,Xã Kim Sơn ,1012917,10129,,huyen-muong-lat,xa-kim-son,thanh-hoa,thi-xa-son-tay
-,,,Huyện Quan Hoá,40109,401,Xã Sơn Đông,1012919,10129,,huyen-quan-hoa,xa-son-dong,thanh-hoa,thi-xa-son-tay
-,,,Huyện Quan Sơn,40111,401,Xã Cổ Đông,1012921,10129,,huyen-quan-son,xa-co-dong,thanh-hoa,thi-xa-son-tay
-,,,Huyện Bá Thước,40113,401,Phường Lê Lợi,1012923,10129,,huyen-ba-thuoc,phuong-le-loi,thanh-hoa,thi-xa-son-tay
-,,,Huyện Cẩm Thuỷ,40115,401,Phường Ngô Quyền,1012925,10129,,huyen-cam-thuy,phuong-ngo-quyen,thanh-hoa,thi-xa-son-tay
-,,,Huyện Lang Chánh,40117,401,Phường Viên Sơn,1012927,10129,,huyen-lang-chanh,phuong-vien-son,thanh-hoa,thi-xa-son-tay
-,,,Huyện Thạch Thành,40119,401,Phường Trung Sơn Trầm,1012929,10129,,huyen-thach-thanh,phuong-trung-son-tram,thanh-hoa,thi-xa-son-tay
-,,,Huyện Ngọc Lặc,40121,401,Xã Vân Hà ,1013101,10131,,huyen-ngoc-lac,xa-van-ha,thanh-hoa,huyen-phuc-tho
-,,,Huyện Thường Xuân,40123,401,Xã Vân Phúc,1013103,10131,,huyen-thuong-xuan,xa-van-phuc,thanh-hoa,huyen-phuc-tho
-,,,Huyện Như Xuân,40125,401,Xã Vân Nam,1013105,10131,,huyen-nhu-xuan,xa-van-nam,thanh-hoa,huyen-phuc-tho
-,,,Huyện Như Thanh,40127,401,Xã Xuân Phú,1013107,10131,,huyen-nhu-thanh,xa-xuan-phu,thanh-hoa,huyen-phuc-tho
-,,,Huyện Vĩnh Lộc,40129,401,Xã Sen Chiểu,1013109,10131,,huyen-vinh-loc,xa-sen-chieu,thanh-hoa,huyen-phuc-tho
-,,,Huyện Hà Trung,40131,401,Xã Cẩm Đình,1013111,10131,,huyen-ha-trung,xa-cam-dinh,thanh-hoa,huyen-phuc-tho
-,,,Huyện Nga Sơn,40133,401,Xã Võng Xuyên,1013113,10131,,huyen-nga-son,xa-vong-xuyen,thanh-hoa,huyen-phuc-tho
-,,,Huyện Yên Định,40135,401,Xã Long Xuyên,1013115,10131,,huyen-yen-dinh,xa-long-xuyen,thanh-hoa,huyen-phuc-tho
-,,,Huyện Thọ Xuân,40137,401,Xã Thượng Cốc,1013117,10131,,huyen-tho-xuan,xa-thuong-coc,thanh-hoa,huyen-phuc-tho
-,,,Huyện Hậu Lộc,40139,401,Xã Thanh Đa,1013119,10131,,huyen-hau-loc,xa-thanh-da,thanh-hoa,huyen-phuc-tho
-,,,Huyện Thiệu Hoá,40141,401,Xã Trạch Mỹ Lộc,1013121,10131,,huyen-thieu-hoa,xa-trach-my-loc,thanh-hoa,huyen-phuc-tho
-,,,Huyện Hoằng Hoá,40143,401,Xã Phúc Hòa,1013123,10131,,huyen-hoang-hoa,xa-phuc-hoa,thanh-hoa,huyen-phuc-tho
-,,,Huyện Đông Sơn,40145,401,Xã Phụng Thượng,1013125,10131,,huyen-dong-son,xa-phung-thuong,thanh-hoa,huyen-phuc-tho
-,,,Huyện Triệu Sơn,40147,401,Xã Tam Thuấn,1013127,10131,,huyen-trieu-son,xa-tam-thuan,thanh-hoa,huyen-phuc-tho
-,,,Huyện Quảng Xương,40149,401,Xã Tam Hiệp ,1013129,10131,,huyen-quang-xuong,xa-tam-hiep,thanh-hoa,huyen-phuc-tho
-,,,Huyện Nông Cống,40151,401,Xã Hát Môn,1013131,10131,,huyen-nong-cong,xa-hat-mon,thanh-hoa,huyen-phuc-tho
-,,,Thị xã Nghi Sơn,40153,401,Thị trấn Phúc Thọ,1013133,10131,,thi-xa-nghi-son,thi-tran-phuc-tho,thanh-hoa,huyen-phuc-tho
-,,,Thành phố Vinh,40301,403,Xã Phương Độ,1013135,10131,,thanh-pho-vinh,xa-phuong-do,nghe-an,huyen-phuc-tho
-,,,Thị xã Cửa Lò,40303,403,Xã Thọ Lộc,1013137,10131,,thi-xa-cua-lo,xa-tho-loc,nghe-an,huyen-phuc-tho
-,,,Huyện Quế Phong,40305,403,Xã Tích Giang,1013139,10131,,huyen-que-phong,xa-tich-giang,nghe-an,huyen-phuc-tho
-,,,Huyện Quỳ Châu,40307,403,Xã Ngọc Tảo,1013141,10131,,huyen-quy-chau,xa-ngoc-tao,nghe-an,huyen-phuc-tho
-,,,Huyện Kỳ Sơn ,40309,403,Xã Hiệp Thuận,1013143,10131,,huyen-ky-son,xa-hiep-thuan,nghe-an,huyen-phuc-tho
-,,,Huyện Quỳ Hợp,40311,403,Xã Liên Hiệp,1013145,10131,,huyen-quy-hop,xa-lien-hiep,nghe-an,huyen-phuc-tho
-,,,Huyện Nghĩa Đàn,40313,403,Xã Xuân Đình,1013147,10131,,huyen-nghia-dan,xa-xuan-dinh,nghe-an,huyen-phuc-tho
-,,,Thị xã Thái Hoà,40314,403,Xã Sen Phương,1013149,10131,,thi-xa-thai-hoa,xa-sen-phuong,nghe-an,huyen-phuc-tho
-,,,Huyện Tương Dương,40315,403,Xã Thọ An,1013301,10133,,huyen-tuong-duong,xa-tho-an,nghe-an,huyen-dan-phuong
-,,,Huyện Quỳnh Lưu,40317,403,Xã Phương Đình,1013303,10133,,huyen-quynh-luu,xa-phuong-dinh,nghe-an,huyen-dan-phuong
-,,,Huyện Tân Kỳ,40319,403,Xã Hạ Mỗ,1013305,10133,,huyen-tan-ky,xa-ha-mo,nghe-an,huyen-dan-phuong
-,,,Huyện Con Cuông,40321,403,Xã Tân Hội,1013307,10133,,huyen-con-cuong,xa-tan-hoi,nghe-an,huyen-dan-phuong
-,,,Huyện Yên THành,40323,403,Xã Song Phượng,1013309,10133,,huyen-yen-thanh,xa-song-phuong,nghe-an,huyen-dan-phuong
-,,,Huyện Diễn Châu,40325,403,Thị trấn Phùng,1013311,10133,,huyen-dien-chau,thi-tran-phung,nghe-an,huyen-dan-phuong
-,,,Huyện Anh SƠn,40327,403,Xã Trung Châu,1013313,10133,,huyen-anh-son,xa-trung-chau,nghe-an,huyen-dan-phuong
-,,,Huyện Đô Lương,40329,403,Xã Thọ Xuân,1013315,10133,,huyen-do-luong,xa-tho-xuan,nghe-an,huyen-dan-phuong
-,,,Huyện Thanh Chương,40331,403,Xã Hồng Hà,1013317,10133,,huyen-thanh-chuong,xa-hong-ha,nghe-an,huyen-dan-phuong
-,,,Huyện Nghi Lộc,40333,403,Xã Liên Hồng,1013319,10133,,huyen-nghi-loc,xa-lien-hong,nghe-an,huyen-dan-phuong
-,,,Huyện Nam Đàn,40335,403,Xã Liên Hà ,1013321,10133,,huyen-nam-dan,xa-lien-ha,nghe-an,huyen-dan-phuong
-,,,Huyện Hưng Nguyên,40337,403,Xã Liên Trung,1013323,10133,,huyen-hung-nguyen,xa-lien-trung,nghe-an,huyen-dan-phuong
-,,,Thị xã Hoàng Mai,40339,403,Xã Thượng Mỗ,1013325,10133,,thi-xa-hoang-mai,xa-thuong-mo,nghe-an,huyen-dan-phuong
-,,,Thành phố Hà Tĩnh,40501,405,Xã Tân Lập,1013327,10133,,thanh-pho-ha-tinh,xa-tan-lap,ha-tinh,huyen-dan-phuong
-,,,Thị xã Hồng Lĩnh,40503,405,Xã Đan Phượng,1013329,10133,,thi-xa-hong-linh,xa-dan-phuong,ha-tinh,huyen-dan-phuong
-,,,Huyện Nghi Xuân,40505,405,Xã Đồng Tháp,1013331,10133,,huyen-nghi-xuan,xa-dong-thap,ha-tinh,huyen-dan-phuong
-,,,Huyện Đức Thọ,40507,405,Xã Phú Kim,1013501,10135,,huyen-duc-tho,xa-phu-kim,ha-tinh,huyen-thach-that
-,,,Huyện Hương Sơn,40509,405,Xã Hữu Bằng,1013503,10135,,huyen-huong-son,xa-huu-bang,ha-tinh,huyen-thach-that
-,,,Huyện Can Lộc,40511,405,Xã Lại Thượng,1013505,10135,,huyen-can-loc,xa-lai-thuong,ha-tinh,huyen-thach-that
-,,,Huyện Thạch Hà,40513,405,Xã Kim Quan,1013507,10135,,huyen-thach-ha,xa-kim-quan,ha-tinh,huyen-thach-that
-,,,Huyện Cẩm Xuyên,40515,405,Xã Thạch Hoà,1013509,10135,,huyen-cam-xuyen,xa-thach-hoa,ha-tinh,huyen-thach-that
-,,,Huyện Hương Khê,40517,405,Xã Tân Xã,1013511,10135,,huyen-huong-khe,xa-tan-xa,ha-tinh,huyen-thach-that
-,,,Huyện Kỳ Anh,40519,405,Xã Hạ Bằng,1013513,10135,,huyen-ky-anh,xa-ha-bang,ha-tinh,huyen-thach-that
-,,,Thị xã Kỳ Anh,40520,405,Thị trấn Liên Quan,1013515,10135,,thi-xa-ky-anh,thi-tran-lien-quan,ha-tinh,huyen-thach-that
-,,,Huyện Vũ Quang,40521,405,Xã Đại Đồng,1013517,10135,,huyen-vu-quang,xa-dai-dong,ha-tinh,huyen-thach-that
-,,,Huyện Lộc Hà,40523,405,Xã Cẩm Yên,1013519,10135,,huyen-loc-ha,xa-cam-yen,ha-tinh,huyen-thach-that
-,,,Thành phố Đồng Hới,40701,407,Xã Hương Ngải,1013521,10135,,thanh-pho-dong-hoi,xa-huong-ngai,quang-binh,huyen-thach-that
-,,,Huyện Tuyên Hoá,40703,407,Xã Canh Nậu,1013523,10135,,huyen-tuyen-hoa,xa-canh-nau,quang-binh,huyen-thach-that
-,,,Huyện Minh Hoá,40705,407,Xã Dị Nậu,1013525,10135,,huyen-minh-hoa,xa-di-nau,quang-binh,huyen-thach-that
-,,,Huyện Quảng Trạch,40707,407,Xã Bình Yên,1013527,10135,,huyen-quang-trach,xa-binh-yen,quang-binh,huyen-thach-that
-,,,Huyện Bố Trạch,40709,407,Xã Chàng Sơn,1013529,10135,,huyen-bo-trach,xa-chang-son,quang-binh,huyen-thach-that
-,,,Huyện Quảng Ninh,40711,407,Xã Cần Kiệm,1013531,10135,,huyen-quang-ninh,xa-can-kiem,quang-binh,huyen-thach-that
-,,,Huyện Lệ Thuỷ,40713,407,Xã Phùng Xá,1013533,10135,,huyen-le-thuy,xa-phung-xa,quang-binh,huyen-thach-that
-,,,Thị Xã Ba Đồn,40715,407,Xã Thạch Xá,1013535,10135,,thi-xa-ba-don,xa-thach-xa,quang-binh,huyen-thach-that
-,,,Thành phố Đông Hà,40901,409,Xã Bình Phú,1013537,10135,,thanh-pho-dong-ha,xa-binh-phu,quang-tri,huyen-thach-that
-,,,Thị xã Quảng Trị,40903,409,Xã Đồng Trúc,1013539,10135,,thi-xa-quang-tri,xa-dong-truc,quang-tri,huyen-thach-that
-,,,Huyện Vĩnh Linh,40905,409,Xã Yên Bình,1013541,10135,,huyen-vinh-linh,xa-yen-binh,quang-tri,huyen-thach-that
-,,,Huyện Gio Linh,40907,409,Xã Yên Trung,1013543,10135,,huyen-gio-linh,xa-yen-trung,quang-tri,huyen-thach-that
-,,,Huyện Cam Lộ,40909,409,Xã Tiến Xuân,1013545,10135,,huyen-cam-lo,xa-tien-xuan,quang-tri,huyen-thach-that
-,,,Huyện Triệu Phong,40911,409,Xã Di Trạch,1013701,10137,,huyen-trieu-phong,xa-di-trach,quang-tri,huyen-hoai-duc
-,,,Huyện Hải Lăng,40913,409,Xã Song Phương,1013703,10137,,huyen-hai-lang,xa-song-phuong,quang-tri,huyen-hoai-duc
-,,,Huyện Hướng Hoá,40915,409,Xã Dương Liễu,1013705,10137,,huyen-huong-hoa,xa-duong-lieu,quang-tri,huyen-hoai-duc
-,,,Huyện Đa Krông,40917,409,Xã Kim Chung ,1013707,10137,,huyen-da-krong,xa-kim-chung,quang-tri,huyen-hoai-duc
-,,,Huyện Đảo Cồn Cỏ,40919,409,Xã Đắc Sở,1013709,10137,,huyen-dao-con-co,xa-dac-so,quang-tri,huyen-hoai-duc
-,,,Thành phố Huế,41101,411,Xã An Khánh,1013711,10137,,thanh-pho-hue,xa-an-khanh,thua-thien-hue,huyen-hoai-duc
-,,,Huyện Phong ĐIền,41103,411,Xã Đông La,1013713,10137,,huyen-phong-dien,xa-dong-la,thua-thien-hue,huyen-hoai-duc
-,,,Huyện Quảng ĐIền,41105,411,Thị trấn Trạm Trôi,1013715,10137,,huyen-quang-dien,thi-tran-tram-troi,thua-thien-hue,huyen-hoai-duc
-,,,Thị Xã Hương Trà,41107,411,Xã Đức Thượng,1013717,10137,,thi-xa-huong-tra,xa-duc-thuong,thua-thien-hue,huyen-hoai-duc
-,,,Huyện Phú Vang,41109,411,Xã Minh Khai ,1013719,10137,,huyen-phu-vang,xa-minh-khai,thua-thien-hue,huyen-hoai-duc
-,,,Thị xã  Hương Thuỷ,41111,411,Xã Đức Giang,1013721,10137,,thi-xa--huong-thuy,xa-duc-giang,thua-thien-hue,huyen-hoai-duc
-,,,Huyện Phú Lộc,41113,411,Xã Cát Quế,1013723,10137,,huyen-phu-loc,xa-cat-que,thua-thien-hue,huyen-hoai-duc
-,,,Huyện A Lưới,41115,411,Xã Yên Sở,1013725,10137,,huyen-a-luoi,xa-yen-so,thua-thien-hue,huyen-hoai-duc
-,,,Huyện Nam Đông,41117,411,Xã Sơn Đồng,1013727,10137,,huyen-nam-dong,xa-son-dong,thua-thien-hue,huyen-hoai-duc
-,,,Quận Hải Châu,50101,501,Xã Vân Canh,1013729,10137,,quan-hai-chau,xa-van-canh,da-nang,huyen-hoai-duc
-,,,Quận Thanh Khê,50103,501,Xã Lại Yên,1013731,10137,,quan-thanh-khe,xa-lai-yen,da-nang,huyen-hoai-duc
-,,,Quận Sơn Trà,50105,501,Xã Tiền Yên,1013733,10137,,quan-son-tra,xa-tien-yen,da-nang,huyen-hoai-duc
-,,,Quận Ngũ Hành Sơn,50107,501,Xã An Thượng,1013735,10137,,quan-ngu-hanh-son,xa-an-thuong,da-nang,huyen-hoai-duc
-,,,Quận Liên Chiểu,50109,501,Xã Vân Côn,1013737,10137,,quan-lien-chieu,xa-van-con,da-nang,huyen-hoai-duc
-,,,Huyện Hoà Vang,50111,501,Xã La Phù,1013739,10137,,huyen-hoa-vang,xa-la-phu,da-nang,huyen-hoai-duc
-,,,Huyện Đảo Hoàng Sa,50113,501,Xã Ngọc Liệp,1013901,10139,,huyen-dao-hoang-sa,xa-ngoc-liep,da-nang,huyen-quoc-oai
-,,,Quận cẩm lệ,50115,501,Xã Đại Thành,1013903,10139,,quan-cam-le,xa-dai-thanh,da-nang,huyen-quoc-oai
-,,,Thành phố Tam Kỳ,50301,503,Xã Phượng Cách,1013905,10139,,thanh-pho-tam-ky,xa-phuong-cach,quang-nam,huyen-quoc-oai
-,,,Huyện Phú Ninh,50302,503,Xã Thạch Thán,1013907,10139,,huyen-phu-ninh,xa-thach-than,quang-nam,huyen-quoc-oai
-,,,Thành phố Hội An,50303,503,Xã Nghĩa Hương,1013909,10139,,thanh-pho-hoi-an,xa-nghia-huong,quang-nam,huyen-quoc-oai
-,,,Huyện Tây Giang,50304,503,Xã Phú Mãn,1013911,10139,,huyen-tay-giang,xa-phu-man,quang-nam,huyen-quoc-oai
-,,,Huyện Đông Giang,50305,503,Xã Đông Yên,1013913,10139,,huyen-dong-giang,xa-dong-yen,quang-nam,huyen-quoc-oai
-,,,Huyện Đại Lộc,50307,503,Thị trấn Quốc Oai,1013915,10139,,huyen-dai-loc,thi-tran-quoc-oai,quang-nam,huyen-quoc-oai
-,,,Thị Xã Điện Bàn,50309,503,Xã Sài Sơn,1013917,10139,,thi-xa-dien-ban,xa-sai-son,quang-nam,huyen-quoc-oai
-,,,Huyện Duy Xuyên,50311,503,Xã Yên Sơn,1013919,10139,,huyen-duy-xuyen,xa-yen-son,quang-nam,huyen-quoc-oai
-,,,Huyện Nam Giang,50313,503,Xã Ngọc Mỹ,1013921,10139,,huyen-nam-giang,xa-ngoc-my,quang-nam,huyen-quoc-oai
-,,,Huyện Thăng Bình,50315,503,Xã Liệp Tuyết,1013923,10139,,huyen-thang-binh,xa-liep-tuyet,quang-nam,huyen-quoc-oai
-,,,Huyện Quế Sơn,50317,503,Xã Đồng Quang,1013925,10139,,huyen-que-son,xa-dong-quang,quang-nam,huyen-quoc-oai
-,,,Huyện Nông Sơn,50318,503,Xã Phú Cát,1013927,10139,,huyen-nong-son,xa-phu-cat,quang-nam,huyen-quoc-oai
-,,,Huyện Hiệp Đức,50319,503,Xã Tuyết Nghĩa,1013929,10139,,huyen-hiep-duc,xa-tuyet-nghia,quang-nam,huyen-quoc-oai
-,,,Huyện Tiên Phước,50321,503,Xã Cộng Hòa,1013931,10139,,huyen-tien-phuoc,xa-cong-hoa,quang-nam,huyen-quoc-oai
-,,,Huyện Phước Sơn,50323,503,Xã Tân Phú,1013933,10139,,huyen-phuoc-son,xa-tan-phu,quang-nam,huyen-quoc-oai
-,,,Huyện Núi Thành,50325,503,Xã Cấn Hữu,1013935,10139,,huyen-nui-thanh,xa-can-huu,quang-nam,huyen-quoc-oai
-,,,Huyện Bắc Trà My,50327,503,Xã Tân Hòa,1013937,10139,,huyen-bac-tra-my,xa-tan-hoa,quang-nam,huyen-quoc-oai
-,,,Huyện Nam Trà My,50329,503,Xã Hòa Thạch,1013939,10139,,huyen-nam-tra-my,xa-hoa-thach,quang-nam,huyen-quoc-oai
-,,,Thành phố Quảng Ngãi,50501,505,Xã Đông Xuân ,1013941,10139,,thanh-pho-quang-ngai,xa-dong-xuan,quang-ngai,huyen-quoc-oai
-,,,Huyện Lý Sơn,50503,505,Xã Mỹ Hưng,1014101,10141,,huyen-ly-son,xa-my-hung,quang-ngai,huyen-thanh-oai
-,,,Huyện Bình Sơn,50505,505,Xã Thanh Mai,1014103,10141,,huyen-binh-son,xa-thanh-mai,quang-ngai,huyen-thanh-oai
-,,,Huyện Trà Bồng,50507,505,Xã Cao Dương,1014105,10141,,huyen-tra-bong,xa-cao-duong,quang-ngai,huyen-thanh-oai
-,,,Huyện Tây Trà,50508,505,Xã Cự Khê,1014107,10141,,huyen-tay-tra,xa-cu-khe,quang-ngai,huyen-thanh-oai
-,,,Huyện Sơn Tịnh,50509,505,Xã Kim An,1014109,10141,,huyen-son-tinh,xa-kim-an,quang-ngai,huyen-thanh-oai
-,,,Huyện Sơn Tây,50511,505,Xã Tân Ước,1014111,10141,,huyen-son-tay,xa-tan-uoc,quang-ngai,huyen-thanh-oai
-,,,Huyện SƠn Hà,50513,505,Xã Xuân Dương,1014113,10141,,huyen-son-ha,xa-xuan-duong,quang-ngai,huyen-thanh-oai
-,,,Huyện Tư Nghĩa,50515,505,Xã Cao Viên,1014115,10141,,huyen-tu-nghia,xa-cao-vien,quang-ngai,huyen-thanh-oai
-,,,Huyện NGhĩa Hành,50517,505,Xã Bình Minh,1014117,10141,,huyen-nghia-hanh,xa-binh-minh,quang-ngai,huyen-thanh-oai
-,,,Huyện MInh Long,50519,505,Xã Tam Hưng,1014119,10141,,huyen-minh-long,xa-tam-hung,quang-ngai,huyen-thanh-oai
-,,,Huyện Mộ Đức,50521,505,Xã Thanh Cao,1014121,10141,,huyen-mo-duc,xa-thanh-cao,quang-ngai,huyen-thanh-oai
-,,,Thị xã Đức Phổ,50523,505,Xã Thanh Thùy,1014123,10141,,thi-xa-duc-pho,xa-thanh-thuy,quang-ngai,huyen-thanh-oai
-,,,Huyện Ba Tơ,50525,505,Xã Thanh Văn,1014125,10141,,huyen-ba-to,xa-thanh-van,quang-ngai,huyen-thanh-oai
-,,,Thành phố Quy Nhơn,50701,507,Xã Đỗ Động,1014127,10141,,thanh-pho-quy-nhon,xa-do-dong,binh-dinh,huyen-thanh-oai
-,,,Huyện An Lão ,50703,507,Xã Kim Thư,1014129,10141,,huyen-an-lao,xa-kim-thu,binh-dinh,huyen-thanh-oai
-,,,Thị xã Hoài Nhơn,50705,507,Xã Phương Trung,1014131,10141,,thi-xa-hoai-nhon,xa-phuong-trung,binh-dinh,huyen-thanh-oai
-,,,Huyện Hoài Ân,50707,507,Xã Dân Hòa,1014133,10141,,huyen-hoai-an,xa-dan-hoa,binh-dinh,huyen-thanh-oai
-,,,Huyện Phù Mỹ,50709,507,Xã Liên Châu,1014135,10141,,huyen-phu-my,xa-lien-chau,binh-dinh,huyen-thanh-oai
-,,,Huyện Vĩnh Thạnh,50711,507,Xã Hồng Dương,1014137,10141,,huyen-vinh-thanh,xa-hong-duong,binh-dinh,huyen-thanh-oai
-,,,Huyện Phù Cát,50713,507,Thị trấn Kim Bài,1014139,10141,,huyen-phu-cat,thi-tran-kim-bai,binh-dinh,huyen-thanh-oai
-,,,Huyện Tây Sơn,50715,507,Xã Bích Hòa,1014141,10141,,huyen-tay-son,xa-bich-hoa,binh-dinh,huyen-thanh-oai
-,,,Thị xã An Nhơn,50717,507,Xã Hồng Vân,1014301,10143,,thi-xa-an-nhon,xa-hong-van,binh-dinh,huyen-thuong-tin
-,,,Huyện Tuy Phước,50719,507,Xã Quất Động,1014303,10143,,huyen-tuy-phuoc,xa-quat-dong,binh-dinh,huyen-thuong-tin
-,,,Huyện Vân Canh,50721,507,Xã Vạn Điểm,1014305,10143,,huyen-van-canh,xa-van-diem,binh-dinh,huyen-thuong-tin
-,,,Thành phố Tuy Hoà,50901,509,Xã Nhị Khê,1014307,10143,,thanh-pho-tuy-hoa,xa-nhi-khe,phu-yen,huyen-thuong-tin
-,,,Huyện Đồng Xuân,50903,509,Xã Văn Bình,1014309,10143,,huyen-dong-xuan,xa-van-binh,phu-yen,huyen-thuong-tin
-,,,Thị xã Sông Cầu,50905,509,Xã Liên Phương,1014311,10143,,thi-xa-song-cau,xa-lien-phuong,phu-yen,huyen-thuong-tin
-,,,Huyện Tuy An,50907,509,Xã Hà Hồi,1014313,10143,,huyen-tuy-an,xa-ha-hoi,phu-yen,huyen-thuong-tin
-,,,Huyện Sơn Hoà,50909,509,Xã Chương Dương,1014315,10143,,huyen-son-hoa,xa-chuong-duong,phu-yen,huyen-thuong-tin
-,,,Thị xã Đông Hòa,50911,509,Xã Dũng Tiến,1014317,10143,,thi-xa-dong-hoa,xa-dung-tien,phu-yen,huyen-thuong-tin
-,,,Huyện  Tây  Hoà,50912,509,Xã Văn Tự,1014319,10143,,huyen--tay--hoa,xa-van-tu,phu-yen,huyen-thuong-tin
-,,,Huyện Sông Hinh,50913,509,Thị trấn Thường Tín,1014321,10143,,huyen-song-hinh,thi-tran-thuong-tin,phu-yen,huyen-thuong-tin
-,,,Huyện Phú Hoà,50915,509,Xã Ninh Sở,1014323,10143,,huyen-phu-hoa,xa-ninh-so,phu-yen,huyen-thuong-tin
-,,,Thành phố Nha Trang,51101,511,Xã Duyên Thái,1014325,10143,,thanh-pho-nha-trang,xa-duyen-thai,khanh-hoa,huyen-thuong-tin
-,,,Huyện Vạn Ninh,51103,511,Xã Khánh Hà,1014327,10143,,huyen-van-ninh,xa-khanh-ha,khanh-hoa,huyen-thuong-tin
-,,,Thị xã Ninh Hoà,51105,511,Xã Hòa Bình,1014329,10143,,thi-xa-ninh-hoa,xa-hoa-binh,khanh-hoa,huyen-thuong-tin
-,,,Huyện Diên Khánh,51107,511,Xã Hiền Giang,1014331,10143,,huyen-dien-khanh,xa-hien-giang,khanh-hoa,huyen-thuong-tin
-,,,Thành phố Cam Ranh,51109,511,Xã Vân Tảo,1014333,10143,,thanh-pho-cam-ranh,xa-van-tao,khanh-hoa,huyen-thuong-tin
-,,,Huyện KHánh Vĩnh,51111,511,Xã Văn Phú,1014335,10143,,huyen-khanh-vinh,xa-van-phu,khanh-hoa,huyen-thuong-tin
-,,,Huyện Khánh Sơn,51113,511,Xã Tự Nhiên,1014337,10143,,huyen-khanh-son,xa-tu-nhien,khanh-hoa,huyen-thuong-tin
-,,,Huyện Trường Sa,51115,511,Xã Tiền Phong ,1014339,10143,,huyen-truong-sa,xa-tien-phong,khanh-hoa,huyen-thuong-tin
-,,,Huyện Cam Lâm,51117,511,Xã Thư Phú,1014341,10143,,huyen-cam-lam,xa-thu-phu,khanh-hoa,huyen-thuong-tin
-,,,Thành phố Kon Tum,60101,601,Xã Nguyễn Trãi,1014343,10143,,thanh-pho-kon-tum,xa-nguyen-trai,kon-tum,huyen-thuong-tin
-,,,Huyện Đắk Glei,60103,601,Xã Tân Minh ,1014345,10143,,huyen-dak-glei,xa-tan-minh,kon-tum,huyen-thuong-tin
-,,,Huyện Ngọc Hồi,60105,601,Xã Lê Lợi,1014347,10143,,huyen-ngoc-hoi,xa-le-loi,kon-tum,huyen-thuong-tin
-,,,Huyện Đắk Tô,60107,601,Xã Thắng Lợi,1014349,10143,,huyen-dak-to,xa-thang-loi,kon-tum,huyen-thuong-tin
-,,,Huyện Kon Rẫy,60108,601,Xã Thống Nhất,1014351,10143,,huyen-kon-ray,xa-thong-nhat,kon-tum,huyen-thuong-tin
-,,,Huyện Kon Plông,60109,601,Xã Nghiêm Xuyên,1014353,10143,,huyen-kon-plong,xa-nghiem-xuyen,kon-tum,huyen-thuong-tin
-,,,Huyện Đák Hà,60111,601,Xã Tô Hiệu,1014355,10143,,huyen-dak-ha,xa-to-hieu,kon-tum,huyen-thuong-tin
-,,,Huyện Sa Thầy,60113,601,Xã Minh Cường,1014357,10143,,huyen-sa-thay,xa-minh-cuong,kon-tum,huyen-thuong-tin
-,,,Huyện Ia H'Drai,60114,601,Thị trấn Đại Nghĩa,1014501,10145,,huyen-ia-h'drai,thi-tran-dai-nghia,kon-tum,huyen-my-duc
-,,,Huyện  Tu Mơ Rông,60115,601,Xã An Tiến,1014503,10145,,huyen--tu-mo-rong,xa-an-tien,kon-tum,huyen-my-duc
-,,,Thành phố Pleiku,60301,603,Xã Phúc Lâm,1014505,10145,,thanh-pho-pleiku,xa-phuc-lam,gia-lai,huyen-my-duc
-,,,Huyện Kbang,60303,603,Xã An Mỹ,1014507,10145,,huyen-kbang,xa-an-my,gia-lai,huyen-my-duc
-,,,Huyện Mang Yang,60305,603,Xã Xuy Xá,1014509,10145,,huyen-mang-yang,xa-xuy-xa,gia-lai,huyen-my-duc
-,,,Huyện Chư Păh,60307,603,Xã Phù Lưu Tế,1014511,10145,,huyen-chu-pah,xa-phu-luu-te,gia-lai,huyen-my-duc
-,,,Huyện Ia Grai,60309,603,Xã Đại Hưng,1014513,10145,,huyen-ia-grai,xa-dai-hung,gia-lai,huyen-my-duc
-,,,Thị xã An Khê,60311,603,Xã Vạn Kim,1014515,10145,,thi-xa-an-khe,xa-van-kim,gia-lai,huyen-my-duc
-,,,Huyện Kông Chro,60313,603,Xã Đốc Tín,1014517,10145,,huyen-kong-chro,xa-doc-tin,gia-lai,huyen-my-duc
-,,,Huyện Đức Cơ,60315,603,Xã Hương Sơn,1014519,10145,,huyen-duc-co,xa-huong-son,gia-lai,huyen-my-duc
-,,,Huyện Chư Prông,60317,603,Xã Hùng Tiến,1014521,10145,,huyen-chu-prong,xa-hung-tien,gia-lai,huyen-my-duc
-,,,Huyện Chư Sê,60319,603,Xã Hợp Tiến,1014523,10145,,huyen-chu-se,xa-hop-tien,gia-lai,huyen-my-duc
-,,,Huyện IaPa,60320,603,Xã Hợp Thanh,1014525,10145,,huyen-iapa,xa-hop-thanh,gia-lai,huyen-my-duc
-,,,Thị xã Ayun Pa,60321,603,Xã An Phú,1014527,10145,,thi-xa-ayun-pa,xa-an-phu,gia-lai,huyen-my-duc
-,,,Huyện Krông Pa,60323,603,Xã Phùng Xá ,1014529,10145,,huyen-krong-pa,xa-phung-xa,gia-lai,huyen-my-duc
-,,,Huyện Đak Đoa,60325,603,Xã Đồng Tâm,1014531,10145,,huyen-dak-doa,xa-dong-tam,gia-lai,huyen-my-duc
-,,,Huyện ĐakPơ,60327,603,Xã Thượng Lâm,1014533,10145,,huyen-dakpo,xa-thuong-lam,gia-lai,huyen-my-duc
-,,,Huyện Phú Thiện,60329,603,Xã Tuy Lai,1014535,10145,,huyen-phu-thien,xa-tuy-lai,gia-lai,huyen-my-duc
-,,,Huyện Chư Pưh,60331,603,Xã Mỹ Thành,1014537,10145,,huyen-chu-puh,xa-my-thanh,gia-lai,huyen-my-duc
-,,,Thành phố Buôn Ma Thuột,60501,605,Xã Bột Xuyên,1014539,10145,,thanh-pho-buon-ma-thuot,xa-bot-xuyen,dak-lak,huyen-my-duc
-,,,Huyện Ea H'leo,60503,605,Xã Hồng Sơn,1014541,10145,,huyen-ea-h'leo,xa-hong-son,dak-lak,huyen-my-duc
-,,,Huyện Ea Súp,60505,605,Xã Lê Thanh,1014543,10145,,huyen-ea-sup,xa-le-thanh,dak-lak,huyen-my-duc
-,,,Huyện Krông Năng,60507,605,Xã Đông Lỗ,1014701,10147,,huyen-krong-nang,xa-dong-lo,dak-lak,huyen-ung-hoa
-,,,Thị xã Buôn Hồ,60509,605,Xã Hòa Xá,1014703,10147,,thi-xa-buon-ho,xa-hoa-xa,dak-lak,huyen-ung-hoa
-,,,Huyện Buôn Đôn,60511,605,Xã Sơn Công,1014705,10147,,huyen-buon-don,xa-son-cong,dak-lak,huyen-ung-hoa
-,,,Huyện Cư M'gar,60513,605,Xã Viên An,1014707,10147,,huyen-cu-m'gar,xa-vien-an,dak-lak,huyen-ung-hoa
-,,,Huyện Ea Kar,60515,605,Xã Trường Thịnh,1014709,10147,,huyen-ea-kar,xa-truong-thinh,dak-lak,huyen-ung-hoa
-,,,Huyện M'ĐrắK,60517,605,Xã Đồng Tiến,1014711,10147,,huyen-m'drak,xa-dong-tien,dak-lak,huyen-ung-hoa
-,,,Huyện Krông Pắk,60519,605,Xã Tảo Dương Văn,1014713,10147,,huyen-krong-pak,xa-tao-duong-van,dak-lak,huyen-ung-hoa
-,,,Huyện Krông A Na,60523,605,Xã Trầm Lộng,1014715,10147,,huyen-krong-a-na,xa-tram-long,dak-lak,huyen-ung-hoa
-,,,Huyện Krông Bông,60525,605,Xã Lưu Hoàng,1014717,10147,,huyen-krong-bong,xa-luu-hoang,dak-lak,huyen-ung-hoa
-,,,Huyện Lắk,60531,605,Thị trấn Vân Đình,1014719,10147,,huyen-lak,thi-tran-van-dinh,dak-lak,huyen-ung-hoa
-,,,Huyện Cư Kuin,60537,605,Xã Viên Nội,1014721,10147,,huyen-cu-kuin,xa-vien-noi,dak-lak,huyen-ung-hoa
-,,,Huyện Krông Búk,60539,605,Xã Hoa Sơn,1014723,10147,,huyen-krong-buk,xa-hoa-son,dak-lak,huyen-ung-hoa
-,,,Huyện Cư Jút,60603,606,Xã Quảng Phú Cầu,1014725,10147,,huyen-cu-jut,xa-quang-phu-cau,dak-nong,huyen-ung-hoa
-,,,Huyện Krông Nô,60605,606,Xã Cao Thành,1014727,10147,,huyen-krong-no,xa-cao-thanh,dak-nong,huyen-ung-hoa
-,,,Huyện Đắk Mil,60607,606,Xã Liên Bạt,1014729,10147,,huyen-dak-mil,xa-lien-bat,dak-nong,huyen-ung-hoa
-,,,Huyện Đắk Song,60609,606,Xã Phương Tú,1014731,10147,,huyen-dak-song,xa-phuong-tu,dak-nong,huyen-ung-hoa
-,,,Huyện Đắk R'Lấp,60611,606,Xã Trung Tú,1014733,10147,,huyen-dak-r'lap,xa-trung-tu,dak-nong,huyen-ung-hoa
-,,,Thành phố Gia Nghĩa,60613,606,Xã Đồng Tân,1014735,10147,,thanh-pho-gia-nghia,xa-dong-tan,dak-nong,huyen-ung-hoa
-,,,Huyện Đắk Glong,60615,606,Xã Vạn Thái,1014737,10147,,huyen-dak-glong,xa-van-thai,dak-nong,huyen-ung-hoa
-,,,Huyện Tuy Đức,60617,606,Xã Minh Đức,1014739,10147,,huyen-tuy-duc,xa-minh-duc,dak-nong,huyen-ung-hoa
-,,,Quận 1,70101,701,Xã Hòa Lâm,1014741,10147,,quan-1,xa-hoa-lam,ho-chi-minh,huyen-ung-hoa
-,,,Quận 2,70103,701,Xã Kim Đường,1014743,10147,,quan-2,xa-kim-duong,ho-chi-minh,huyen-ung-hoa
-,,,Quận 3,70105,701,Xã Hòa Nam,1014745,10147,,quan-3,xa-hoa-nam,ho-chi-minh,huyen-ung-hoa
-,,,Quận 4,70107,701,Xã Hòa Phú,1014747,10147,,quan-4,xa-hoa-phu,ho-chi-minh,huyen-ung-hoa
-,,,Quận 5,70109,701,Xã Đội Bình,1014749,10147,,quan-5,xa-doi-binh,ho-chi-minh,huyen-ung-hoa
-,,,Quận 6,70111,701,Xã Đại Hùng,1014751,10147,,quan-6,xa-dai-hung,ho-chi-minh,huyen-ung-hoa
-,,,Quận 7,70113,701,Xã Phù Lưu,1014753,10147,,quan-7,xa-phu-luu,ho-chi-minh,huyen-ung-hoa
-,,,Quận 8,70115,701,Xã Đại Cường,1014755,10147,,quan-8,xa-dai-cuong,ho-chi-minh,huyen-ung-hoa
-,,,Quận 9,70117,701,Xã Hồng Quang,1014757,10147,,quan-9,xa-hong-quang,ho-chi-minh,huyen-ung-hoa
-,,,Quận 10,70119,701,Xã Phú Túc,1014901,10149,,quan-10,xa-phu-tuc,ho-chi-minh,huyen-phu-xuyen
-,,,Quận 11,70121,701,Xã Khai Thái,1014903,10149,,quan-11,xa-khai-thai,ho-chi-minh,huyen-phu-xuyen
-,,,Quận 12,70123,701,Xã Minh Tân,1014905,10149,,quan-12,xa-minh-tan,ho-chi-minh,huyen-phu-xuyen
-,,,Quận Gò Vấp,70125,701,Xã Nam Phong,1014907,10149,,quan-go-vap,xa-nam-phong,ho-chi-minh,huyen-phu-xuyen
-,,,Quận Tân Bình,70127,701,Xã Chuyên Mỹ,1014909,10149,,quan-tan-binh,xa-chuyen-my,ho-chi-minh,huyen-phu-xuyen
-,,,Quận Tân phú,70128,701,Xã Tri Thủy,1014911,10149,,quan-tan-phu,xa-tri-thuy,ho-chi-minh,huyen-phu-xuyen
-,,,Quận Bình Thạnh,70129,701,Xã Quang Lãng,1014913,10149,,quan-binh-thanh,xa-quang-lang,ho-chi-minh,huyen-phu-xuyen
-,,,Quận Phú Nhuận,70131,701,Xã Văn Hoàng,1014915,10149,,quan-phu-nhuan,xa-van-hoang,ho-chi-minh,huyen-phu-xuyen
-,,,Quận Thủ Đức,70133,701,Thị trấn Phú Xuyên,1014917,10149,,quan-thu-duc,thi-tran-phu-xuyen,ho-chi-minh,huyen-phu-xuyen
-,,,Quận Bình Tân,70134,701,Xã Thụy Phú,1014919,10149,,quan-binh-tan,xa-thuy-phu,ho-chi-minh,huyen-phu-xuyen
-,,,Huyện Củ Chi,70135,701,Thị trấn Phú Minh,1014921,10149,,huyen-cu-chi,thi-tran-phu-minh,ho-chi-minh,huyen-phu-xuyen
-,,,Huyện Hóc Môn,70137,701,Xã Hồng Minh,1014923,10149,,huyen-hoc-mon,xa-hong-minh,ho-chi-minh,huyen-phu-xuyen
-,,,Huyện Bình Chánh,70139,701,Xã Phượng Dực,1014925,10149,,huyen-binh-chanh,xa-phuong-duc,ho-chi-minh,huyen-phu-xuyen
-,,,Huyện Nhà Bè,70141,701,Xã Văn Nhân,1014927,10149,,huyen-nha-be,xa-van-nhan,ho-chi-minh,huyen-phu-xuyen
-,,,Huyện Cần Giờ,70143,701,Xã Tri Trung,1014929,10149,,huyen-can-gio,xa-tri-trung,ho-chi-minh,huyen-phu-xuyen
-,,,Thành phố Đà Lạt,70301,703,Xã Đại Thắng,1014931,10149,,thanh-pho-da-lat,xa-dai-thang,lam-dong,huyen-phu-xuyen
-,,,Thành phố Bảo Lộc,70303,703,Xã Hồng Thái,1014933,10149,,thanh-pho-bao-loc,xa-hong-thai,lam-dong,huyen-phu-xuyen
-,,,Huyện Lạc Dương,70305,703,Xã Hoàng Long,1014935,10149,,huyen-lac-duong,xa-hoang-long,lam-dong,huyen-phu-xuyen
-,,,Huyện Đơn Dương,70307,703,Xã Quang Trung,1014937,10149,,huyen-don-duong,xa-quang-trung,lam-dong,huyen-phu-xuyen
-,,,Huyện Đức Trọng,70309,703,Xã Nam Triều,1014939,10149,,huyen-duc-trong,xa-nam-trieu,lam-dong,huyen-phu-xuyen
-,,,Huyện Lâm Hà,70311,703,Xã Tân Dân ,1014941,10149,,huyen-lam-ha,xa-tan-dan,lam-dong,huyen-phu-xuyen
-,,,Huyện Bảo Lâm ,70313,703,Xã Sơn Hà,1014943,10149,,huyen-bao-lam,xa-son-ha,lam-dong,huyen-phu-xuyen
-,,,Huyện Di Linh,70315,703,Xã Phúc Tiến,1014945,10149,,huyen-di-linh,xa-phuc-tien,lam-dong,huyen-phu-xuyen
-,,,Huyện Đạ Huoai,70317,703,Xã Vân Từ,1014947,10149,,huyen-da-huoai,xa-van-tu,lam-dong,huyen-phu-xuyen
-,,,Huyện Đạ Tẻh,70319,703,Xã Đại Xuyên,1014949,10149,,huyen-da-teh,xa-dai-xuyen,lam-dong,huyen-phu-xuyen
-,,,Huyện Cát Tiên,70321,703,Xã Phú Yên,1014951,10149,,huyen-cat-tien,xa-phu-yen,lam-dong,huyen-phu-xuyen
-,,,Huyện Đam Rông,70323,703,Xã Bạch Hạ,1014953,10149,,huyen-dam-rong,xa-bach-ha,lam-dong,huyen-phu-xuyen
-,,,Thành phố Phan Rang-Tháp Chàm,70501,705,Xã Châu Can,1014955,10149,,thanh-pho-phan-rang-thap-cham,xa-chau-can,ninh-thuan,huyen-phu-xuyen
-,,,Huyện Ninh Sơn,70503,705,Xã Nam Tiến   ,1014957,10149,,huyen-ninh-son,xa-nam-tien,ninh-thuan,huyen-phu-xuyen
-,,,Huyện Ninh Hải,70505,705,Xã Phú Cường ,1015101,10151,,huyen-ninh-hai,xa-phu-cuong,ninh-thuan,huyen-ba-vi
-,,,Huyện Ninh Phước,70507,705,Xã Cổ Đô,1015103,10151,,huyen-ninh-phuoc,xa-co-do,ninh-thuan,huyen-ba-vi
-,,,Huyện Bác ái,70509,705,Xã Tản Hồng,1015105,10151,,huyen-bac-ai,xa-tan-hong,ninh-thuan,huyen-ba-vi
-,,,Huyện Thuận Bắc,70511,705,Xã Châu Sơn,1015107,10151,,huyen-thuan-bac,xa-chau-son,ninh-thuan,huyen-ba-vi
-,,,Huyện Thuận Nam,70513,705,Xã Phong Vân,1015109,10151,,huyen-thuan-nam,xa-phong-van,ninh-thuan,huyen-ba-vi
-,,,Huyện Đồng Phú,70701,707,Xã Phú Đông,1015111,10151,,huyen-dong-phu,xa-phu-dong,binh-phuoc,huyen-ba-vi
-,,,Thị xã  Phước Long,70703,707,Xã Phú Châu,1015113,10151,,thi-xa--phuoc-long,xa-phu-chau,binh-phuoc,huyen-ba-vi
-,,,Huyện Lộc Ninh,70705,707,Xã Thái Hòa,1015115,10151,,huyen-loc-ninh,xa-thai-hoa,binh-phuoc,huyen-ba-vi
-,,,Huyện Bù Đốp,70706,707,Xã Đồng Thái,1015117,10151,,huyen-bu-dop,xa-dong-thai,binh-phuoc,huyen-ba-vi
-,,,Huyện Bù Đăng,70707,707,Xã Minh Châu,1015119,10151,,huyen-bu-dang,xa-minh-chau,binh-phuoc,huyen-ba-vi
-,,,Thị xã  Bình Long,70709,707,Xã Chu Minh,1015121,10151,,thi-xa--binh-long,xa-chu-minh,binh-phuoc,huyen-ba-vi
-,,,Huyện Chơn Thành,70710,707,Xã Cẩm Lĩnh,1015123,10151,,huyen-chon-thanh,xa-cam-linh,binh-phuoc,huyen-ba-vi
-,,,Thành phố Đồng Xoài,70711,707,Xã Sơn Đà,1015125,10151,,thanh-pho-dong-xoai,xa-son-da,binh-phuoc,huyen-ba-vi
-,,,Huyện Hớn Quản,70713,707,Xã Đông Quang,1015127,10151,,huyen-hon-quan,xa-dong-quang,binh-phuoc,huyen-ba-vi
-,,,Huyện Bù Gia Mập,70715,707,Xã Thụy An,1015129,10151,,huyen-bu-gia-map,xa-thuy-an,binh-phuoc,huyen-ba-vi
-,,,Huyện Phú Riềng,70716,707,Xã Cam Thượng,1015131,10151,,huyen-phu-rieng,xa-cam-thuong,binh-phuoc,huyen-ba-vi
-,,,Thành phố Tây Ninh,70901,709,Xã Thuần Mỹ,1015133,10151,,thanh-pho-tay-ninh,xa-thuan-my,tay-ninh,huyen-ba-vi
-,,,Huyện Tân Biên,70903,709,Xã Ba Trại,1015135,10151,,huyen-tan-bien,xa-ba-trai,tay-ninh,huyen-ba-vi
-,,,Huyện Tân Châu,70905,709,Xã Minh Quang,1015137,10151,,huyen-tan-chau,xa-minh-quang,tay-ninh,huyen-ba-vi
-,,,Huyện Dương Minh Châu,70907,709,Xã Ba Vì,1015139,10151,,huyen-duong-minh-chau,xa-ba-vi,tay-ninh,huyen-ba-vi
-,,,Huyện Châu Thành,70909,709,Xã Khánh Thượng,1015141,10151,,huyen-chau-thanh,xa-khanh-thuong,tay-ninh,huyen-ba-vi
-,,,Thị xã Hoà Thành,70911,709,Xã Vật Lại,1015145,10151,,thi-xa-hoa-thanh,xa-vat-lai,tay-ninh,huyen-ba-vi
-,,,Huyện Bến Cầu,70913,709,Xã Yên Bài,1015147,10151,,huyen-ben-cau,xa-yen-bai,tay-ninh,huyen-ba-vi
-,,,Huyện Gò Dầu,70915,709,Thị trấn Tây Đằng,1015149,10151,,huyen-go-dau,thi-tran-tay-dang,tay-ninh,huyen-ba-vi
-,,,Thị xã Trảng Bàng,70917,709,Xã Vạn Thắng,1015151,10151,,thi-xa-trang-bang,xa-van-thang,tay-ninh,huyen-ba-vi
-,,,Thành phố Thủ Dầu Một,71101,711,Xã Phú Phương,1015153,10151,,thanh-pho-thu-dau-mot,xa-phu-phuong,binh-duong,huyen-ba-vi
-,,,Thị Xã  Bến Cát,71103,711,Xã Phú Sơn,1015155,10151,,thi-xa--ben-cat,xa-phu-son,binh-duong,huyen-ba-vi
-,,,Thị xã Tân Uyên,71105,711,Xã Tòng Bạt,1015157,10151,,thi-xa-tan-uyen,xa-tong-bat,binh-duong,huyen-ba-vi
-,,,Thành phố Thuận An,71107,711,Xã Tiên Phong,1015159,10151,,thanh-pho-thuan-an,xa-tien-phong,binh-duong,huyen-ba-vi
-,,,Thành phố  Dĩ An,71109,711,Xã Tản Lĩnh,1015161,10151,,thanh-pho--di-an,xa-tan-linh,binh-duong,huyen-ba-vi
-,,,Huyện Phú Giáo,71111,711,Xã Vân Hòa,1015163,10151,,huyen-phu-giao,xa-van-hoa,binh-duong,huyen-ba-vi
-,,,Huyện Dầu tiếng,71113,711,Xã Tiên Phương,1015301,10153,,huyen-dau-tieng,xa-tien-phuong,binh-duong,huyen-chuong-my
-,,,Huyện Bàu Bàng,71115,711,Xã Đại Yên,1015303,10153,,huyen-bau-bang,xa-dai-yen,binh-duong,huyen-chuong-my
-,,,Huyện Bắc Tân Uyên,71117,711,Xã Quảng Bị,1015305,10153,,huyen-bac-tan-uyen,xa-quang-bi,binh-duong,huyen-chuong-my
-,,,Thành phố Biên Hoà,71301,713,Xã Phú Nam An,1015307,10153,,thanh-pho-bien-hoa,xa-phu-nam-an,dong-nai,huyen-chuong-my
-,,,Thành phố Long khánh,71302,713,Xã Phụng Châu,1015309,10153,,thanh-pho-long-khanh,xa-phung-chau,dong-nai,huyen-chuong-my
-,,,Huyện Tân Phú,71303,713,Xã Phú Nghĩa,1015311,10153,,huyen-tan-phu,xa-phu-nghia,dong-nai,huyen-chuong-my
-,,,Huyện Định Quán,71305,713,Xã Thủy Xuân Tiên,1015313,10153,,huyen-dinh-quan,xa-thuy-xuan-tien,dong-nai,huyen-chuong-my
-,,,Huyện Vĩnh Cửu,71307,713,Xã Tốt Động,1015315,10153,,huyen-vinh-cuu,xa-tot-dong,dong-nai,huyen-chuong-my
-,,,Huyện Trảng Bom,71308,713,Xã Hợp Đồng,1015317,10153,,huyen-trang-bom,xa-hop-dong,dong-nai,huyen-chuong-my
-,,,Huyện Thống Nhất,71309,713,Xã Hữu Văn,1015319,10153,,huyen-thong-nhat,xa-huu-van,dong-nai,huyen-chuong-my
-,,,Huyện Cẩm Mỹ,71311,713,Xã Hồng Phong,1015321,10153,,huyen-cam-my,xa-hong-phong,dong-nai,huyen-chuong-my
-,,,Huyện Xuân Lộc,71313,713,Xã Đồng Lạc,1015323,10153,,huyen-xuan-loc,xa-dong-lac,dong-nai,huyen-chuong-my
-,,,Huyện Long Thành,71315,713,Thị trấn Chúc Sơn,1015325,10153,,huyen-long-thanh,thi-tran-chuc-son,dong-nai,huyen-chuong-my
-,,,Huyện Nhơn Trạch,71317,713,Thị trấn Xuân Mai,1015327,10153,,huyen-nhon-trach,thi-tran-xuan-mai,dong-nai,huyen-chuong-my
-,,,Thành phố  Phan Thiết,71501,715,Xã Đông Sơn,1015329,10153,,thanh-pho--phan-thiet,xa-dong-son,binh-thuan,huyen-chuong-my
-,,,Huyện Tuy Phong,71503,715,Xã Đông Phương Yên,1015331,10153,,huyen-tuy-phong,xa-dong-phuong-yen,binh-thuan,huyen-chuong-my
-,,,Huyện Bắc Bình,71505,715,Xã Trường Yên,1015335,10153,,huyen-bac-binh,xa-truong-yen,binh-thuan,huyen-chuong-my
-,,,Huyện Hàm Thuận Bắc,71507,715,Xã Ngọc Hòa,1015337,10153,,huyen-ham-thuan-bac,xa-ngoc-hoa,binh-thuan,huyen-chuong-my
-,,,Huyện Hàm Thuận Nam,71509,715,Xã Thanh Bình,1015339,10153,,huyen-ham-thuan-nam,xa-thanh-binh,binh-thuan,huyen-chuong-my
-,,,Huyện Tánh Linh,71511,715,Xã Trung Hòa,1015341,10153,,huyen-tanh-linh,xa-trung-hoa,binh-thuan,huyen-chuong-my
-,,,Thị xã La Gi,71513,715,Xã Thụy Hương,1015343,10153,,thi-xa-la-gi,xa-thuy-huong,binh-thuan,huyen-chuong-my
-,,,Huyện Hàm Tân,71514,715,Xã Lam Điền,1015345,10153,,huyen-ham-tan,xa-lam-dien,binh-thuan,huyen-chuong-my
-,,,Huyện Đức Linh,71515,715,Xã Tân Tiến,1015347,10153,,huyen-duc-linh,xa-tan-tien,binh-thuan,huyen-chuong-my
-,,,Huyện Phú Quý,71517,715,Xã Nam Phương Tiến,1015349,10153,,huyen-phu-quy,xa-nam-phuong-tien,binh-thuan,huyen-chuong-my
-,,,Thành phố Vũng Tàu,71701,717,Xã Hoàng Văn Thụ,1015351,10153,,thanh-pho-vung-tau,xa-hoang-van-thu,ba-ria-vung-tau,huyen-chuong-my
-,,,Thành Phố Bà Rịa,71703,717,Xã Hoàng Diệu,1015353,10153,,thanh-pho-ba-ria,xa-hoang-dieu,ba-ria-vung-tau,huyen-chuong-my
-,,,Huyện Châu Đức,71705,717,Xã Mỹ Lương,1015355,10153,,huyen-chau-duc,xa-my-luong,ba-ria-vung-tau,huyen-chuong-my
-,,,Huyện Xuyên Mộc,71707,717,Xã Thượng Vực,1015357,10153,,huyen-xuyen-moc,xa-thuong-vuc,ba-ria-vung-tau,huyen-chuong-my
-,,,Thị Xã Phú Mỹ,71709,717,Xã Đồng Phú,1015359,10153,,thi-xa-phu-my,xa-dong-phu,ba-ria-vung-tau,huyen-chuong-my
-,,,Huyện Long Điền,71711,717,Xã Trần Phú,1015361,10153,,huyen-long-dien,xa-tran-phu,ba-ria-vung-tau,huyen-chuong-my
-,,,Huyện Đất đỏ,71712,717,Xã Văn Võ,1015363,10153,,huyen-dat-do,xa-van-vo,ba-ria-vung-tau,huyen-chuong-my
-,,,Huyện Côn Đảo,71713,717,Xã Hòa Chính,1015365,10153,,huyen-con-dao,xa-hoa-chinh,ba-ria-vung-tau,huyen-chuong-my
-,,,Thành phố Tân An,80101,801,Phường Xuân Phương,1015501,10155,,thanh-pho-tan-an,phuong-xuan-phuong,long-an,quan-nam-tu-liem
-,,,Huyện Tân Hưng,80103,801,Phường Phương Canh,1015503,10155,,huyen-tan-hung,phuong-phuong-canh,long-an,quan-nam-tu-liem
-,,,Huyện Vĩnh Hưng,80105,801,Phường Tây Mỗ,1015505,10155,,huyen-vinh-hung,phuong-tay-mo,long-an,quan-nam-tu-liem
-,,,Huyện Mộc Hoá,80107,801,Phường Đại Mỗ,1015507,10155,,huyen-moc-hoa,phuong-dai-mo,long-an,quan-nam-tu-liem
-,,,Huyện Tân Thạnh,80109,801,Phường Cầu Diễn,1015509,10155,,huyen-tan-thanh,phuong-cau-dien,long-an,quan-nam-tu-liem
-,,,Huyện Thạnh Hoá,80111,801,Phường Mỹ Đình 1,1015511,10155,,huyen-thanh-hoa,phuong-my-dinh-1,long-an,quan-nam-tu-liem
-,,,Huyện Đức Huệ,80113,801,Phường Mỹ Đình 2,1015513,10155,,huyen-duc-hue,phuong-my-dinh-2,long-an,quan-nam-tu-liem
-,,,Huyện Đức Hoà,80115,801,Phường Mễ Trì,1015515,10155,,huyen-duc-hoa,phuong-me-tri,long-an,quan-nam-tu-liem
-,,,Huyện Bến Lức,80117,801,Phường Phú Đô,1015517,10155,,huyen-ben-luc,phuong-phu-do,long-an,quan-nam-tu-liem
-,,,Huyện Thủ Thừa,80119,801,Phường Trung Văn,1015519,10155,,huyen-thu-thua,phuong-trung-van,long-an,quan-nam-tu-liem
-,,,Huyện Châu Thành ,80121,801,Phường Xuân Đỉnh,1015701,10157,,huyen-chau-thanh,phuong-xuan-dinh,long-an,quan-bac-tu-liem
-,,,Huyện Tân Trụ,80123,801,Phường Xuân Tảo,1015703,10157,,huyen-tan-tru,phuong-xuan-tao,long-an,quan-bac-tu-liem
-,,,Huyện Cần Đước,80125,801,Phường Đông Ngạc,1015705,10157,,huyen-can-duoc,phuong-dong-ngac,long-an,quan-bac-tu-liem
-,,,Huyện Cần Giuộc,80127,801,Phường Đức Thắng,1015707,10157,,huyen-can-giuoc,phuong-duc-thang,long-an,quan-bac-tu-liem
-,,,Thị xã Kiến Tường,80129,801,Phường Thụy Phương,1015709,10157,,thi-xa-kien-tuong,phuong-thuy-phuong,long-an,quan-bac-tu-liem
-,,,Thành phố Cao Lãnh,80301,803,Phường Cổ Nhuế 1,1015711,10157,,thanh-pho-cao-lanh,phuong-co-nhue-1,dong-thap,quan-bac-tu-liem
-,,,Thị xã Sa Đéc,80303,803,Phường Cổ Nhuế 2,1015713,10157,,thi-xa-sa-dec,phuong-co-nhue-2,dong-thap,quan-bac-tu-liem
-,,,Huyện Tân Hồng,80305,803,Phường Liên Mạc,1015715,10157,,huyen-tan-hong,phuong-lien-mac,dong-thap,quan-bac-tu-liem
-,,,Huyện Hồng Ngự,80307,803,Phường Thượng Cát,1015717,10157,,huyen-hong-ngu,phuong-thuong-cat,dong-thap,quan-bac-tu-liem
-,,,Huyện Tam Nông ,80309,803,Phường Tây Tựu,1015719,10157,,huyen-tam-nong,phuong-tay-tuu,dong-thap,quan-bac-tu-liem
-,,,Huyện Thanh Bình,80311,803,Phường Minh Khai ,1015721,10157,,huyen-thanh-binh,phuong-minh-khai,dong-thap,quan-bac-tu-liem
-,,,Huyện Tháp mười,80313,803,Phường Phú Diễn,1015723,10157,,huyen-thap-muoi,phuong-phu-dien,dong-thap,quan-bac-tu-liem
-,,,Huyện Cao Lãnh,80315,803,Phường Phúc Diễn,1015725,10157,,huyen-cao-lanh,phuong-phuc-dien,dong-thap,quan-bac-tu-liem
-,,,Huyện Lấp Vò,80317,803,Phường Hạ Lý,1030101,10301,,huyen-lap-vo,phuong-ha-ly,dong-thap,quan-hong-bang
-,,,Huyện Lai Vung,80319,803,Phường Sở Dầu,1030103,10301,,huyen-lai-vung,phuong-so-dau,dong-thap,quan-hong-bang
-,,,Huyện Châu Thành  ,80321,803,Phường Trại Chuối,1030105,10301,,huyen-chau-thanh,phuong-trai-chuoi,dong-thap,quan-hong-bang
-,,,Thị xã Hồng Ngự,80323,803,Phường Quán Toan,1030107,10301,,thi-xa-hong-ngu,phuong-quan-toan,dong-thap,quan-hong-bang
-,,,Thành phố Long Xuyên,80501,805,Phường Hùng Vương,1030109,10301,,thanh-pho-long-xuyen,phuong-hung-vuong,an-giang,quan-hong-bang
-,,,Thành phố Châu Đốc,80503,805,Phường Thượng Lý,1030111,10301,,thanh-pho-chau-doc,phuong-thuong-ly,an-giang,quan-hong-bang
-,,,Huyện An Phú,80505,805,Phường Minh Khai  ,1030113,10301,,huyen-an-phu,phuong-minh-khai,an-giang,quan-hong-bang
-,,,Thị xã Tân Châu,80507,805,Phường Quang Trung,1030115,10301,,thi-xa-tan-chau,phuong-quang-trung,an-giang,quan-hong-bang
-,,,Huyện Phú Tân,80509,805,Phường Hoàng Văn Thụ ,1030117,10301,,huyen-phu-tan,phuong-hoang-van-thu,an-giang,quan-hong-bang
-,,,Huyện Châu Phú,80511,805,Phường Phan Bội Châu,1030119,10301,,huyen-chau-phu,phuong-phan-boi-chau,an-giang,quan-hong-bang
-,,,Huyện Tịnh Biên,80513,805,Phường Phạm Hồng Thái,1030121,10301,,huyen-tinh-bien,phuong-pham-hong-thai,an-giang,quan-hong-bang
-,,,Huyện Tri Tôn,80515,805,Phường Cầu Tre,1030301,10303,,huyen-tri-ton,phuong-cau-tre,an-giang,quan-ngo-quyen
-,,,Huyện Chợ Mới ,80517,805,Phường Máy Chai,1030303,10303,,huyen-cho-moi,phuong-may-chai,an-giang,quan-ngo-quyen
-,,,Huyện Châu Thành   ,80519,805,Phường Lạc Viên,1030305,10303,,huyen-chau-thanh,phuong-lac-vien,an-giang,quan-ngo-quyen
-,,,Huyện Thoại Sơn,80521,805,Phường Cầu Đất,1030307,10303,,huyen-thoai-son,phuong-cau-dat,an-giang,quan-ngo-quyen
-,,,Thành phố Mỹ Tho,80701,807,Phường Máy Tơ,1030309,10303,,thanh-pho-my-tho,phuong-may-to,tien-giang,quan-ngo-quyen
-,,,Thị xã Gò Công,80703,807,Phường Vạn Mỹ,1030311,10303,,thi-xa-go-cong,phuong-van-my,tien-giang,quan-ngo-quyen
-,,,Huyện Tân Phước,80705,807,Phường Lương Khánh Thiện,1030313,10303,,huyen-tan-phuoc,phuong-luong-khanh-thien,tien-giang,quan-ngo-quyen
-,,,Huyện Châu Thành    ,80707,807,Phường Gia Viên,1030315,10303,,huyen-chau-thanh,phuong-gia-vien,tien-giang,quan-ngo-quyen
-,,,Huyện Cai Lậy,80709,807,Phường Đông Khê,1030317,10303,,huyen-cai-lay,phuong-dong-khe,tien-giang,quan-ngo-quyen
-,,,Huyện Chợ Gạo,80711,807,Phường Lê Lợi ,1030319,10303,,huyen-cho-gao,phuong-le-loi,tien-giang,quan-ngo-quyen
-,,,Huyện Cái Bè,80713,807,Phường Đằng Giang,1030321,10303,,huyen-cai-be,phuong-dang-giang,tien-giang,quan-ngo-quyen
-,,,Huyện Gò Công Tây,80715,807,Phường Lạch Tray,1030323,10303,,huyen-go-cong-tay,phuong-lach-tray,tien-giang,quan-ngo-quyen
-,,,Huyện Gò Công Đông,80717,807,Phường Đổng Quốc Bình,1030325,10303,,huyen-go-cong-dong,phuong-dong-quoc-binh,tien-giang,quan-ngo-quyen
-,,,Huyện Tân Phú Đông,80719,807,Phường Đằng Lâm,1030403,10304,,huyen-tan-phu-dong,phuong-dang-lam,tien-giang,quan-hai-an
-,,,Thị Xã Cai Lậy,80721,807,Phường Đằng Hải,1030405,10304,,thi-xa-cai-lay,phuong-dang-hai,tien-giang,quan-hai-an
-,,,Thành phố  Vĩnh Long,80901,809,Phường Nam Hải,1030407,10304,,thanh-pho--vinh-long,phuong-nam-hai,vinh-long,quan-hai-an
-,,,Huyện Long Hồ,80903,809,Phường Cát Bi,1030409,10304,,huyen-long-ho,phuong-cat-bi,vinh-long,quan-hai-an
-,,,Huyện Mang Thít,80905,809,Phường Tràng Cát,1030411,10304,,huyen-mang-thit,phuong-trang-cat,vinh-long,quan-hai-an
-,,,Thị xã Bình Minh,80907,809,Phường Đông Hải 1,1030413,10304,,thi-xa-binh-minh,phuong-dong-hai-1,vinh-long,quan-hai-an
-,,,Huyện Bình Tân,80908,809,Phường Đông Hải 2,1030415,10304,,huyen-binh-tan,phuong-dong-hai-2,vinh-long,quan-hai-an
-,,,Huyện Tam Bình,80909,809,Phường Thành Tô,1030417,10304,,huyen-tam-binh,phuong-thanh-to,vinh-long,quan-hai-an
-,,,Huyện Trà Ôn,80911,809,Phường An Biên,1030501,10305,,huyen-tra-on,phuong-an-bien,vinh-long,quan-le-chan
-,,,Huyện Vũng Liêm,80913,809,Phường Nghĩa Xá,1030503,10305,,huyen-vung-liem,phuong-nghia-xa,vinh-long,quan-le-chan
-,,,Thành phố Bến Tre,81101,811,Phường Cát Dài,1030505,10305,,thanh-pho-ben-tre,phuong-cat-dai,ben-tre,quan-le-chan
-,,,Huyện Châu Thành     ,81103,811,Phường Trần Nguyên Hãn,1030507,10305,,huyen-chau-thanh,phuong-tran-nguyen-han,ben-tre,quan-le-chan
-,,,Huyện Chợ Lách,81105,811,Phường Đông Hải,1030509,10305,,huyen-cho-lach,phuong-dong-hai,ben-tre,quan-le-chan
-,,,Huyện Mỏ Cày Nam,81107,811,Phường Dư Hàng Kênh,1030511,10305,,huyen-mo-cay-nam,phuong-du-hang-kenh,ben-tre,quan-le-chan
-,,,Huyện Mỏ Cày Bắc,81108,811,Phường Vĩnh Niệm,1030513,10305,,huyen-mo-cay-bac,phuong-vinh-niem,ben-tre,quan-le-chan
-,,,Huyện Giồng Trôm,81109,811,Phường Lam Sơn,1030515,10305,,huyen-giong-trom,phuong-lam-son,ben-tre,quan-le-chan
-,,,Huyện Bình Đại,81111,811,Phường An Dương,1030517,10305,,huyen-binh-dai,phuong-an-duong,ben-tre,quan-le-chan
-,,,Huyện Ba Tri,81113,811,Phường Hồ Nam,1030519,10305,,huyen-ba-tri,phuong-ho-nam,ben-tre,quan-le-chan
-,,,Huyện Thạnh Phú,81115,811,Phường Trại Cau,1030521,10305,,huyen-thanh-phu,phuong-trai-cau,ben-tre,quan-le-chan
-,,,Thành phố Rạch Giá,81301,813,Phường Dư Hàng,1030523,10305,,thanh-pho-rach-gia,phuong-du-hang,kien-giang,quan-le-chan
-,,,Huyện Kiên Lương,81303,813,Phường Hàng Kênh,1030525,10305,,huyen-kien-luong,phuong-hang-kenh,kien-giang,quan-le-chan
-,,,Huyện Giang Thành,81304,813,Phường Niệm Nghĩa,1030527,10305,,huyen-giang-thanh,phuong-niem-nghia,kien-giang,quan-le-chan
-,,,Huyện Hòn Đất,81305,813,Phường Kênh Dương,1030529,10305,,huyen-hon-dat,phuong-kenh-duong,kien-giang,quan-le-chan
-,,,Huyện Tân Hiệp,81307,813,Phường Quán Trữ,1030701,10307,,huyen-tan-hiep,phuong-quan-tru,kien-giang,quan-kien-an
-,,,Huyện Châu Thành      ,81309,813,Phường Ngọc Sơn,1030703,10307,,huyen-chau-thanh,phuong-ngoc-son,kien-giang,quan-kien-an
-,,,Huyện Giồng Riềng,81311,813,Phường Đồng Hoà,1030705,10307,,huyen-giong-rieng,phuong-dong-hoa,kien-giang,quan-kien-an
-,,,Huyện Gò Quao,81313,813,Phường Bắc Sơn,1030707,10307,,huyen-go-quao,phuong-bac-son,kien-giang,quan-kien-an
-,,,Huyện An Biên,81315,813,Phường Nam Sơn,1030709,10307,,huyen-an-bien,phuong-nam-son,kien-giang,quan-kien-an
-,,,Huyện An Minh,81317,813,Phường Trần Thành Ngọ,1030711,10307,,huyen-an-minh,phuong-tran-thanh-ngo,kien-giang,quan-kien-an
-,,,Huyện Vĩnh Thuận,81319,813,Phường Văn Đẩu,1030713,10307,,huyen-vinh-thuan,phuong-van-dau,kien-giang,quan-kien-an
-,,,Huyện Phú Quốc,81321,813,Phường Phù Liễn,1030715,10307,,huyen-phu-quoc,phuong-phu-lien,kien-giang,quan-kien-an
-,,,Huyện Kiên Hải,81323,813,Phường Tràng Minh,1030717,10307,,huyen-kien-hai,phuong-trang-minh,kien-giang,quan-kien-an
-,,,Thành phố Hà Tiên,81325,813,Phường Lãm Hà,1030719,10307,,thanh-pho-ha-tien,phuong-lam-ha,kien-giang,quan-kien-an
-,,,Huyện U Minh Thượng,81327,813,Phường Ngọc Hải,1030901,10309,,huyen-u-minh-thuong,phuong-ngoc-hai,kien-giang,quan-do-son
-,,,Quận Thốt Nốt,81503,815,Phường Ngọc Xuyên,1030903,10309,,quan-thot-not,phuong-ngoc-xuyen,can-tho,quan-do-son
-,,,Quận Ô Môn,81505,815,Phường Bàng La,1030905,10309,,quan-o-mon,phuong-bang-la,can-tho,quan-do-son
-,,,Quận Ninh Kiều,81519,815,Phường Vạn Hương,1030907,10309,,quan-ninh-kieu,phuong-van-huong,can-tho,quan-do-son
-,,,Quận Bình Thuỷ,81521,815,Phường Vạn Sơn,1030909,10309,,quan-binh-thuy,phuong-van-son,can-tho,quan-do-son
-,,,Quận Cái Răng,81523,815,Phường Hợp Đức,1030911,10309,,quan-cai-rang,phuong-hop-duc,can-tho,quan-do-son
-,,,Huyện Vĩnh Thạnh ,81525,815,Phường Minh Đức,1030913,10309,,huyen-vinh-thanh,phuong-minh-duc,can-tho,quan-do-son
-,,,Huyện Cờ Đỏ,81527,815,Phường Hải Sơn,1030915,10309,,huyen-co-do,phuong-hai-son,can-tho,quan-do-son
-,,,Huyện Phong Điền ,81529,815,Xã Lưu Kiếm,1031101,10311,,huyen-phong-dien,xa-luu-kiem,can-tho,huyen-thuy-nguyen
-,,,Huyện Thới Lai,81531,815,Xã Cao Nhân,1031103,10311,,huyen-thoi-lai,xa-cao-nhan,can-tho,huyen-thuy-nguyen
-,,,Thành phố Vị Thanh,81601,816,Xã Tam Hưng ,1031105,10311,,thanh-pho-vi-thanh,xa-tam-hung,hau-giang,huyen-thuy-nguyen
-,,,Huyện Châu Thành A,81603,816,Xã Dương Quan,1031107,10311,,huyen-chau-thanh-a,xa-duong-quan,hau-giang,huyen-thuy-nguyen
-,,,Huyện Châu Thành       ,81605,816,Xã An Sơn,1031109,10311,,huyen-chau-thanh,xa-an-son,hau-giang,huyen-thuy-nguyen
-,,,Thành phố Ngã Bảy,81607,816,Xã Lưu Kỳ,1031111,10311,,thanh-pho-nga-bay,xa-luu-ky,hau-giang,huyen-thuy-nguyen
-,,,Huyện Phụng Hiệp,81608,816,Xã Minh Tân ,1031113,10311,,huyen-phung-hiep,xa-minh-tan,hau-giang,huyen-thuy-nguyen
-,,,Huyện Vị Thủy,81609,816,Xã Kênh Giang,1031115,10311,,huyen-vi-thuy,xa-kenh-giang,hau-giang,huyen-thuy-nguyen
-,,,Huyện Long Mỹ,81611,816,Xã Đông Sơn ,1031117,10311,,huyen-long-my,xa-dong-son,hau-giang,huyen-thuy-nguyen
-,,,Thị Xã Long Mỹ,81612,816,Xã Thuỷ Triều,1031119,10311,,thi-xa-long-my,xa-thuy-trieu,hau-giang,huyen-thuy-nguyen
-,,,Thành phố Trà Vinh,81701,817,Xã Phả Lễ,1031121,10311,,thanh-pho-tra-vinh,xa-pha-le,tra-vinh,huyen-thuy-nguyen
-,,,Huyện Càng Long,81703,817,Xã Thuỷ Sơn,1031123,10311,,huyen-cang-long,xa-thuy-son,tra-vinh,huyen-thuy-nguyen
-,,,Huyện Châu Thành        ,81705,817,Xã Hoa Động,1031125,10311,,huyen-chau-thanh,xa-hoa-dong,tra-vinh,huyen-thuy-nguyen
-,,,Huyện Cầu Kè,81707,817,Thị trấn Núi Đèo,1031127,10311,,huyen-cau-ke,thi-tran-nui-deo,tra-vinh,huyen-thuy-nguyen
-,,,Huyện Tiểu Cần,81709,817,Thị trấn Minh Đức,1031129,10311,,huyen-tieu-can,thi-tran-minh-duc,tra-vinh,huyen-thuy-nguyen
-,,,Huyện Cầu Ngang,81711,817,Xã Lại Xuân,1031131,10311,,huyen-cau-ngang,xa-lai-xuan,tra-vinh,huyen-thuy-nguyen
-,,,Huyện Trà Cú,81713,817,Xã Kỳ Sơn,1031133,10311,,huyen-tra-cu,xa-ky-son,tra-vinh,huyen-thuy-nguyen
-,,,Huyện Duyên Hải,81715,817,Xã Liên Khê,1031135,10311,,huyen-duyen-hai,xa-lien-khe,tra-vinh,huyen-thuy-nguyen
-,,,Thị xã Duyên Hải,81716,817,Xã Gia Minh,1031137,10311,,thi-xa-duyen-hai,xa-gia-minh,tra-vinh,huyen-thuy-nguyen
-,,,Thành phố Sóc Trăng,81901,819,Xã Gia Đức,1031139,10311,,thanh-pho-soc-trang,xa-gia-duc,soc-trang,huyen-thuy-nguyen
-,,,Huyện Kế Sách,81903,819,Xã Phù Ninh,1031141,10311,,huyen-ke-sach,xa-phu-ninh,soc-trang,huyen-thuy-nguyen
-,,,Huyện Long Phú,81905,819,Xã Quảng Thanh,1031143,10311,,huyen-long-phu,xa-quang-thanh,soc-trang,huyen-thuy-nguyen
-,,,Huyện Cù Lao Dung,81906,819,Xã Chính Mỹ,1031145,10311,,huyen-cu-lao-dung,xa-chinh-my,soc-trang,huyen-thuy-nguyen
-,,,Huyện Mỹ tú,81907,819,Xã Hợp Thành,1031147,10311,,huyen-my-tu,xa-hop-thanh,soc-trang,huyen-thuy-nguyen
-,,,Huyện Mỹ Xuyên,81909,819,Xã Mỹ Đồng,1031149,10311,,huyen-my-xuyen,xa-my-dong,soc-trang,huyen-thuy-nguyen
-,,,Huyện Thạnh Trị,81911,819,Xã Hoà Bình,1031151,10311,,huyen-thanh-tri,xa-hoa-binh,soc-trang,huyen-thuy-nguyen
-,,,Thị Xã Ngã Năm,81912,819,Xã Trung Hà,1031153,10311,,thi-xa-nga-nam,xa-trung-ha,soc-trang,huyen-thuy-nguyen
-,,,Thị Xã Vĩnh Châu,81913,819,Xã An Lư,1031155,10311,,thi-xa-vinh-chau,xa-an-lu,soc-trang,huyen-thuy-nguyen
-,,,Huyện Châu Thành         ,81915,819,Xã Ngũ Lão,1031157,10311,,huyen-chau-thanh,xa-ngu-lao,soc-trang,huyen-thuy-nguyen
-,,,Huyện Trần Đề,81917,819,Xã Phục Lễ,1031159,10311,,huyen-tran-de,xa-phuc-le,soc-trang,huyen-thuy-nguyen
-,,,Thành Phố Bạc Liêu,82101,821,Xã Lập Lễ,1031161,10311,,thanh-pho-bac-lieu,xa-lap-le,bac-lieu,huyen-thuy-nguyen
-,,,Huyện Hồng Dân,82103,821,Xã Kiền Bái,1031163,10311,,huyen-hong-dan,xa-kien-bai,bac-lieu,huyen-thuy-nguyen
-,,,Huyện Vĩnh Lợi,82105,821,Xã Thiên Hương,1031165,10311,,huyen-vinh-loi,xa-thien-huong,bac-lieu,huyen-thuy-nguyen
-,,,Huyện Hoà Bình,82106,821,Xã Thuỷ Đường,1031167,10311,,huyen-hoa-binh,xa-thuy-duong,bac-lieu,huyen-thuy-nguyen
-,,,Thị Xã Giá Rai,82107,821,Xã Hoàng Động,1031169,10311,,thi-xa-gia-rai,xa-hoang-dong,bac-lieu,huyen-thuy-nguyen
-,,,Huyện Phước Long,82109,821,Xã Lâm Động,1031171,10311,,huyen-phuoc-long,xa-lam-dong,bac-lieu,huyen-thuy-nguyen
-,,,Huyện Đông Hải,82111,821,Xã Tân Dương,1031173,10311,,huyen-dong-hai,xa-tan-duong,bac-lieu,huyen-thuy-nguyen
-,,,Thành phố  Cà Mau,82301,823,Xã Bắc Sơn ,1031301,10313,,thanh-pho--ca-mau,xa-bac-son,ca-mau,huyen-an-duong
-,,,Huyện Thới Bình,82303,823,Xã Lê Thiện,1031303,10313,,huyen-thoi-binh,xa-le-thien,ca-mau,huyen-an-duong
-,,,Huyện U Minh,82305,823,Xã Hồng Phong ,1031305,10313,,huyen-u-minh,xa-hong-phong,ca-mau,huyen-an-duong
-,,,Huyện Trần Văn Thời,82307,823,Xã Nam Sơn ,1031307,10313,,huyen-tran-van-thoi,xa-nam-son,ca-mau,huyen-an-duong
-,,,Huyện Phú Tân ,82308,823,Xã Đồng Thái ,1031309,10313,,huyen-phu-tan,xa-dong-thai,ca-mau,huyen-an-duong
-,,,Huyện Cái Nước,82309,823,Thị trấn An Dương,1031311,10313,,huyen-cai-nuoc,thi-tran-an-duong,ca-mau,huyen-an-duong
-,,,Huyện Đầm Dơi,82311,823,Xã Đại Bản,1031313,10313,,huyen-dam-doi,xa-dai-ban,ca-mau,huyen-an-duong
-,,,Huyện Năm Căn,82312,823,Xã An Hoà,1031315,10313,,huyen-nam-can,xa-an-hoa,ca-mau,huyen-an-duong
-,,,Huyện Ngọc Hiển,82313,823,Xã Tân Tiến ,1031317,10313,,huyen-ngoc-hien,xa-tan-tien,ca-mau,huyen-an-duong
+1.0,An Giang,805.0,Quận Ba Đình,10101.0,101.0,Phường Phúc Xá,1010101,10101,an-giang,quan-ba-dinh,phuong-phuc-xa,ha-noi,quan-ba-dinh
+2.0,Bà Rịa - Vũng Tàu,717.0,Quận Tây Hồ,10103.0,101.0,Phường Trúc Bạch,1010103,10101,ba-ria-vung-tau,quan-tay-ho,phuong-truc-bach,ha-noi,quan-ba-dinh
+3.0,Bắc Giang,221.0,Quận Hoàn Kiếm,10105.0,101.0,Phường Vĩnh Phúc,1010105,10101,bac-giang,quan-hoan-kiem,phuong-vinh-phuc,ha-noi,quan-ba-dinh
+4.0,Bắc Kạn,207.0,Quận Long Biên,10106.0,101.0,Phường Cống Vị,1010107,10101,bac-kan,quan-long-bien,phuong-cong-vi,ha-noi,quan-ba-dinh
+5.0,Bạc Liêu,821.0,Quận Hai Bà Trưng,10107.0,101.0,Phường Liễu Giai,1010109,10101,bac-lieu,quan-hai-ba-trung,phuong-lieu-giai,ha-noi,quan-ba-dinh
+6.0,Bắc Ninh,223.0,Quận Hoàng Mai,10108.0,101.0,Phường Nguyễn Trung Trực,1010111,10101,bac-ninh,quan-hoang-mai,phuong-nguyen-trung-truc,ha-noi,quan-ba-dinh
+7.0,Bến Tre,811.0,Quận Đống đa,10109.0,101.0,Phường Ngọc Hà,1010113,10101,ben-tre,quan-dong-da,phuong-ngoc-ha,ha-noi,quan-ba-dinh
+8.0,Bình Định,507.0,Quận Thanh Xuân,10111.0,101.0,Phường Đội Cấn,1010115,10101,binh-dinh,quan-thanh-xuan,phuong-doi-can,ha-noi,quan-ba-dinh
+9.0,Bình Dương,711.0,Quận Cầu Giấy,10113.0,101.0,Phường Kim Mã,1010117,10101,binh-duong,quan-cau-giay,phuong-kim-ma,ha-noi,quan-ba-dinh
+10.0,Bình Phước,707.0,Huyện Sóc sơn,10115.0,101.0,Phường Giảng Võ,1010119,10101,binh-phuoc,huyen-soc-son,phuong-giang-vo,ha-noi,quan-ba-dinh
+11.0,Bình Thuận,715.0,Huyện Đông Anh,10117.0,101.0,Phường Thành Công,1010121,10101,binh-thuan,huyen-dong-anh,phuong-thanh-cong,ha-noi,quan-ba-dinh
+12.0,Cà Mau,823.0,Huyện Gia Lâm,10119.0,101.0,Phường Điện Biên,1010123,10101,ca-mau,huyen-gia-lam,phuong-dien-bien,ha-noi,quan-ba-dinh
+13.0,Cần Thơ,815.0,Huyện Từ Liêm,10121.0,101.0,Phường Quán Thánh,1010125,10101,can-tho,huyen-tu-liem,phuong-quan-thanh,ha-noi,quan-ba-dinh
+14.0,Cao Bằng,203.0,Huyện Thanh Trì,10123.0,101.0,Phường Ngọc Khánh,1010127,10101,cao-bang,huyen-thanh-tri,phuong-ngoc-khanh,ha-noi,quan-ba-dinh
+15.0,Đà Nẵng,501.0,Huyện Mê Linh,10125.0,101.0,Phường Nhật Tân,1010301,10103,da-nang,huyen-me-linh,phuong-nhat-tan,ha-noi,quan-tay-ho
+16.0,Đắk Lắk,605.0,Quận Hà Đông,10127.0,101.0,Phường Tứ Liên,1010303,10103,dak-lak,quan-ha-dong,phuong-tu-lien,ha-noi,quan-tay-ho
+17.0,Đắk Nông,606.0,Thị xã Sơn Tây,10129.0,101.0,Phường Quảng An,1010305,10103,dak-nong,thi-xa-son-tay,phuong-quang-an,ha-noi,quan-tay-ho
+18.0,Điện Biên,301.0,Huyện Phúc Thọ,10131.0,101.0,Phường Xuân La,1010307,10103,dien-bien,huyen-phuc-tho,phuong-xuan-la,ha-noi,quan-tay-ho
+19.0,Đồng Nai,713.0,Huyện Đan Phượng,10133.0,101.0,Phường Bưởi,1010309,10103,dong-nai,huyen-dan-phuong,phuong-buoi,ha-noi,quan-tay-ho
+20.0,Đồng Tháp,803.0,Huyện Thạch Thất,10135.0,101.0,Phường Thuỵ Khuê,1010311,10103,dong-thap,huyen-thach-that,phuong-thuy-khue,ha-noi,quan-tay-ho
+21.0,Gia Lai,603.0,Huyện Hoài Đức,10137.0,101.0,Phường Phú Thượng,1010313,10103,gia-lai,huyen-hoai-duc,phuong-phu-thuong,ha-noi,quan-tay-ho
+22.0,Hà Giang,201.0,Huyện Quốc Oai,10139.0,101.0,Phường Yên Phụ,1010315,10103,ha-giang,huyen-quoc-oai,phuong-yen-phu,ha-noi,quan-tay-ho
+23.0,Hà Nam,111.0,Huyện Thanh Oai,10141.0,101.0,Phường Phúc Tân,1010501,10105,ha-nam,huyen-thanh-oai,phuong-phuc-tan,ha-noi,quan-hoan-kiem
+24.0,Hà Nội,101.0,Huyện Thường Tín,10143.0,101.0,Phường Hàng Mã,1010503,10105,ha-noi,huyen-thuong-tin,phuong-hang-ma,ha-noi,quan-hoan-kiem
+25.0,Hà Tĩnh,405.0,Huyện Mỹ Đức,10145.0,101.0,Phường Hàng Buồm,1010505,10105,ha-tinh,huyen-my-duc,phuong-hang-buom,ha-noi,quan-hoan-kiem
+26.0,Hải Dương,107.0,Huyện ứng Hoà,10147.0,101.0,Phường Hàng Đào,1010507,10105,hai-duong,huyen-ung-hoa,phuong-hang-dao,ha-noi,quan-hoan-kiem
+27.0,Hải Phòng,103.0,Huyện Phú Xuyên,10149.0,101.0,Phường Hàng Bồ,1010509,10105,hai-phong,huyen-phu-xuyen,phuong-hang-bo,ha-noi,quan-hoan-kiem
+28.0,Hậu Giang,816.0,Huyện Ba Vì,10151.0,101.0,Phường Lý Thái Tổ,1010511,10105,hau-giang,huyen-ba-vi,phuong-ly-thai-to,ha-noi,quan-hoan-kiem
+29.0,Hòa Bình,305.0,Huyện Chương Mỹ,10153.0,101.0,Phường Hàng Bạc,1010513,10105,hoa-binh,huyen-chuong-my,phuong-hang-bac,ha-noi,quan-hoan-kiem
+30.0,Hưng Yên,109.0,Quận Nam Từ Liêm,10155.0,101.0,Phường Chương Dương,1010515,10105,hung-yen,quan-nam-tu-liem,phuong-chuong-duong,ha-noi,quan-hoan-kiem
+31.0,Khánh Hòa,511.0,Quận Bắc Từ Liêm,10157.0,101.0,Phường Hàng Trống,1010517,10105,khanh-hoa,quan-bac-tu-liem,phuong-hang-trong,ha-noi,quan-hoan-kiem
+32.0,Kiên Giang,813.0,Quận Hồng Bàng,10301.0,103.0,Phường Cửa Nam,1010519,10105,kien-giang,quan-hong-bang,phuong-cua-nam,hai-phong,quan-hoan-kiem
+33.0,Kon Tum,601.0,Quận Ngô Quyền,10303.0,103.0,Phường Trần Hưng Đạo,1010521,10105,kon-tum,quan-ngo-quyen,phuong-tran-hung-dao,hai-phong,quan-hoan-kiem
+34.0,Lai Châu,302.0,Quận Hải An,10304.0,103.0,Phường Phan Chu Trinh,1010523,10105,lai-chau,quan-hai-an,phuong-phan-chu-trinh,hai-phong,quan-hoan-kiem
+35.0,Lâm Đồng,703.0,Quận Lê Chân,10305.0,103.0,Phường Hàng Bài,1010525,10105,lam-dong,quan-le-chan,phuong-hang-bai,hai-phong,quan-hoan-kiem
+36.0,Lạng Sơn,209.0,Quận Kiến An,10307.0,103.0,Phường Hàng Bông,1010527,10105,lang-son,quan-kien-an,phuong-hang-bong,hai-phong,quan-hoan-kiem
+37.0,Lào Cai,205.0,Quận Đồ Sơn,10309.0,103.0,Phường Đồng Xuân,1010529,10105,lao-cai,quan-do-son,phuong-dong-xuan,hai-phong,quan-hoan-kiem
+38.0,Long An,801.0,Huyện Thuỷ Nguyên,10311.0,103.0,Phường Cửa Đông,1010531,10105,long-an,huyen-thuy-nguyen,phuong-cua-dong,hai-phong,quan-hoan-kiem
+39.0,Nam Định,113.0,Huyện An Dương,10313.0,103.0,Phường Hàng Gai,1010533,10105,nam-dinh,huyen-an-duong,phuong-hang-gai,hai-phong,quan-hoan-kiem
+40.0,Nghệ An,403.0,Huyện An Lão,10315.0,103.0,Phường Tràng Tiền,1010535,10105,nghe-an,huyen-an-lao,phuong-trang-tien,hai-phong,quan-hoan-kiem
+41.0,Ninh Bình,117.0,Huyện Kiến Thụy,10317.0,103.0,Phường Giang Biên,1010601,10106,ninh-binh,huyen-kien-thuy,phuong-giang-bien,hai-phong,quan-long-bien
+42.0,Ninh Thuận,705.0,Huyện Tiên Lãng,10319.0,103.0,Phường Đức Giang,1010603,10106,ninh-thuan,huyen-tien-lang,phuong-duc-giang,hai-phong,quan-long-bien
+43.0,Phú Thọ,217.0,Huyện Vĩnh Bảo,10321.0,103.0,Phường Việt Hưng,1010605,10106,phu-tho,huyen-vinh-bao,phuong-viet-hung,hai-phong,quan-long-bien
+44.0,Phú Yên,509.0,Huyện Cát Hải,10323.0,103.0,Phường Gia Thuỵ,1010607,10106,phu-yen,huyen-cat-hai,phuong-gia-thuy,hai-phong,quan-long-bien
+45.0,Quảng Bình,407.0,Huyện Bạch Long Vĩ,10325.0,103.0,Phường Phúc Lợi,1010609,10106,quang-binh,huyen-bach-long-vi,phuong-phuc-loi,hai-phong,quan-long-bien
+46.0,Quảng Nam,503.0,Quận Dương Kinh,10327.0,103.0,Phường Bồ Đề,1010611,10106,quang-nam,quan-duong-kinh,phuong-bo-de,hai-phong,quan-long-bien
+47.0,Quảng Ngãi,505.0,Thành phố Hải Dương,10701.0,107.0,Phường Sài Đồng,1010613,10106,quang-ngai,thanh-pho-hai-duong,phuong-sai-dong,hai-duong,quan-long-bien
+48.0,Quảng Ninh,225.0,Thành phố Chí Linh,10703.0,107.0,Phường Thạch Bàn,1010615,10106,quang-ninh,thanh-pho-chi-linh,phuong-thach-ban,hai-duong,quan-long-bien
+49.0,Quảng Trị,409.0,Huyện Nam Sách,10705.0,107.0,Phường Phúc Đồng,1010617,10106,quang-tri,huyen-nam-sach,phuong-phuc-dong,hai-duong,quan-long-bien
+50.0,Sóc Trăng,819.0,Huyện Thanh Hà,10707.0,107.0,Phường Cự Khối,1010619,10106,soc-trang,huyen-thanh-ha,phuong-cu-khoi,hai-duong,quan-long-bien
+51.0,Sơn La,303.0,Thị xã Kinh Môn,10709.0,107.0,Phường Thượng Thanh,1010621,10106,son-la,thi-xa-kinh-mon,phuong-thuong-thanh,hai-duong,quan-long-bien
+52.0,Tây Ninh,709.0,Huyện Kim Thành,10711.0,107.0,Phường Ngọc Thuỵ,1010623,10106,tay-ninh,huyen-kim-thanh,phuong-ngoc-thuy,hai-duong,quan-long-bien
+53.0,Thái Bình,115.0,Huyện Gia Lộc,10713.0,107.0,Phường Ngọc Lâm,1010625,10106,thai-binh,huyen-gia-loc,phuong-ngoc-lam,hai-duong,quan-long-bien
+54.0,Thái Nguyên,215.0,Huyện Tứ Kỳ,10715.0,107.0,Phường Long Biên,1010627,10106,thai-nguyen,huyen-tu-ky,phuong-long-bien,hai-duong,quan-long-bien
+55.0,Thanh Hoá,401.0,Huyện Cẩm Giàng,10717.0,107.0,Phường Lê Đại Hành,1010701,10107,thanh-hoa,huyen-cam-giang,phuong-le-dai-hanh,hai-duong,quan-hai-ba-trung
+56.0,Thừa Thiên Huế,411.0,Huyện Bình Giang,10719.0,107.0,Phường Đồng Nhân,1010703,10107,thua-thien-hue,huyen-binh-giang,phuong-dong-nhan,hai-duong,quan-hai-ba-trung
+57.0,Tiền Giang,807.0,Huyện Thanh Miện,10721.0,107.0,Phường Đống Mác,1010705,10107,tien-giang,huyen-thanh-mien,phuong-dong-mac,hai-duong,quan-hai-ba-trung
+58.0,Hồ Chí Minh,701.0,Huyện Ninh Giang,10723.0,107.0,Phường Thanh Lương,1010707,10107,ho-chi-minh,huyen-ninh-giang,phuong-thanh-luong,hai-duong,quan-hai-ba-trung
+59.0,Trà Vinh,817.0,Thành phố Hưng yên,10901.0,109.0,Phường Thanh Nhàn,1010709,10107,tra-vinh,thanh-pho-hung-yen,phuong-thanh-nhan,hung-yen,quan-hai-ba-trung
+60.0,Tuyên Quang,211.0,Thị xã Mỹ Hào,10903.0,109.0,Phường Cầu Dền,1010711,10107,tuyen-quang,thi-xa-my-hao,phuong-cau-den,hung-yen,quan-hai-ba-trung
+61.0,Vĩnh Long,809.0,Huyện Khoái Châu,10905.0,109.0,Phường Bách Khoa,1010713,10107,vinh-long,huyen-khoai-chau,phuong-bach-khoa,hung-yen,quan-hai-ba-trung
+62.0,Vĩnh Phúc,219.0,Huyện Ân Thi,10907.0,109.0,Phường Đồng Tâm,1010715,10107,vinh-phuc,huyen-an-thi,phuong-dong-tam,hung-yen,quan-hai-ba-trung
+63.0,Yên Bái,213.0,Huyện Kim Động,10909.0,109.0,Phường Vĩnh Tuy,1010717,10107,yen-bai,huyen-kim-dong,phuong-vinh-tuy,hung-yen,quan-hai-ba-trung
+,,,Huyện Phù Cừ,10911.0,109.0,Phường Bạch Mai,1010719,10107,,huyen-phu-cu,phuong-bach-mai,hung-yen,quan-hai-ba-trung
+,,,Huyện Tiên Lữ,10913.0,109.0,Phường Quỳnh Lôi,1010721,10107,,huyen-tien-lu,phuong-quynh-loi,hung-yen,quan-hai-ba-trung
+,,,Huyện Văn Giang,10915.0,109.0,Phường Trương Định,1010723,10107,,huyen-van-giang,phuong-truong-dinh,hung-yen,quan-hai-ba-trung
+,,,Huyện Văn Lâm,10917.0,109.0,Phường Ngô Thì Nhậm,1010725,10107,,huyen-van-lam,phuong-ngo-thi-nham,hung-yen,quan-hai-ba-trung
+,,,Huyện Yên Mỹ,10919.0,109.0,Phường Bạch Đằng,1010727,10107,,huyen-yen-my,phuong-bach-dang,hung-yen,quan-hai-ba-trung
+,,,Thành phố Phủ Lý,11101.0,111.0,Phường Phạm Đình Hổ,1010729,10107,,thanh-pho-phu-ly,phuong-pham-dinh-ho,ha-nam,quan-hai-ba-trung
+,,,Thị xã Duy Tiên,11103.0,111.0,Phường Bùi Thị Xuân,1010731,10107,,thi-xa-duy-tien,phuong-bui-thi-xuan,ha-nam,quan-hai-ba-trung
+,,,Huyện Kim Bảng,11105.0,111.0,Phường Phố Huế,1010733,10107,,huyen-kim-bang,phuong-pho-hue,ha-nam,quan-hai-ba-trung
+,,,Huyện Lý Nhân,11107.0,111.0,Phường Minh Khai,1010735,10107,,huyen-ly-nhan,phuong-minh-khai,ha-nam,quan-hai-ba-trung
+,,,Huyện Thanh Liêm,11109.0,111.0,Phường Quỳnh Mai,1010737,10107,,huyen-thanh-liem,phuong-quynh-mai,ha-nam,quan-hai-ba-trung
+,,,Huyện Bình Lục,11111.0,111.0,Phường Nguyễn Du,1010739,10107,,huyen-binh-luc,phuong-nguyen-du,ha-nam,quan-hai-ba-trung
+,,,Thành phố Nam Định,11301.0,113.0,Phường Vĩnh Hưng,1010801,10108,,thanh-pho-nam-dinh,phuong-vinh-hung,nam-dinh,quan-hoang-mai
+,,,Huyện Vụ Bản,11303.0,113.0,Phường Định Công,1010803,10108,,huyen-vu-ban,phuong-dinh-cong,nam-dinh,quan-hoang-mai
+,,,Huyện Mỹ Lộc,11305.0,113.0,Phường Mai Động,1010805,10108,,huyen-my-loc,phuong-mai-dong,nam-dinh,quan-hoang-mai
+,,,Huyện Ý Yên,11307.0,113.0,Phường Tương Mai,1010807,10108,,huyen-y-yen,phuong-tuong-mai,nam-dinh,quan-hoang-mai
+,,,Huyện Nam Trực,11309.0,113.0,Phường Tân Mai,1010809,10108,,huyen-nam-truc,phuong-tan-mai,nam-dinh,quan-hoang-mai
+,,,Huyện Trực Ninh,11311.0,113.0,Phường Hoàng Văn Thụ,1010811,10108,,huyen-truc-ninh,phuong-hoang-van-thu,nam-dinh,quan-hoang-mai
+,,,Huyện Xuân Trường,11313.0,113.0,Phường Giáp Bát,1010813,10108,,huyen-xuan-truong,phuong-giap-bat,nam-dinh,quan-hoang-mai
+,,,Huyện Giao Thuỷ,11315.0,113.0,Phường Thịnh Liệt,1010815,10108,,huyen-giao-thuy,phuong-thinh-liet,nam-dinh,quan-hoang-mai
+,,,Huyện Nghĩa Hưng,11317.0,113.0,Phường Hoàng Liệt,1010817,10108,,huyen-nghia-hung,phuong-hoang-liet,nam-dinh,quan-hoang-mai
+,,,Huyện Hải Hậu,11319.0,113.0,Phường Trần Phú,1010819,10108,,huyen-hai-hau,phuong-tran-phu,nam-dinh,quan-hoang-mai
+,,,Thành phố Thái Bình,11501.0,115.0,Phường Thanh Trì,1010821,10108,,thanh-pho-thai-binh,phuong-thanh-tri,thai-binh,quan-hoang-mai
+,,,Huyện Quỳnh Phụ,11503.0,115.0,Phường Đại Kim,1010823,10108,,huyen-quynh-phu,phuong-dai-kim,thai-binh,quan-hoang-mai
+,,,Huyện Hưng Hà,11505.0,115.0,Phường Lĩnh Nam,1010825,10108,,huyen-hung-ha,phuong-linh-nam,thai-binh,quan-hoang-mai
+,,,Huyện Thái Thụy,11507.0,115.0,Phường Yên Sở,1010827,10108,,huyen-thai-thuy,phuong-yen-so,thai-binh,quan-hoang-mai
+,,,Huyện Đông Hưng,11509.0,115.0,Phường Cát Linh,1010901,10109,,huyen-dong-hung,phuong-cat-linh,thai-binh,quan-dong-da
+,,,Huyện Vũ Thư,11511.0,115.0,Phường Văn Miếu,1010903,10109,,huyen-vu-thu,phuong-van-mieu,thai-binh,quan-dong-da
+,,,Huyện Kiến Xương,11513.0,115.0,Phường Láng Thượng,1010905,10109,,huyen-kien-xuong,phuong-lang-thuong,thai-binh,quan-dong-da
+,,,Huyện Tiền Hải,11515.0,115.0,Phường ô Chợ Dừa,1010907,10109,,huyen-tien-hai,phuong-o-cho-dua,thai-binh,quan-dong-da
+,,,Thành phố Ninh Bình,11701.0,117.0,Phường Hàng Bột,1010909,10109,,thanh-pho-ninh-binh,phuong-hang-bot,ninh-binh,quan-dong-da
+,,,Thành phố Tam Điệp,11703.0,117.0,Phường Khâm Thiên,1010911,10109,,thanh-pho-tam-diep,phuong-kham-thien,ninh-binh,quan-dong-da
+,,,Huyện Nho quan,11705.0,117.0,Phường Thổ Quan,1010913,10109,,huyen-nho-quan,phuong-tho-quan,ninh-binh,quan-dong-da
+,,,Huyện Gia Viễn,11707.0,117.0,Phường Nam Đồng,1010915,10109,,huyen-gia-vien,phuong-nam-dong,ninh-binh,quan-dong-da
+,,,Huyện Hoa Lư,11709.0,117.0,Phường Quang Trung,1010917,10109,,huyen-hoa-lu,phuong-quang-trung,ninh-binh,quan-dong-da
+,,,Huyện Yên Mô,11711.0,117.0,Phường Trung Liệt,1010919,10109,,huyen-yen-mo,phuong-trung-liet,ninh-binh,quan-dong-da
+,,,Huyện Yên Khánh,11713.0,117.0,Phường Phương Liên,1010921,10109,,huyen-yen-khanh,phuong-phuong-lien,ninh-binh,quan-dong-da
+,,,Huyện Kim Sơn,11715.0,117.0,Phường Thịnh Quang,1010923,10109,,huyen-kim-son,phuong-thinh-quang,ninh-binh,quan-dong-da
+,,,Thành phố Hà Giang,20101.0,201.0,Phường Kim Liên,1010925,10109,,thanh-pho-ha-giang,phuong-kim-lien,ha-giang,quan-dong-da
+,,,Huyện Đồng Văn,20103.0,201.0,Phường Ngã Tư Sở,1010927,10109,,huyen-dong-van,phuong-nga-tu-so,ha-giang,quan-dong-da
+,,,Huyện Mèo Vạc,20105.0,201.0,Phường Khương Thượng,1010929,10109,,huyen-meo-vac,phuong-khuong-thuong,ha-giang,quan-dong-da
+,,,Huyện Yên Minh,20107.0,201.0,Phường Văn Chương,1010931,10109,,huyen-yen-minh,phuong-van-chuong,ha-giang,quan-dong-da
+,,,Huyện Quản Bạ,20109.0,201.0,Phường Phương Mai,1010933,10109,,huyen-quan-ba,phuong-phuong-mai,ha-giang,quan-dong-da
+,,,Huyện Bắc Mê,20111.0,201.0,Phường Quốc Tử Giám,1010935,10109,,huyen-bac-me,phuong-quoc-tu-giam,ha-giang,quan-dong-da
+,,,Huyện Hoàng Su Phì,20113.0,201.0,Phường Láng Hạ,1010937,10109,,huyen-hoang-su-phi,phuong-lang-ha,ha-giang,quan-dong-da
+,,,Huyện Vị Xuyên,20115.0,201.0,Phường Trung Phụng,1010939,10109,,huyen-vi-xuyen,phuong-trung-phung,ha-giang,quan-dong-da
+,,,Huyện Xín Mần,20117.0,201.0,Phường Trung Tự,1010941,10109,,huyen-xin-man,phuong-trung-tu,ha-giang,quan-dong-da
+,,,Huyện Quang Bình,20118.0,201.0,Phường Nhân Chính,1011101,10111,,huyen-quang-binh,phuong-nhan-chinh,ha-giang,quan-thanh-xuan
+,,,Huyện Bắc Quang,20119.0,201.0,Phường Thượng Đình,1011103,10111,,huyen-bac-quang,phuong-thuong-dinh,ha-giang,quan-thanh-xuan
+,,,Thành phố Cao Bằng,20301.0,203.0,Phường Khương Trung,1011105,10111,,thanh-pho-cao-bang,phuong-khuong-trung,cao-bang,quan-thanh-xuan
+,,,Huyện Bảo Lạc,20303.0,203.0,Phường Thanh Xuân Trung,1011107,10111,,huyen-bao-lac,phuong-thanh-xuan-trung,cao-bang,quan-thanh-xuan
+,,,Huyện Hà Quảng,20305.0,203.0,Phường Phương Liệt,1011109,10111,,huyen-ha-quang,phuong-phuong-liet,cao-bang,quan-thanh-xuan
+,,,Huyện Thông Nông,20307.0,203.0,Phường Hạ Đình,1011111,10111,,huyen-thong-nong,phuong-ha-dinh,cao-bang,quan-thanh-xuan
+,,,Huyện Trà Lĩnh,20309.0,203.0,Phường Khương Đình,1011113,10111,,huyen-tra-linh,phuong-khuong-dinh,cao-bang,quan-thanh-xuan
+,,,Huyện Trùng Khánh,20311.0,203.0,Phường Kim Giang,1011115,10111,,huyen-trung-khanh,phuong-kim-giang,cao-bang,quan-thanh-xuan
+,,,Huyện Nguyên Bình,20313.0,203.0,Phường Thanh Xuân Nam,1011117,10111,,huyen-nguyen-binh,phuong-thanh-xuan-nam,cao-bang,quan-thanh-xuan
+,,,Huyện Hoà An,20315.0,203.0,Phường Khương Mai,1011119,10111,,huyen-hoa-an,phuong-khuong-mai,cao-bang,quan-thanh-xuan
+,,,Huyện Quảng Hòa,20317.0,203.0,Phường Thanh Xuân Bắc,1011121,10111,,huyen-quang-hoa,phuong-thanh-xuan-bac,cao-bang,quan-thanh-xuan
+,,,Huyện Phục Hoà,20318.0,203.0,Phường Mai Dịch,1011301,10113,,huyen-phuc-hoa,phuong-mai-dich,cao-bang,quan-cau-giay
+,,,Huyện Hạ Lang,20319.0,203.0,Phường Dịch Vọng,1011303,10113,,huyen-ha-lang,phuong-dich-vong,cao-bang,quan-cau-giay
+,,,Huyện Thạch An,20321.0,203.0,Phường Dịch Vọng Hậu,1011305,10113,,huyen-thach-an,phuong-dich-vong-hau,cao-bang,quan-cau-giay
+,,,Huyện Bảo Lâm,20323.0,203.0,Phường Quan Hoa,1011307,10113,,huyen-bao-lam,phuong-quan-hoa,cao-bang,quan-cau-giay
+,,,Thành phố Lào Cai,20501.0,205.0,Phường Trung Hoà,1011309,10113,,thanh-pho-lao-cai,phuong-trung-hoa,lao-cai,quan-cau-giay
+,,,Huyện Mường Khương,20505.0,205.0,Phường Nghĩa Đô,1011311,10113,,huyen-muong-khuong,phuong-nghia-do,lao-cai,quan-cau-giay
+,,,Huyện Bát Xát,20507.0,205.0,Phường Nghĩa Tân,1011313,10113,,huyen-bat-xat,phuong-nghia-tan,lao-cai,quan-cau-giay
+,,,Huyện Bắc Hà,20509.0,205.0,Phường Yên Hoà,1011315,10113,,huyen-bac-ha,phuong-yen-hoa,lao-cai,quan-cau-giay
+,,,Huyện Bảo Thắng,20511.0,205.0,Thị trấn Sóc Sơn,1011501,10115,,huyen-bao-thang,thi-tran-soc-son,lao-cai,huyen-soc-son
+,,,Thị xã Sa Pa,20513.0,205.0,Xã Bắc Sơn,1011503,10115,,thi-xa-sa-pa,xa-bac-son,lao-cai,huyen-soc-son
+,,,Huyện Bảo Yên,20515.0,205.0,Xã Hồng Kỳ,1011505,10115,,huyen-bao-yen,xa-hong-ky,lao-cai,huyen-soc-son
+,,,Huyện Văn Bàn,20519.0,205.0,Xã Nam Sơn,1011507,10115,,huyen-van-ban,xa-nam-son,lao-cai,huyen-soc-son
+,,,Huyện Si Ma Cai,20521.0,205.0,Xã Trung Giã,1011509,10115,,huyen-si-ma-cai,xa-trung-gia,lao-cai,huyen-soc-son
+,,,Thành phố Bắc Kạn,20701.0,207.0,Xã Minh Phú,1011511,10115,,thanh-pho-bac-kan,xa-minh-phu,bac-kan,huyen-soc-son
+,,,Huyện Ba Bể,20703.0,207.0,Xã Phù Linh,1011513,10115,,huyen-ba-be,xa-phu-linh,bac-kan,huyen-soc-son
+,,,Huyện Pác Nặm,20704.0,207.0,Xã Bắc Phú,1011515,10115,,huyen-pac-nam,xa-bac-phu,bac-kan,huyen-soc-son
+,,,Huyện Ngân Sơn,20705.0,207.0,Xã Quang Tiến,1011517,10115,,huyen-ngan-son,xa-quang-tien,bac-kan,huyen-soc-son
+,,,Huyện Chợ Đồn,20707.0,207.0,Xã Hiền Ninh,1011519,10115,,huyen-cho-don,xa-hien-ninh,bac-kan,huyen-soc-son
+,,,Huyện Na Rì,20709.0,207.0,Xã Việt Long,1011521,10115,,huyen-na-ri,xa-viet-long,bac-kan,huyen-soc-son
+,,,Huyện Bạch Thông,20711.0,207.0,Xã Xuân Giang,1011523,10115,,huyen-bach-thong,xa-xuan-giang,bac-kan,huyen-soc-son
+,,,Huyện Chợ Mới,20713.0,207.0,Xã Mai Đình,1011525,10115,,huyen-cho-moi,xa-mai-dinh,bac-kan,huyen-soc-son
+,,,Thành phố Lạng Sơn,20901.0,209.0,Xã Thanh Xuân,1011527,10115,,thanh-pho-lang-son,xa-thanh-xuan,lang-son,huyen-soc-son
+,,,Huyện Tràng Định,20903.0,209.0,Xã Đông Xuân,1011529,10115,,huyen-trang-dinh,xa-dong-xuan,lang-son,huyen-soc-son
+,,,Huyện Văn Lãng,20905.0,209.0,Xã Kim Lũ,1011531,10115,,huyen-van-lang,xa-kim-lu,lang-son,huyen-soc-son
+,,,Huyện Bình Gia,20907.0,209.0,Xã Phú Minh,1011533,10115,,huyen-binh-gia,xa-phu-minh,lang-son,huyen-soc-son
+,,,Huyện Bắc Sơn,20909.0,209.0,Xã Xuân Thu,1011535,10115,,huyen-bac-son,xa-xuan-thu,lang-son,huyen-soc-son
+,,,Huyện Văn Quan,20911.0,209.0,Xã Tân Dân,1011537,10115,,huyen-van-quan,xa-tan-dan,lang-son,huyen-soc-son
+,,,Huyện Cao Lộc,20913.0,209.0,Xã Phù Lỗ,1011539,10115,,huyen-cao-loc,xa-phu-lo,lang-son,huyen-soc-son
+,,,Huyện Lộc Bình,20915.0,209.0,Xã Minh Trí,1011541,10115,,huyen-loc-binh,xa-minh-tri,lang-son,huyen-soc-son
+,,,Huyện Chi Lăng,20917.0,209.0,Xã Tân Hưng,1011543,10115,,huyen-chi-lang,xa-tan-hung,lang-son,huyen-soc-son
+,,,Huyện Đình Lập,20919.0,209.0,Xã Tân Minh,1011545,10115,,huyen-dinh-lap,xa-tan-minh,lang-son,huyen-soc-son
+,,,Huyện Hữu Lũng,20921.0,209.0,Xã Tiên Dược,1011547,10115,,huyen-huu-lung,xa-tien-duoc,lang-son,huyen-soc-son
+,,,Thành Phố Tuyên Quang,21101.0,211.0,Xã Đức Hoà,1011549,10115,,thanh-pho-tuyen-quang,xa-duc-hoa,tuyen-quang,huyen-soc-son
+,,,Huyện Na Hang,21103.0,211.0,Xã Phú Cường,1011551,10115,,huyen-na-hang,xa-phu-cuong,tuyen-quang,huyen-soc-son
+,,,Huyện Chiêm Hoá,21105.0,211.0,Xã Xuân Nộn,1011701,10117,,huyen-chiem-hoa,xa-xuan-non,tuyen-quang,huyen-dong-anh
+,,,Huyện Hàm Yên,21107.0,211.0,Xã Thuỵ Lâm,1011703,10117,,huyen-ham-yen,xa-thuy-lam,tuyen-quang,huyen-dong-anh
+,,,Huyện Yên Sơn,21109.0,211.0,Xã Bắc Hồng,1011705,10117,,huyen-yen-son,xa-bac-hong,tuyen-quang,huyen-dong-anh
+,,,Huyện Sơn Dương,21111.0,211.0,Xã Nam Hồng,1011707,10117,,huyen-son-duong,xa-nam-hong,tuyen-quang,huyen-dong-anh
+,,,Huyện Lâm Bình,21113.0,211.0,Xã Tiên Dương,1011709,10117,,huyen-lam-binh,xa-tien-duong,tuyen-quang,huyen-dong-anh
+,,,Thành phố Yên Bái,21301.0,213.0,Xã Vân Hà,1011711,10117,,thanh-pho-yen-bai,xa-van-ha,yen-bai,huyen-dong-anh
+,,,Thị xã Nghĩa Lộ,21303.0,213.0,Xã Liên Hà,1011713,10117,,thi-xa-nghia-lo,xa-lien-ha,yen-bai,huyen-dong-anh
+,,,Huyện Lục Yên,21305.0,213.0,Xã Việt Hùng,1011715,10117,,huyen-luc-yen,xa-viet-hung,yen-bai,huyen-dong-anh
+,,,Huyện Văn Yên,21307.0,213.0,Xã Kim Chung,1011717,10117,,huyen-van-yen,xa-kim-chung,yen-bai,huyen-dong-anh
+,,,Huyện Mù Cang Chải,21309.0,213.0,Xã Dục Tú,1011719,10117,,huyen-mu-cang-chai,xa-duc-tu,yen-bai,huyen-dong-anh
+,,,Huyện Trấn Yên,21311.0,213.0,Xã Vĩnh Ngọc,1011721,10117,,huyen-tran-yen,xa-vinh-ngoc,yen-bai,huyen-dong-anh
+,,,Huyện Yên Bình,21313.0,213.0,Xã Cổ Loa,1011723,10117,,huyen-yen-binh,xa-co-loa,yen-bai,huyen-dong-anh
+,,,Huyện Văn Chấn,21315.0,213.0,Xã Hải Bối,1011725,10117,,huyen-van-chan,xa-hai-boi,yen-bai,huyen-dong-anh
+,,,Huyện Trạm Tấu,21317.0,213.0,Xã Võng La,1011727,10117,,huyen-tram-tau,xa-vong-la,yen-bai,huyen-dong-anh
+,,,Thành phố Thái Nguyên,21501.0,215.0,Xã Mai Lâm,1011729,10117,,thanh-pho-thai-nguyen,xa-mai-lam,thai-nguyen,huyen-dong-anh
+,,,Thành Phố Sông Công,21503.0,215.0,Xã Vân Nội,1011731,10117,,thanh-pho-song-cong,xa-van-noi,thai-nguyen,huyen-dong-anh
+,,,Huyện Định Hoá,21505.0,215.0,Xã Tàm Xá,1011733,10117,,huyen-dinh-hoa,xa-tam-xa,thai-nguyen,huyen-dong-anh
+,,,Huyện Võ Nhai,21507.0,215.0,Thị trấn Đông Anh,1011735,10117,,huyen-vo-nhai,thi-tran-dong-anh,thai-nguyen,huyen-dong-anh
+,,,Huyện Phú Lương,21509.0,215.0,Xã Nguyên Khê,1011737,10117,,huyen-phu-luong,xa-nguyen-khe,thai-nguyen,huyen-dong-anh
+,,,Huyện Đồng Hỷ,21511.0,215.0,Xã Uy Nỗ,1011739,10117,,huyen-dong-hy,xa-uy-no,thai-nguyen,huyen-dong-anh
+,,,Huyện Đại Từ,21513.0,215.0,Xã Kim Nỗ,1011741,10117,,huyen-dai-tu,xa-kim-no,thai-nguyen,huyen-dong-anh
+,,,Huyện Phú Bình,21515.0,215.0,Xã Đại Mạch,1011743,10117,,huyen-phu-binh,xa-dai-mach,thai-nguyen,huyen-dong-anh
+,,,Thị Xã Phổ Yên,21517.0,215.0,Xã Xuân Canh,1011745,10117,,thi-xa-pho-yen,xa-xuan-canh,thai-nguyen,huyen-dong-anh
+,,,Thành phố Việt Trì,21701.0,217.0,Xã Đông Hội,1011747,10117,,thanh-pho-viet-tri,xa-dong-hoi,phu-tho,huyen-dong-anh
+,,,Thị xã Phú Thọ,21703.0,217.0,Xã Kiêu Kỵ,1011901,10119,,thi-xa-phu-tho,xa-kieu-ky,phu-tho,huyen-gia-lam
+,,,Huyện Đoan Hùng,21705.0,217.0,Xã Bát Tràng,1011903,10119,,huyen-doan-hung,xa-bat-trang,phu-tho,huyen-gia-lam
+,,,Huyện Hạ Hoà,21707.0,217.0,Xã Kim Lan,1011905,10119,,huyen-ha-hoa,xa-kim-lan,phu-tho,huyen-gia-lam
+,,,Huyện Thanh Ba,21709.0,217.0,Xã Văn Đức,1011907,10119,,huyen-thanh-ba,xa-van-duc,phu-tho,huyen-gia-lam
+,,,Huyện Phù Ninh,21711.0,217.0,Xã Đa Tốn,1011909,10119,,huyen-phu-ninh,xa-da-ton,phu-tho,huyen-gia-lam
+,,,Huyện Cẩm Khê,21713.0,217.0,Thị trấn Yên Viên,1011911,10119,,huyen-cam-khe,thi-tran-yen-vien,phu-tho,huyen-gia-lam
+,,,Huyện Yên Lập,21715.0,217.0,Xã Yên Thường,1011913,10119,,huyen-yen-lap,xa-yen-thuong,phu-tho,huyen-gia-lam
+,,,Huyện Tam Nông,21717.0,217.0,Xã Yên Viên,1011915,10119,,huyen-tam-nong,xa-yen-vien,phu-tho,huyen-gia-lam
+,,,Huyện Thanh Sơn,21719.0,217.0,Xã Đình Xuyên,1011917,10119,,huyen-thanh-son,xa-dinh-xuyen,phu-tho,huyen-gia-lam
+,,,Huyện Tân Sơn,21720.0,217.0,Xã Dương Hà,1011919,10119,,huyen-tan-son,xa-duong-ha,phu-tho,huyen-gia-lam
+,,,Huyện Lâm Thao,21721.0,217.0,Xã Phù Đổng,1011921,10119,,huyen-lam-thao,xa-phu-dong,phu-tho,huyen-gia-lam
+,,,Huyện Thanh Thuỷ,21723.0,217.0,Xã Cổ Bi,1011923,10119,,huyen-thanh-thuy,xa-co-bi,phu-tho,huyen-gia-lam
+,,,Thành phố Vĩnh Yên,21901.0,219.0,Xã Đặng Xá,1011925,10119,,thanh-pho-vinh-yen,xa-dang-xa,vinh-phuc,huyen-gia-lam
+,,,Thị xã Phúc Yên,21902.0,219.0,Xã Kim Sơn,1011927,10119,,thi-xa-phuc-yen,xa-kim-son,vinh-phuc,huyen-gia-lam
+,,,Huyện Lập Thạch,21903.0,219.0,Thị trấn Trâu Quỳ,1011929,10119,,huyen-lap-thach,thi-tran-trau-quy,vinh-phuc,huyen-gia-lam
+,,,Huyện Tam Đảo,21904.0,219.0,Xã Dương Quang,1011931,10119,,huyen-tam-dao,xa-duong-quang,vinh-phuc,huyen-gia-lam
+,,,Huyện Tam Dương,21905.0,219.0,Xã Đông Dư,1011933,10119,,huyen-tam-duong,xa-dong-du,vinh-phuc,huyen-gia-lam
+,,,Huyện Vĩnh Tường,21907.0,219.0,Xã Lệ Chi,1011935,10119,,huyen-vinh-tuong,xa-le-chi,vinh-phuc,huyen-gia-lam
+,,,Huyện Yên Lạc,21909.0,219.0,Xã Ninh Hiệp,1011937,10119,,huyen-yen-lac,xa-ninh-hiep,vinh-phuc,huyen-gia-lam
+,,,Huyện Bình Xuyên,21913.0,219.0,Xã Trung Mầu,1011939,10119,,huyen-binh-xuyen,xa-trung-mau,vinh-phuc,huyen-gia-lam
+,,,Huyện Sông Lô,21915.0,219.0,Xã Phú Thị,1011941,10119,,huyen-song-lo,xa-phu-thi,vinh-phuc,huyen-gia-lam
+,,,Thành phố  Bắc Giang,22101.0,221.0,Xã Dương Xá,1011943,10119,,thanh-pho-bac-giang,xa-duong-xa,bac-giang,huyen-gia-lam
+,,,Huyện Yên Thế,22103.0,221.0,Thị trấn Cầu Diễn,1012101,10121,,huyen-yen-the,thi-tran-cau-dien,bac-giang,huyen-tu-liem
+,,,Huyện Tân Yên,22105.0,221.0,Xã Thượng Cát,1012103,10121,,huyen-tan-yen,xa-thuong-cat,bac-giang,huyen-tu-liem
+,,,Huyện Lục Ngạn,22107.0,221.0,Xã Thuỵ Phương,1012105,10121,,huyen-luc-ngan,xa-thuy-phuong,bac-giang,huyen-tu-liem
+,,,Huyện Hiệp Hoà,22109.0,221.0,Xã Tây Tựu,1012107,10121,,huyen-hiep-hoa,xa-tay-tuu,bac-giang,huyen-tu-liem
+,,,Huyện Lạng Giang,22111.0,221.0,Xã Xuân Đỉnh,1012109,10121,,huyen-lang-giang,xa-xuan-dinh,bac-giang,huyen-tu-liem
+,,,Huyện Sơn Động,22113.0,221.0,Xã Cổ Nhuế,1012111,10121,,huyen-son-dong,xa-co-nhue,bac-giang,huyen-tu-liem
+,,,Huyện Lục Nam,22115.0,221.0,Xã Phú Diễn,1012113,10121,,huyen-luc-nam,xa-phu-dien,bac-giang,huyen-tu-liem
+,,,Huyện Việt Yên,22117.0,221.0,Xã Xuân Phương,1012115,10121,,huyen-viet-yen,xa-xuan-phuong,bac-giang,huyen-tu-liem
+,,,Huyện Yên Dũng,22119.0,221.0,Xã Tây Mỗ,1012117,10121,,huyen-yen-dung,xa-tay-mo,bac-giang,huyen-tu-liem
+,,,Thành phố Bắc Ninh,22301.0,223.0,Xã Mễ Trì,1012119,10121,,thanh-pho-bac-ninh,xa-me-tri,bac-ninh,huyen-tu-liem
+,,,Huyện Yên Phong,22303.0,223.0,Xã Liên Mạc,1012121,10121,,huyen-yen-phong,xa-lien-mac,bac-ninh,huyen-tu-liem
+,,,Huyện Quế Võ,22305.0,223.0,Xã Đại Mỗ,1012123,10121,,huyen-que-vo,xa-dai-mo,bac-ninh,huyen-tu-liem
+,,,Huyện Tiên Du,22307.0,223.0,Xã Đông Ngạc,1012125,10121,,huyen-tien-du,xa-dong-ngac,bac-ninh,huyen-tu-liem
+,,,Huyện Thuận Thành,22309.0,223.0,Xã Minh Khai,1012127,10121,,huyen-thuan-thanh,xa-minh-khai,bac-ninh,huyen-tu-liem
+,,,Huyện Lương Tài,22311.0,223.0,Xã Mỹ Đình,1012129,10121,,huyen-luong-tai,xa-my-dinh,bac-ninh,huyen-tu-liem
+,,,Thị xã Từ Sơn,22313.0,223.0,Xã Trung Văn,1012131,10121,,thi-xa-tu-son,xa-trung-van,bac-ninh,huyen-tu-liem
+,,,Huyện Gia Bình,22315.0,223.0,Thị trấn Văn Điển,1012301,10123,,huyen-gia-binh,thi-tran-van-dien,bac-ninh,huyen-thanh-tri
+,,,Thành phố Hạ Long,22501.0,225.0,Xã Tân Triều,1012303,10123,,thanh-pho-ha-long,xa-tan-trieu,quang-ninh,huyen-thanh-tri
+,,,Thành phố Cẩm Phả,22503.0,225.0,Xã Thanh Liệt,1012305,10123,,thanh-pho-cam-pha,xa-thanh-liet,quang-ninh,huyen-thanh-tri
+,,,Thành phố Uông Bí,22505.0,225.0,Xã Hữu Hoà,1012307,10123,,thanh-pho-uong-bi,xa-huu-hoa,quang-ninh,huyen-thanh-tri
+,,,Huyện Bình Liêu,22507.0,225.0,Xã Tam Hiệp,1012309,10123,,huyen-binh-lieu,xa-tam-hiep,quang-ninh,huyen-thanh-tri
+,,,Thành phố Móng cái,22509.0,225.0,Xã Tứ Hiệp,1012311,10123,,thanh-pho-mong-cai,xa-tu-hiep,quang-ninh,huyen-thanh-tri
+,,,Huyện Hải Hà,22511.0,225.0,Xã Vĩnh Quỳnh,1012313,10123,,huyen-hai-ha,xa-vinh-quynh,quang-ninh,huyen-thanh-tri
+,,,Huyện Tiên Yên,22513.0,225.0,Xã Duyên Hà,1012315,10123,,huyen-tien-yen,xa-duyen-ha,quang-ninh,huyen-thanh-tri
+,,,Huyện Ba Chẽ,22515.0,225.0,Xã Vạn Phúc,1012317,10123,,huyen-ba-che,xa-van-phuc,quang-ninh,huyen-thanh-tri
+,,,Huyện Vân Đồn,22517.0,225.0,Xã Đại áng,1012319,10123,,huyen-van-don,xa-dai-ang,quang-ninh,huyen-thanh-tri
+,,,Huyện Hoành Bồ,22519.0,225.0,Xã Liên Ninh,1012321,10123,,huyen-hoanh-bo,xa-lien-ninh,quang-ninh,huyen-thanh-tri
+,,,Thị xã Đông Triều,22521.0,225.0,Xã Ngũ Hiệp,1012323,10123,,thi-xa-dong-trieu,xa-ngu-hiep,quang-ninh,huyen-thanh-tri
+,,,Huyện Cô Tô,22523.0,225.0,Xã Tả Thanh Oai,1012325,10123,,huyen-co-to,xa-ta-thanh-oai,quang-ninh,huyen-thanh-tri
+,,,Thị xã Quảng Yên,22525.0,225.0,Xã Yên Mỹ,1012327,10123,,thi-xa-quang-yen,xa-yen-my,quang-ninh,huyen-thanh-tri
+,,,Huyện Đầm Hà,22527.0,225.0,Xã Ngọc Hồi,1012329,10123,,huyen-dam-ha,xa-ngoc-hoi,quang-ninh,huyen-thanh-tri
+,,,Thành phố Điện Biên Phủ,30101.0,301.0,Xã Đông Mỹ,1012331,10123,,thanh-pho-dien-bien-phu,xa-dong-my,dien-bien,huyen-thanh-tri
+,,,Thị xã Mường Lay,30103.0,301.0,Xã Đại Thịnh,1012501,10125,,thi-xa-muong-lay,xa-dai-thinh,dien-bien,huyen-me-linh
+,,,Huyện Mường Nhé,30104.0,301.0,Xã Kim Hoa,1012503,10125,,huyen-muong-nhe,xa-kim-hoa,dien-bien,huyen-me-linh
+,,,Huyện Mường Chà,30111.0,301.0,Xã Thạch Đà,1012505,10125,,huyen-muong-cha,xa-thach-da,dien-bien,huyen-me-linh
+,,,Huyện Tủa Chùa,30113.0,301.0,Xã Tự Lập,1012507,10125,,huyen-tua-chua,xa-tu-lap,dien-bien,huyen-me-linh
+,,,Huyện Tuần Giáo,30115.0,301.0,Xã Thanh Lâm,1012509,10125,,huyen-tuan-giao,xa-thanh-lam,dien-bien,huyen-me-linh
+,,,Huyện Điện Biên,30117.0,301.0,Xã Liên Mạc ,1012511,10125,,huyen-dien-bien,xa-lien-mac,dien-bien,huyen-me-linh
+,,,Huyện Điện Biên Đông,30119.0,301.0,Xã Vạn Yên,1012513,10125,,huyen-dien-bien-dong,xa-van-yen,dien-bien,huyen-me-linh
+,,,Huyện Mường ảng,30121.0,301.0,Xã Chu Phan,1012515,10125,,huyen-muong-ang,xa-chu-phan,dien-bien,huyen-me-linh
+,,,Huyện Nậm Pồ,30123.0,301.0,Xã Mê Linh,1012517,10125,,huyen-nam-po,xa-me-linh,dien-bien,huyen-me-linh
+,,,Huyện Mường Tè,30201.0,302.0,Xã Văn Khê,1012519,10125,,huyen-muong-te,xa-van-khe,lai-chau,huyen-me-linh
+,,,Thành phố Lai Châu,30202.0,302.0,Xã Hoàng Kim,1012521,10125,,thanh-pho-lai-chau,xa-hoang-kim,lai-chau,huyen-me-linh
+,,,Huyện Phong Thổ,30203.0,302.0,Xã Tráng Việt,1012523,10125,,huyen-phong-tho,xa-trang-viet,lai-chau,huyen-me-linh
+,,,Huyện Tam Đường,30205.0,302.0,Thị trấn Quang Minh,1012525,10125,,huyen-tam-duong,thi-tran-quang-minh,lai-chau,huyen-me-linh
+,,,Huyện Sìn Hồ,30207.0,302.0,Xã Tiến Thắng,1012527,10125,,huyen-sin-ho,xa-tien-thang,lai-chau,huyen-me-linh
+,,,Huyện Than Uyên,30209.0,302.0,Xã Tam Đồng,1012529,10125,,huyen-than-uyen,xa-tam-dong,lai-chau,huyen-me-linh
+,,,Huyện Tân Uyên,30211.0,302.0,Xã Tiến Thịnh,1012531,10125,,huyen-tan-uyen,xa-tien-thinh,lai-chau,huyen-me-linh
+,,,Huyện Nậm Nhùn,30213.0,302.0,Xã Tiền Phong,1012533,10125,,huyen-nam-nhun,xa-tien-phong,lai-chau,huyen-me-linh
+,,,Thành phố Sơn La,30301.0,303.0,Thị trấn Chi Đông,1012535,10125,,thanh-pho-son-la,thi-tran-chi-dong,son-la,huyen-me-linh
+,,,Huyện Quỳnh Nhai,30303.0,303.0,Phường Nguyễn Trãi,1012701,10127,,huyen-quynh-nhai,phuong-nguyen-trai,son-la,quan-ha-dong
+,,,Huyện Mường La,30305.0,303.0,Phường Mộ Lao,1012703,10127,,huyen-muong-la,phuong-mo-lao,son-la,quan-ha-dong
+,,,Huyện Thuận Châu,30307.0,303.0,Phường Văn Quán,1012704,10127,,huyen-thuan-chau,phuong-van-quan,son-la,quan-ha-dong
+,,,Huyện Bắc Yên,30309.0,303.0,Phường Vạn Phúc,1012705,10127,,huyen-bac-yen,phuong-van-phuc,son-la,quan-ha-dong
+,,,Huyện Phù Yên,30311.0,303.0,Phường Quang Trung ,1012707,10127,,huyen-phu-yen,phuong-quang-trung,son-la,quan-ha-dong
+,,,Huyện Mai Sơn,30313.0,303.0,Phường Phúc La,1012709,10127,,huyen-mai-son,phuong-phuc-la,son-la,quan-ha-dong
+,,,Huyện Sông Mã,30315.0,303.0,Phường Hà Cầu,1012711,10127,,huyen-song-ma,phuong-ha-cau,son-la,quan-ha-dong
+,,,Huyện Yên Châu,30317.0,303.0,Phường Yên Nghĩa,1012713,10127,,huyen-yen-chau,phuong-yen-nghia,son-la,quan-ha-dong
+,,,Huyện Mộc Châu,30319.0,303.0,Phường Kiến Hưng,1012715,10127,,huyen-moc-chau,phuong-kien-hung,son-la,quan-ha-dong
+,,,Huyện Sốp Cộp,30321.0,303.0,Phường Phú Lãm,1012717,10127,,huyen-sop-cop,phuong-phu-lam,son-la,quan-ha-dong
+,,,Huyện Vân Hồ,30323.0,303.0,Phường Dương Nội,1012719,10127,,huyen-van-ho,phuong-duong-noi,son-la,quan-ha-dong
+,,,Thành phố Hoà Bình,30501.0,305.0,Phường Đồng Mai,1012721,10127,,thanh-pho-hoa-binh,phuong-dong-mai,hoa-binh,quan-ha-dong
+,,,Huyện Đà Bắc,30503.0,305.0,Phường Biên Giang,1012723,10127,,huyen-da-bac,phuong-bien-giang,hoa-binh,quan-ha-dong
+,,,Huyện Mai Châu,30505.0,305.0,Phường Phú Lương,1012725,10127,,huyen-mai-chau,phuong-phu-luong,hoa-binh,quan-ha-dong
+,,,Huyện Kỳ Sơn,30507.0,305.0,Phường Phú La,1012727,10127,,huyen-ky-son,phuong-phu-la,hoa-binh,quan-ha-dong
+,,,Huyện Lương Sơn,30509.0,305.0,Phường La Khê,1012728,10127,,huyen-luong-son,phuong-la-khe,hoa-binh,quan-ha-dong
+,,,Huyện Cao Phong,30510.0,305.0,Phường Yết Kiêu,1012729,10127,,huyen-cao-phong,phuong-yet-kieu,hoa-binh,quan-ha-dong
+,,,Huyện Kim Bôi,30511.0,305.0,Phường Phú Thịnh,1012901,10129,,huyen-kim-boi,phuong-phu-thinh,hoa-binh,thi-xa-son-tay
+,,,Huyện Tân Lạc,30513.0,305.0,Phường Quang Trung  ,1012903,10129,,huyen-tan-lac,phuong-quang-trung,hoa-binh,thi-xa-son-tay
+,,,Huyện Lạc Sơn,30515.0,305.0,Phường Sơn Lộc,1012905,10129,,huyen-lac-son,phuong-son-loc,hoa-binh,thi-xa-son-tay
+,,,Huyện Lạc Thuỷ,30517.0,305.0,Phường Xuân Khanh,1012907,10129,,huyen-lac-thuy,phuong-xuan-khanh,hoa-binh,thi-xa-son-tay
+,,,Huyện Yên Thuỷ,30519.0,305.0,Xã Đường Lâm,1012909,10129,,huyen-yen-thuy,xa-duong-lam,hoa-binh,thi-xa-son-tay
+,,,Thành phố Thanh Hoá,40101.0,401.0,Xã Xuân Sơn,1012911,10129,,thanh-pho-thanh-hoa,xa-xuan-son,thanh-hoa,thi-xa-son-tay
+,,,Thị xã Bỉm Sơn,40103.0,401.0,Phường Trung Hưng,1012913,10129,,thi-xa-bim-son,phuong-trung-hung,thanh-hoa,thi-xa-son-tay
+,,,Thành phố Sầm Sơn,40105.0,401.0,Xã Thanh Mỹ,1012915,10129,,thanh-pho-sam-son,xa-thanh-my,thanh-hoa,thi-xa-son-tay
+,,,Huyện Mường Lát,40107.0,401.0,Xã Kim Sơn ,1012917,10129,,huyen-muong-lat,xa-kim-son,thanh-hoa,thi-xa-son-tay
+,,,Huyện Quan Hoá,40109.0,401.0,Xã Sơn Đông,1012919,10129,,huyen-quan-hoa,xa-son-dong,thanh-hoa,thi-xa-son-tay
+,,,Huyện Quan Sơn,40111.0,401.0,Xã Cổ Đông,1012921,10129,,huyen-quan-son,xa-co-dong,thanh-hoa,thi-xa-son-tay
+,,,Huyện Bá Thước,40113.0,401.0,Phường Lê Lợi,1012923,10129,,huyen-ba-thuoc,phuong-le-loi,thanh-hoa,thi-xa-son-tay
+,,,Huyện Cẩm Thuỷ,40115.0,401.0,Phường Ngô Quyền,1012925,10129,,huyen-cam-thuy,phuong-ngo-quyen,thanh-hoa,thi-xa-son-tay
+,,,Huyện Lang Chánh,40117.0,401.0,Phường Viên Sơn,1012927,10129,,huyen-lang-chanh,phuong-vien-son,thanh-hoa,thi-xa-son-tay
+,,,Huyện Thạch Thành,40119.0,401.0,Phường Trung Sơn Trầm,1012929,10129,,huyen-thach-thanh,phuong-trung-son-tram,thanh-hoa,thi-xa-son-tay
+,,,Huyện Ngọc Lặc,40121.0,401.0,Xã Vân Hà ,1013101,10131,,huyen-ngoc-lac,xa-van-ha,thanh-hoa,huyen-phuc-tho
+,,,Huyện Thường Xuân,40123.0,401.0,Xã Vân Phúc,1013103,10131,,huyen-thuong-xuan,xa-van-phuc,thanh-hoa,huyen-phuc-tho
+,,,Huyện Như Xuân,40125.0,401.0,Xã Vân Nam,1013105,10131,,huyen-nhu-xuan,xa-van-nam,thanh-hoa,huyen-phuc-tho
+,,,Huyện Như Thanh,40127.0,401.0,Xã Xuân Phú,1013107,10131,,huyen-nhu-thanh,xa-xuan-phu,thanh-hoa,huyen-phuc-tho
+,,,Huyện Vĩnh Lộc,40129.0,401.0,Xã Sen Chiểu,1013109,10131,,huyen-vinh-loc,xa-sen-chieu,thanh-hoa,huyen-phuc-tho
+,,,Huyện Hà Trung,40131.0,401.0,Xã Cẩm Đình,1013111,10131,,huyen-ha-trung,xa-cam-dinh,thanh-hoa,huyen-phuc-tho
+,,,Huyện Nga Sơn,40133.0,401.0,Xã Võng Xuyên,1013113,10131,,huyen-nga-son,xa-vong-xuyen,thanh-hoa,huyen-phuc-tho
+,,,Huyện Yên Định,40135.0,401.0,Xã Long Xuyên,1013115,10131,,huyen-yen-dinh,xa-long-xuyen,thanh-hoa,huyen-phuc-tho
+,,,Huyện Thọ Xuân,40137.0,401.0,Xã Thượng Cốc,1013117,10131,,huyen-tho-xuan,xa-thuong-coc,thanh-hoa,huyen-phuc-tho
+,,,Huyện Hậu Lộc,40139.0,401.0,Xã Thanh Đa,1013119,10131,,huyen-hau-loc,xa-thanh-da,thanh-hoa,huyen-phuc-tho
+,,,Huyện Thiệu Hoá,40141.0,401.0,Xã Trạch Mỹ Lộc,1013121,10131,,huyen-thieu-hoa,xa-trach-my-loc,thanh-hoa,huyen-phuc-tho
+,,,Huyện Hoằng Hoá,40143.0,401.0,Xã Phúc Hòa,1013123,10131,,huyen-hoang-hoa,xa-phuc-hoa,thanh-hoa,huyen-phuc-tho
+,,,Huyện Đông Sơn,40145.0,401.0,Xã Phụng Thượng,1013125,10131,,huyen-dong-son,xa-phung-thuong,thanh-hoa,huyen-phuc-tho
+,,,Huyện Triệu Sơn,40147.0,401.0,Xã Tam Thuấn,1013127,10131,,huyen-trieu-son,xa-tam-thuan,thanh-hoa,huyen-phuc-tho
+,,,Huyện Quảng Xương,40149.0,401.0,Xã Tam Hiệp ,1013129,10131,,huyen-quang-xuong,xa-tam-hiep,thanh-hoa,huyen-phuc-tho
+,,,Huyện Nông Cống,40151.0,401.0,Xã Hát Môn,1013131,10131,,huyen-nong-cong,xa-hat-mon,thanh-hoa,huyen-phuc-tho
+,,,Thị xã Nghi Sơn,40153.0,401.0,Thị trấn Phúc Thọ,1013133,10131,,thi-xa-nghi-son,thi-tran-phuc-tho,thanh-hoa,huyen-phuc-tho
+,,,Thành phố Vinh,40301.0,403.0,Xã Phương Độ,1013135,10131,,thanh-pho-vinh,xa-phuong-do,nghe-an,huyen-phuc-tho
+,,,Thị xã Cửa Lò,40303.0,403.0,Xã Thọ Lộc,1013137,10131,,thi-xa-cua-lo,xa-tho-loc,nghe-an,huyen-phuc-tho
+,,,Huyện Quế Phong,40305.0,403.0,Xã Tích Giang,1013139,10131,,huyen-que-phong,xa-tich-giang,nghe-an,huyen-phuc-tho
+,,,Huyện Quỳ Châu,40307.0,403.0,Xã Ngọc Tảo,1013141,10131,,huyen-quy-chau,xa-ngoc-tao,nghe-an,huyen-phuc-tho
+,,,Huyện Kỳ Sơn ,40309.0,403.0,Xã Hiệp Thuận,1013143,10131,,huyen-ky-son,xa-hiep-thuan,nghe-an,huyen-phuc-tho
+,,,Huyện Quỳ Hợp,40311.0,403.0,Xã Liên Hiệp,1013145,10131,,huyen-quy-hop,xa-lien-hiep,nghe-an,huyen-phuc-tho
+,,,Huyện Nghĩa Đàn,40313.0,403.0,Xã Xuân Đình,1013147,10131,,huyen-nghia-dan,xa-xuan-dinh,nghe-an,huyen-phuc-tho
+,,,Thị xã Thái Hoà,40314.0,403.0,Xã Sen Phương,1013149,10131,,thi-xa-thai-hoa,xa-sen-phuong,nghe-an,huyen-phuc-tho
+,,,Huyện Tương Dương,40315.0,403.0,Xã Thọ An,1013301,10133,,huyen-tuong-duong,xa-tho-an,nghe-an,huyen-dan-phuong
+,,,Huyện Quỳnh Lưu,40317.0,403.0,Xã Phương Đình,1013303,10133,,huyen-quynh-luu,xa-phuong-dinh,nghe-an,huyen-dan-phuong
+,,,Huyện Tân Kỳ,40319.0,403.0,Xã Hạ Mỗ,1013305,10133,,huyen-tan-ky,xa-ha-mo,nghe-an,huyen-dan-phuong
+,,,Huyện Con Cuông,40321.0,403.0,Xã Tân Hội,1013307,10133,,huyen-con-cuong,xa-tan-hoi,nghe-an,huyen-dan-phuong
+,,,Huyện Yên THành,40323.0,403.0,Xã Song Phượng,1013309,10133,,huyen-yen-thanh,xa-song-phuong,nghe-an,huyen-dan-phuong
+,,,Huyện Diễn Châu,40325.0,403.0,Thị trấn Phùng,1013311,10133,,huyen-dien-chau,thi-tran-phung,nghe-an,huyen-dan-phuong
+,,,Huyện Anh SƠn,40327.0,403.0,Xã Trung Châu,1013313,10133,,huyen-anh-son,xa-trung-chau,nghe-an,huyen-dan-phuong
+,,,Huyện Đô Lương,40329.0,403.0,Xã Thọ Xuân,1013315,10133,,huyen-do-luong,xa-tho-xuan,nghe-an,huyen-dan-phuong
+,,,Huyện Thanh Chương,40331.0,403.0,Xã Hồng Hà,1013317,10133,,huyen-thanh-chuong,xa-hong-ha,nghe-an,huyen-dan-phuong
+,,,Huyện Nghi Lộc,40333.0,403.0,Xã Liên Hồng,1013319,10133,,huyen-nghi-loc,xa-lien-hong,nghe-an,huyen-dan-phuong
+,,,Huyện Nam Đàn,40335.0,403.0,Xã Liên Hà ,1013321,10133,,huyen-nam-dan,xa-lien-ha,nghe-an,huyen-dan-phuong
+,,,Huyện Hưng Nguyên,40337.0,403.0,Xã Liên Trung,1013323,10133,,huyen-hung-nguyen,xa-lien-trung,nghe-an,huyen-dan-phuong
+,,,Thị xã Hoàng Mai,40339.0,403.0,Xã Thượng Mỗ,1013325,10133,,thi-xa-hoang-mai,xa-thuong-mo,nghe-an,huyen-dan-phuong
+,,,Thành phố Hà Tĩnh,40501.0,405.0,Xã Tân Lập,1013327,10133,,thanh-pho-ha-tinh,xa-tan-lap,ha-tinh,huyen-dan-phuong
+,,,Thị xã Hồng Lĩnh,40503.0,405.0,Xã Đan Phượng,1013329,10133,,thi-xa-hong-linh,xa-dan-phuong,ha-tinh,huyen-dan-phuong
+,,,Huyện Nghi Xuân,40505.0,405.0,Xã Đồng Tháp,1013331,10133,,huyen-nghi-xuan,xa-dong-thap,ha-tinh,huyen-dan-phuong
+,,,Huyện Đức Thọ,40507.0,405.0,Xã Phú Kim,1013501,10135,,huyen-duc-tho,xa-phu-kim,ha-tinh,huyen-thach-that
+,,,Huyện Hương Sơn,40509.0,405.0,Xã Hữu Bằng,1013503,10135,,huyen-huong-son,xa-huu-bang,ha-tinh,huyen-thach-that
+,,,Huyện Can Lộc,40511.0,405.0,Xã Lại Thượng,1013505,10135,,huyen-can-loc,xa-lai-thuong,ha-tinh,huyen-thach-that
+,,,Huyện Thạch Hà,40513.0,405.0,Xã Kim Quan,1013507,10135,,huyen-thach-ha,xa-kim-quan,ha-tinh,huyen-thach-that
+,,,Huyện Cẩm Xuyên,40515.0,405.0,Xã Thạch Hoà,1013509,10135,,huyen-cam-xuyen,xa-thach-hoa,ha-tinh,huyen-thach-that
+,,,Huyện Hương Khê,40517.0,405.0,Xã Tân Xã,1013511,10135,,huyen-huong-khe,xa-tan-xa,ha-tinh,huyen-thach-that
+,,,Huyện Kỳ Anh,40519.0,405.0,Xã Hạ Bằng,1013513,10135,,huyen-ky-anh,xa-ha-bang,ha-tinh,huyen-thach-that
+,,,Thị xã Kỳ Anh,40520.0,405.0,Thị trấn Liên Quan,1013515,10135,,thi-xa-ky-anh,thi-tran-lien-quan,ha-tinh,huyen-thach-that
+,,,Huyện Vũ Quang,40521.0,405.0,Xã Đại Đồng,1013517,10135,,huyen-vu-quang,xa-dai-dong,ha-tinh,huyen-thach-that
+,,,Huyện Lộc Hà,40523.0,405.0,Xã Cẩm Yên,1013519,10135,,huyen-loc-ha,xa-cam-yen,ha-tinh,huyen-thach-that
+,,,Thành phố Đồng Hới,40701.0,407.0,Xã Hương Ngải,1013521,10135,,thanh-pho-dong-hoi,xa-huong-ngai,quang-binh,huyen-thach-that
+,,,Huyện Tuyên Hoá,40703.0,407.0,Xã Canh Nậu,1013523,10135,,huyen-tuyen-hoa,xa-canh-nau,quang-binh,huyen-thach-that
+,,,Huyện Minh Hoá,40705.0,407.0,Xã Dị Nậu,1013525,10135,,huyen-minh-hoa,xa-di-nau,quang-binh,huyen-thach-that
+,,,Huyện Quảng Trạch,40707.0,407.0,Xã Bình Yên,1013527,10135,,huyen-quang-trach,xa-binh-yen,quang-binh,huyen-thach-that
+,,,Huyện Bố Trạch,40709.0,407.0,Xã Chàng Sơn,1013529,10135,,huyen-bo-trach,xa-chang-son,quang-binh,huyen-thach-that
+,,,Huyện Quảng Ninh,40711.0,407.0,Xã Cần Kiệm,1013531,10135,,huyen-quang-ninh,xa-can-kiem,quang-binh,huyen-thach-that
+,,,Huyện Lệ Thuỷ,40713.0,407.0,Xã Phùng Xá,1013533,10135,,huyen-le-thuy,xa-phung-xa,quang-binh,huyen-thach-that
+,,,Thị Xã Ba Đồn,40715.0,407.0,Xã Thạch Xá,1013535,10135,,thi-xa-ba-don,xa-thach-xa,quang-binh,huyen-thach-that
+,,,Thành phố Đông Hà,40901.0,409.0,Xã Bình Phú,1013537,10135,,thanh-pho-dong-ha,xa-binh-phu,quang-tri,huyen-thach-that
+,,,Thị xã Quảng Trị,40903.0,409.0,Xã Đồng Trúc,1013539,10135,,thi-xa-quang-tri,xa-dong-truc,quang-tri,huyen-thach-that
+,,,Huyện Vĩnh Linh,40905.0,409.0,Xã Yên Bình,1013541,10135,,huyen-vinh-linh,xa-yen-binh,quang-tri,huyen-thach-that
+,,,Huyện Gio Linh,40907.0,409.0,Xã Yên Trung,1013543,10135,,huyen-gio-linh,xa-yen-trung,quang-tri,huyen-thach-that
+,,,Huyện Cam Lộ,40909.0,409.0,Xã Tiến Xuân,1013545,10135,,huyen-cam-lo,xa-tien-xuan,quang-tri,huyen-thach-that
+,,,Huyện Triệu Phong,40911.0,409.0,Xã Di Trạch,1013701,10137,,huyen-trieu-phong,xa-di-trach,quang-tri,huyen-hoai-duc
+,,,Huyện Hải Lăng,40913.0,409.0,Xã Song Phương,1013703,10137,,huyen-hai-lang,xa-song-phuong,quang-tri,huyen-hoai-duc
+,,,Huyện Hướng Hoá,40915.0,409.0,Xã Dương Liễu,1013705,10137,,huyen-huong-hoa,xa-duong-lieu,quang-tri,huyen-hoai-duc
+,,,Huyện Đa Krông,40917.0,409.0,Xã Kim Chung ,1013707,10137,,huyen-da-krong,xa-kim-chung,quang-tri,huyen-hoai-duc
+,,,Huyện Đảo Cồn Cỏ,40919.0,409.0,Xã Đắc Sở,1013709,10137,,huyen-dao-con-co,xa-dac-so,quang-tri,huyen-hoai-duc
+,,,Thành phố Huế,41101.0,411.0,Xã An Khánh,1013711,10137,,thanh-pho-hue,xa-an-khanh,thua-thien-hue,huyen-hoai-duc
+,,,Huyện Phong ĐIền,41103.0,411.0,Xã Đông La,1013713,10137,,huyen-phong-dien,xa-dong-la,thua-thien-hue,huyen-hoai-duc
+,,,Huyện Quảng ĐIền,41105.0,411.0,Thị trấn Trạm Trôi,1013715,10137,,huyen-quang-dien,thi-tran-tram-troi,thua-thien-hue,huyen-hoai-duc
+,,,Thị Xã Hương Trà,41107.0,411.0,Xã Đức Thượng,1013717,10137,,thi-xa-huong-tra,xa-duc-thuong,thua-thien-hue,huyen-hoai-duc
+,,,Huyện Phú Vang,41109.0,411.0,Xã Minh Khai ,1013719,10137,,huyen-phu-vang,xa-minh-khai,thua-thien-hue,huyen-hoai-duc
+,,,Thị xã  Hương Thuỷ,41111.0,411.0,Xã Đức Giang,1013721,10137,,thi-xa-huong-thuy,xa-duc-giang,thua-thien-hue,huyen-hoai-duc
+,,,Huyện Phú Lộc,41113.0,411.0,Xã Cát Quế,1013723,10137,,huyen-phu-loc,xa-cat-que,thua-thien-hue,huyen-hoai-duc
+,,,Huyện A Lưới,41115.0,411.0,Xã Yên Sở,1013725,10137,,huyen-a-luoi,xa-yen-so,thua-thien-hue,huyen-hoai-duc
+,,,Huyện Nam Đông,41117.0,411.0,Xã Sơn Đồng,1013727,10137,,huyen-nam-dong,xa-son-dong,thua-thien-hue,huyen-hoai-duc
+,,,Quận Hải Châu,50101.0,501.0,Xã Vân Canh,1013729,10137,,quan-hai-chau,xa-van-canh,da-nang,huyen-hoai-duc
+,,,Quận Thanh Khê,50103.0,501.0,Xã Lại Yên,1013731,10137,,quan-thanh-khe,xa-lai-yen,da-nang,huyen-hoai-duc
+,,,Quận Sơn Trà,50105.0,501.0,Xã Tiền Yên,1013733,10137,,quan-son-tra,xa-tien-yen,da-nang,huyen-hoai-duc
+,,,Quận Ngũ Hành Sơn,50107.0,501.0,Xã An Thượng,1013735,10137,,quan-ngu-hanh-son,xa-an-thuong,da-nang,huyen-hoai-duc
+,,,Quận Liên Chiểu,50109.0,501.0,Xã Vân Côn,1013737,10137,,quan-lien-chieu,xa-van-con,da-nang,huyen-hoai-duc
+,,,Huyện Hoà Vang,50111.0,501.0,Xã La Phù,1013739,10137,,huyen-hoa-vang,xa-la-phu,da-nang,huyen-hoai-duc
+,,,Huyện Đảo Hoàng Sa,50113.0,501.0,Xã Ngọc Liệp,1013901,10139,,huyen-dao-hoang-sa,xa-ngoc-liep,da-nang,huyen-quoc-oai
+,,,Quận cẩm lệ,50115.0,501.0,Xã Đại Thành,1013903,10139,,quan-cam-le,xa-dai-thanh,da-nang,huyen-quoc-oai
+,,,Thành phố Tam Kỳ,50301.0,503.0,Xã Phượng Cách,1013905,10139,,thanh-pho-tam-ky,xa-phuong-cach,quang-nam,huyen-quoc-oai
+,,,Huyện Phú Ninh,50302.0,503.0,Xã Thạch Thán,1013907,10139,,huyen-phu-ninh,xa-thach-than,quang-nam,huyen-quoc-oai
+,,,Thành phố Hội An,50303.0,503.0,Xã Nghĩa Hương,1013909,10139,,thanh-pho-hoi-an,xa-nghia-huong,quang-nam,huyen-quoc-oai
+,,,Huyện Tây Giang,50304.0,503.0,Xã Phú Mãn,1013911,10139,,huyen-tay-giang,xa-phu-man,quang-nam,huyen-quoc-oai
+,,,Huyện Đông Giang,50305.0,503.0,Xã Đông Yên,1013913,10139,,huyen-dong-giang,xa-dong-yen,quang-nam,huyen-quoc-oai
+,,,Huyện Đại Lộc,50307.0,503.0,Thị trấn Quốc Oai,1013915,10139,,huyen-dai-loc,thi-tran-quoc-oai,quang-nam,huyen-quoc-oai
+,,,Thị Xã Điện Bàn,50309.0,503.0,Xã Sài Sơn,1013917,10139,,thi-xa-dien-ban,xa-sai-son,quang-nam,huyen-quoc-oai
+,,,Huyện Duy Xuyên,50311.0,503.0,Xã Yên Sơn,1013919,10139,,huyen-duy-xuyen,xa-yen-son,quang-nam,huyen-quoc-oai
+,,,Huyện Nam Giang,50313.0,503.0,Xã Ngọc Mỹ,1013921,10139,,huyen-nam-giang,xa-ngoc-my,quang-nam,huyen-quoc-oai
+,,,Huyện Thăng Bình,50315.0,503.0,Xã Liệp Tuyết,1013923,10139,,huyen-thang-binh,xa-liep-tuyet,quang-nam,huyen-quoc-oai
+,,,Huyện Quế Sơn,50317.0,503.0,Xã Đồng Quang,1013925,10139,,huyen-que-son,xa-dong-quang,quang-nam,huyen-quoc-oai
+,,,Huyện Nông Sơn,50318.0,503.0,Xã Phú Cát,1013927,10139,,huyen-nong-son,xa-phu-cat,quang-nam,huyen-quoc-oai
+,,,Huyện Hiệp Đức,50319.0,503.0,Xã Tuyết Nghĩa,1013929,10139,,huyen-hiep-duc,xa-tuyet-nghia,quang-nam,huyen-quoc-oai
+,,,Huyện Tiên Phước,50321.0,503.0,Xã Cộng Hòa,1013931,10139,,huyen-tien-phuoc,xa-cong-hoa,quang-nam,huyen-quoc-oai
+,,,Huyện Phước Sơn,50323.0,503.0,Xã Tân Phú,1013933,10139,,huyen-phuoc-son,xa-tan-phu,quang-nam,huyen-quoc-oai
+,,,Huyện Núi Thành,50325.0,503.0,Xã Cấn Hữu,1013935,10139,,huyen-nui-thanh,xa-can-huu,quang-nam,huyen-quoc-oai
+,,,Huyện Bắc Trà My,50327.0,503.0,Xã Tân Hòa,1013937,10139,,huyen-bac-tra-my,xa-tan-hoa,quang-nam,huyen-quoc-oai
+,,,Huyện Nam Trà My,50329.0,503.0,Xã Hòa Thạch,1013939,10139,,huyen-nam-tra-my,xa-hoa-thach,quang-nam,huyen-quoc-oai
+,,,Thành phố Quảng Ngãi,50501.0,505.0,Xã Đông Xuân ,1013941,10139,,thanh-pho-quang-ngai,xa-dong-xuan,quang-ngai,huyen-quoc-oai
+,,,Huyện Lý Sơn,50503.0,505.0,Xã Mỹ Hưng,1014101,10141,,huyen-ly-son,xa-my-hung,quang-ngai,huyen-thanh-oai
+,,,Huyện Bình Sơn,50505.0,505.0,Xã Thanh Mai,1014103,10141,,huyen-binh-son,xa-thanh-mai,quang-ngai,huyen-thanh-oai
+,,,Huyện Trà Bồng,50507.0,505.0,Xã Cao Dương,1014105,10141,,huyen-tra-bong,xa-cao-duong,quang-ngai,huyen-thanh-oai
+,,,Huyện Tây Trà,50508.0,505.0,Xã Cự Khê,1014107,10141,,huyen-tay-tra,xa-cu-khe,quang-ngai,huyen-thanh-oai
+,,,Huyện Sơn Tịnh,50509.0,505.0,Xã Kim An,1014109,10141,,huyen-son-tinh,xa-kim-an,quang-ngai,huyen-thanh-oai
+,,,Huyện Sơn Tây,50511.0,505.0,Xã Tân Ước,1014111,10141,,huyen-son-tay,xa-tan-uoc,quang-ngai,huyen-thanh-oai
+,,,Huyện SƠn Hà,50513.0,505.0,Xã Xuân Dương,1014113,10141,,huyen-son-ha,xa-xuan-duong,quang-ngai,huyen-thanh-oai
+,,,Huyện Tư Nghĩa,50515.0,505.0,Xã Cao Viên,1014115,10141,,huyen-tu-nghia,xa-cao-vien,quang-ngai,huyen-thanh-oai
+,,,Huyện NGhĩa Hành,50517.0,505.0,Xã Bình Minh,1014117,10141,,huyen-nghia-hanh,xa-binh-minh,quang-ngai,huyen-thanh-oai
+,,,Huyện MInh Long,50519.0,505.0,Xã Tam Hưng,1014119,10141,,huyen-minh-long,xa-tam-hung,quang-ngai,huyen-thanh-oai
+,,,Huyện Mộ Đức,50521.0,505.0,Xã Thanh Cao,1014121,10141,,huyen-mo-duc,xa-thanh-cao,quang-ngai,huyen-thanh-oai
+,,,Thị xã Đức Phổ,50523.0,505.0,Xã Thanh Thùy,1014123,10141,,thi-xa-duc-pho,xa-thanh-thuy,quang-ngai,huyen-thanh-oai
+,,,Huyện Ba Tơ,50525.0,505.0,Xã Thanh Văn,1014125,10141,,huyen-ba-to,xa-thanh-van,quang-ngai,huyen-thanh-oai
+,,,Thành phố Quy Nhơn,50701.0,507.0,Xã Đỗ Động,1014127,10141,,thanh-pho-quy-nhon,xa-do-dong,binh-dinh,huyen-thanh-oai
+,,,Huyện An Lão ,50703.0,507.0,Xã Kim Thư,1014129,10141,,huyen-an-lao,xa-kim-thu,binh-dinh,huyen-thanh-oai
+,,,Thị xã Hoài Nhơn,50705.0,507.0,Xã Phương Trung,1014131,10141,,thi-xa-hoai-nhon,xa-phuong-trung,binh-dinh,huyen-thanh-oai
+,,,Huyện Hoài Ân,50707.0,507.0,Xã Dân Hòa,1014133,10141,,huyen-hoai-an,xa-dan-hoa,binh-dinh,huyen-thanh-oai
+,,,Huyện Phù Mỹ,50709.0,507.0,Xã Liên Châu,1014135,10141,,huyen-phu-my,xa-lien-chau,binh-dinh,huyen-thanh-oai
+,,,Huyện Vĩnh Thạnh,50711.0,507.0,Xã Hồng Dương,1014137,10141,,huyen-vinh-thanh,xa-hong-duong,binh-dinh,huyen-thanh-oai
+,,,Huyện Phù Cát,50713.0,507.0,Thị trấn Kim Bài,1014139,10141,,huyen-phu-cat,thi-tran-kim-bai,binh-dinh,huyen-thanh-oai
+,,,Huyện Tây Sơn,50715.0,507.0,Xã Bích Hòa,1014141,10141,,huyen-tay-son,xa-bich-hoa,binh-dinh,huyen-thanh-oai
+,,,Thị xã An Nhơn,50717.0,507.0,Xã Hồng Vân,1014301,10143,,thi-xa-an-nhon,xa-hong-van,binh-dinh,huyen-thuong-tin
+,,,Huyện Tuy Phước,50719.0,507.0,Xã Quất Động,1014303,10143,,huyen-tuy-phuoc,xa-quat-dong,binh-dinh,huyen-thuong-tin
+,,,Huyện Vân Canh,50721.0,507.0,Xã Vạn Điểm,1014305,10143,,huyen-van-canh,xa-van-diem,binh-dinh,huyen-thuong-tin
+,,,Thành phố Tuy Hoà,50901.0,509.0,Xã Nhị Khê,1014307,10143,,thanh-pho-tuy-hoa,xa-nhi-khe,phu-yen,huyen-thuong-tin
+,,,Huyện Đồng Xuân,50903.0,509.0,Xã Văn Bình,1014309,10143,,huyen-dong-xuan,xa-van-binh,phu-yen,huyen-thuong-tin
+,,,Thị xã Sông Cầu,50905.0,509.0,Xã Liên Phương,1014311,10143,,thi-xa-song-cau,xa-lien-phuong,phu-yen,huyen-thuong-tin
+,,,Huyện Tuy An,50907.0,509.0,Xã Hà Hồi,1014313,10143,,huyen-tuy-an,xa-ha-hoi,phu-yen,huyen-thuong-tin
+,,,Huyện Sơn Hoà,50909.0,509.0,Xã Chương Dương,1014315,10143,,huyen-son-hoa,xa-chuong-duong,phu-yen,huyen-thuong-tin
+,,,Thị xã Đông Hòa,50911.0,509.0,Xã Dũng Tiến,1014317,10143,,thi-xa-dong-hoa,xa-dung-tien,phu-yen,huyen-thuong-tin
+,,,Huyện  Tây  Hoà,50912.0,509.0,Xã Văn Tự,1014319,10143,,huyen-tay-hoa,xa-van-tu,phu-yen,huyen-thuong-tin
+,,,Huyện Sông Hinh,50913.0,509.0,Thị trấn Thường Tín,1014321,10143,,huyen-song-hinh,thi-tran-thuong-tin,phu-yen,huyen-thuong-tin
+,,,Huyện Phú Hoà,50915.0,509.0,Xã Ninh Sở,1014323,10143,,huyen-phu-hoa,xa-ninh-so,phu-yen,huyen-thuong-tin
+,,,Thành phố Nha Trang,51101.0,511.0,Xã Duyên Thái,1014325,10143,,thanh-pho-nha-trang,xa-duyen-thai,khanh-hoa,huyen-thuong-tin
+,,,Huyện Vạn Ninh,51103.0,511.0,Xã Khánh Hà,1014327,10143,,huyen-van-ninh,xa-khanh-ha,khanh-hoa,huyen-thuong-tin
+,,,Thị xã Ninh Hoà,51105.0,511.0,Xã Hòa Bình,1014329,10143,,thi-xa-ninh-hoa,xa-hoa-binh,khanh-hoa,huyen-thuong-tin
+,,,Huyện Diên Khánh,51107.0,511.0,Xã Hiền Giang,1014331,10143,,huyen-dien-khanh,xa-hien-giang,khanh-hoa,huyen-thuong-tin
+,,,Thành phố Cam Ranh,51109.0,511.0,Xã Vân Tảo,1014333,10143,,thanh-pho-cam-ranh,xa-van-tao,khanh-hoa,huyen-thuong-tin
+,,,Huyện KHánh Vĩnh,51111.0,511.0,Xã Văn Phú,1014335,10143,,huyen-khanh-vinh,xa-van-phu,khanh-hoa,huyen-thuong-tin
+,,,Huyện Khánh Sơn,51113.0,511.0,Xã Tự Nhiên,1014337,10143,,huyen-khanh-son,xa-tu-nhien,khanh-hoa,huyen-thuong-tin
+,,,Huyện Trường Sa,51115.0,511.0,Xã Tiền Phong ,1014339,10143,,huyen-truong-sa,xa-tien-phong,khanh-hoa,huyen-thuong-tin
+,,,Huyện Cam Lâm,51117.0,511.0,Xã Thư Phú,1014341,10143,,huyen-cam-lam,xa-thu-phu,khanh-hoa,huyen-thuong-tin
+,,,Thành phố Kon Tum,60101.0,601.0,Xã Nguyễn Trãi,1014343,10143,,thanh-pho-kon-tum,xa-nguyen-trai,kon-tum,huyen-thuong-tin
+,,,Huyện Đắk Glei,60103.0,601.0,Xã Tân Minh ,1014345,10143,,huyen-dak-glei,xa-tan-minh,kon-tum,huyen-thuong-tin
+,,,Huyện Ngọc Hồi,60105.0,601.0,Xã Lê Lợi,1014347,10143,,huyen-ngoc-hoi,xa-le-loi,kon-tum,huyen-thuong-tin
+,,,Huyện Đắk Tô,60107.0,601.0,Xã Thắng Lợi,1014349,10143,,huyen-dak-to,xa-thang-loi,kon-tum,huyen-thuong-tin
+,,,Huyện Kon Rẫy,60108.0,601.0,Xã Thống Nhất,1014351,10143,,huyen-kon-ray,xa-thong-nhat,kon-tum,huyen-thuong-tin
+,,,Huyện Kon Plông,60109.0,601.0,Xã Nghiêm Xuyên,1014353,10143,,huyen-kon-plong,xa-nghiem-xuyen,kon-tum,huyen-thuong-tin
+,,,Huyện Đák Hà,60111.0,601.0,Xã Tô Hiệu,1014355,10143,,huyen-dak-ha,xa-to-hieu,kon-tum,huyen-thuong-tin
+,,,Huyện Sa Thầy,60113.0,601.0,Xã Minh Cường,1014357,10143,,huyen-sa-thay,xa-minh-cuong,kon-tum,huyen-thuong-tin
+,,,Huyện Ia H'Drai,60114.0,601.0,Thị trấn Đại Nghĩa,1014501,10145,,huyen-ia-h'drai,thi-tran-dai-nghia,kon-tum,huyen-my-duc
+,,,Huyện  Tu Mơ Rông,60115.0,601.0,Xã An Tiến,1014503,10145,,huyen-tu-mo-rong,xa-an-tien,kon-tum,huyen-my-duc
+,,,Thành phố Pleiku,60301.0,603.0,Xã Phúc Lâm,1014505,10145,,thanh-pho-pleiku,xa-phuc-lam,gia-lai,huyen-my-duc
+,,,Huyện Kbang,60303.0,603.0,Xã An Mỹ,1014507,10145,,huyen-kbang,xa-an-my,gia-lai,huyen-my-duc
+,,,Huyện Mang Yang,60305.0,603.0,Xã Xuy Xá,1014509,10145,,huyen-mang-yang,xa-xuy-xa,gia-lai,huyen-my-duc
+,,,Huyện Chư Păh,60307.0,603.0,Xã Phù Lưu Tế,1014511,10145,,huyen-chu-pah,xa-phu-luu-te,gia-lai,huyen-my-duc
+,,,Huyện Ia Grai,60309.0,603.0,Xã Đại Hưng,1014513,10145,,huyen-ia-grai,xa-dai-hung,gia-lai,huyen-my-duc
+,,,Thị xã An Khê,60311.0,603.0,Xã Vạn Kim,1014515,10145,,thi-xa-an-khe,xa-van-kim,gia-lai,huyen-my-duc
+,,,Huyện Kông Chro,60313.0,603.0,Xã Đốc Tín,1014517,10145,,huyen-kong-chro,xa-doc-tin,gia-lai,huyen-my-duc
+,,,Huyện Đức Cơ,60315.0,603.0,Xã Hương Sơn,1014519,10145,,huyen-duc-co,xa-huong-son,gia-lai,huyen-my-duc
+,,,Huyện Chư Prông,60317.0,603.0,Xã Hùng Tiến,1014521,10145,,huyen-chu-prong,xa-hung-tien,gia-lai,huyen-my-duc
+,,,Huyện Chư Sê,60319.0,603.0,Xã Hợp Tiến,1014523,10145,,huyen-chu-se,xa-hop-tien,gia-lai,huyen-my-duc
+,,,Huyện IaPa,60320.0,603.0,Xã Hợp Thanh,1014525,10145,,huyen-iapa,xa-hop-thanh,gia-lai,huyen-my-duc
+,,,Thị xã Ayun Pa,60321.0,603.0,Xã An Phú,1014527,10145,,thi-xa-ayun-pa,xa-an-phu,gia-lai,huyen-my-duc
+,,,Huyện Krông Pa,60323.0,603.0,Xã Phùng Xá ,1014529,10145,,huyen-krong-pa,xa-phung-xa,gia-lai,huyen-my-duc
+,,,Huyện Đak Đoa,60325.0,603.0,Xã Đồng Tâm,1014531,10145,,huyen-dak-doa,xa-dong-tam,gia-lai,huyen-my-duc
+,,,Huyện ĐakPơ,60327.0,603.0,Xã Thượng Lâm,1014533,10145,,huyen-dakpo,xa-thuong-lam,gia-lai,huyen-my-duc
+,,,Huyện Phú Thiện,60329.0,603.0,Xã Tuy Lai,1014535,10145,,huyen-phu-thien,xa-tuy-lai,gia-lai,huyen-my-duc
+,,,Huyện Chư Pưh,60331.0,603.0,Xã Mỹ Thành,1014537,10145,,huyen-chu-puh,xa-my-thanh,gia-lai,huyen-my-duc
+,,,Thành phố Buôn Ma Thuột,60501.0,605.0,Xã Bột Xuyên,1014539,10145,,thanh-pho-buon-ma-thuot,xa-bot-xuyen,dak-lak,huyen-my-duc
+,,,Huyện Ea H'leo,60503.0,605.0,Xã Hồng Sơn,1014541,10145,,huyen-ea-h'leo,xa-hong-son,dak-lak,huyen-my-duc
+,,,Huyện Ea Súp,60505.0,605.0,Xã Lê Thanh,1014543,10145,,huyen-ea-sup,xa-le-thanh,dak-lak,huyen-my-duc
+,,,Huyện Krông Năng,60507.0,605.0,Xã Đông Lỗ,1014701,10147,,huyen-krong-nang,xa-dong-lo,dak-lak,huyen-ung-hoa
+,,,Thị xã Buôn Hồ,60509.0,605.0,Xã Hòa Xá,1014703,10147,,thi-xa-buon-ho,xa-hoa-xa,dak-lak,huyen-ung-hoa
+,,,Huyện Buôn Đôn,60511.0,605.0,Xã Sơn Công,1014705,10147,,huyen-buon-don,xa-son-cong,dak-lak,huyen-ung-hoa
+,,,Huyện Cư M'gar,60513.0,605.0,Xã Viên An,1014707,10147,,huyen-cu-m'gar,xa-vien-an,dak-lak,huyen-ung-hoa
+,,,Huyện Ea Kar,60515.0,605.0,Xã Trường Thịnh,1014709,10147,,huyen-ea-kar,xa-truong-thinh,dak-lak,huyen-ung-hoa
+,,,Huyện M'ĐrắK,60517.0,605.0,Xã Đồng Tiến,1014711,10147,,huyen-m'drak,xa-dong-tien,dak-lak,huyen-ung-hoa
+,,,Huyện Krông Pắk,60519.0,605.0,Xã Tảo Dương Văn,1014713,10147,,huyen-krong-pak,xa-tao-duong-van,dak-lak,huyen-ung-hoa
+,,,Huyện Krông A Na,60523.0,605.0,Xã Trầm Lộng,1014715,10147,,huyen-krong-a-na,xa-tram-long,dak-lak,huyen-ung-hoa
+,,,Huyện Krông Bông,60525.0,605.0,Xã Lưu Hoàng,1014717,10147,,huyen-krong-bong,xa-luu-hoang,dak-lak,huyen-ung-hoa
+,,,Huyện Lắk,60531.0,605.0,Thị trấn Vân Đình,1014719,10147,,huyen-lak,thi-tran-van-dinh,dak-lak,huyen-ung-hoa
+,,,Huyện Cư Kuin,60537.0,605.0,Xã Viên Nội,1014721,10147,,huyen-cu-kuin,xa-vien-noi,dak-lak,huyen-ung-hoa
+,,,Huyện Krông Búk,60539.0,605.0,Xã Hoa Sơn,1014723,10147,,huyen-krong-buk,xa-hoa-son,dak-lak,huyen-ung-hoa
+,,,Huyện Cư Jút,60603.0,606.0,Xã Quảng Phú Cầu,1014725,10147,,huyen-cu-jut,xa-quang-phu-cau,dak-nong,huyen-ung-hoa
+,,,Huyện Krông Nô,60605.0,606.0,Xã Cao Thành,1014727,10147,,huyen-krong-no,xa-cao-thanh,dak-nong,huyen-ung-hoa
+,,,Huyện Đắk Mil,60607.0,606.0,Xã Liên Bạt,1014729,10147,,huyen-dak-mil,xa-lien-bat,dak-nong,huyen-ung-hoa
+,,,Huyện Đắk Song,60609.0,606.0,Xã Phương Tú,1014731,10147,,huyen-dak-song,xa-phuong-tu,dak-nong,huyen-ung-hoa
+,,,Huyện Đắk R'Lấp,60611.0,606.0,Xã Trung Tú,1014733,10147,,huyen-dak-r'lap,xa-trung-tu,dak-nong,huyen-ung-hoa
+,,,Thành phố Gia Nghĩa,60613.0,606.0,Xã Đồng Tân,1014735,10147,,thanh-pho-gia-nghia,xa-dong-tan,dak-nong,huyen-ung-hoa
+,,,Huyện Đắk Glong,60615.0,606.0,Xã Vạn Thái,1014737,10147,,huyen-dak-glong,xa-van-thai,dak-nong,huyen-ung-hoa
+,,,Huyện Tuy Đức,60617.0,606.0,Xã Minh Đức,1014739,10147,,huyen-tuy-duc,xa-minh-duc,dak-nong,huyen-ung-hoa
+,,,Quận 1,70101.0,701.0,Xã Hòa Lâm,1014741,10147,,quan-1,xa-hoa-lam,ho-chi-minh,huyen-ung-hoa
+,,,Quận 2,70103.0,701.0,Xã Kim Đường,1014743,10147,,quan-2,xa-kim-duong,ho-chi-minh,huyen-ung-hoa
+,,,Quận 3,70105.0,701.0,Xã Hòa Nam,1014745,10147,,quan-3,xa-hoa-nam,ho-chi-minh,huyen-ung-hoa
+,,,Quận 4,70107.0,701.0,Xã Hòa Phú,1014747,10147,,quan-4,xa-hoa-phu,ho-chi-minh,huyen-ung-hoa
+,,,Quận 5,70109.0,701.0,Xã Đội Bình,1014749,10147,,quan-5,xa-doi-binh,ho-chi-minh,huyen-ung-hoa
+,,,Quận 6,70111.0,701.0,Xã Đại Hùng,1014751,10147,,quan-6,xa-dai-hung,ho-chi-minh,huyen-ung-hoa
+,,,Quận 7,70113.0,701.0,Xã Phù Lưu,1014753,10147,,quan-7,xa-phu-luu,ho-chi-minh,huyen-ung-hoa
+,,,Quận 8,70115.0,701.0,Xã Đại Cường,1014755,10147,,quan-8,xa-dai-cuong,ho-chi-minh,huyen-ung-hoa
+,,,Quận 9,70117.0,701.0,Xã Hồng Quang,1014757,10147,,quan-9,xa-hong-quang,ho-chi-minh,huyen-ung-hoa
+,,,Quận 10,70119.0,701.0,Xã Phú Túc,1014901,10149,,quan-10,xa-phu-tuc,ho-chi-minh,huyen-phu-xuyen
+,,,Quận 11,70121.0,701.0,Xã Khai Thái,1014903,10149,,quan-11,xa-khai-thai,ho-chi-minh,huyen-phu-xuyen
+,,,Quận 12,70123.0,701.0,Xã Minh Tân,1014905,10149,,quan-12,xa-minh-tan,ho-chi-minh,huyen-phu-xuyen
+,,,Quận Gò Vấp,70125.0,701.0,Xã Nam Phong,1014907,10149,,quan-go-vap,xa-nam-phong,ho-chi-minh,huyen-phu-xuyen
+,,,Quận Tân Bình,70127.0,701.0,Xã Chuyên Mỹ,1014909,10149,,quan-tan-binh,xa-chuyen-my,ho-chi-minh,huyen-phu-xuyen
+,,,Quận Tân phú,70128.0,701.0,Xã Tri Thủy,1014911,10149,,quan-tan-phu,xa-tri-thuy,ho-chi-minh,huyen-phu-xuyen
+,,,Quận Bình Thạnh,70129.0,701.0,Xã Quang Lãng,1014913,10149,,quan-binh-thanh,xa-quang-lang,ho-chi-minh,huyen-phu-xuyen
+,,,Quận Phú Nhuận,70131.0,701.0,Xã Văn Hoàng,1014915,10149,,quan-phu-nhuan,xa-van-hoang,ho-chi-minh,huyen-phu-xuyen
+,,,Quận Thủ Đức,70133.0,701.0,Thị trấn Phú Xuyên,1014917,10149,,quan-thu-duc,thi-tran-phu-xuyen,ho-chi-minh,huyen-phu-xuyen
+,,,Quận Bình Tân,70134.0,701.0,Xã Thụy Phú,1014919,10149,,quan-binh-tan,xa-thuy-phu,ho-chi-minh,huyen-phu-xuyen
+,,,Huyện Củ Chi,70135.0,701.0,Thị trấn Phú Minh,1014921,10149,,huyen-cu-chi,thi-tran-phu-minh,ho-chi-minh,huyen-phu-xuyen
+,,,Huyện Hóc Môn,70137.0,701.0,Xã Hồng Minh,1014923,10149,,huyen-hoc-mon,xa-hong-minh,ho-chi-minh,huyen-phu-xuyen
+,,,Huyện Bình Chánh,70139.0,701.0,Xã Phượng Dực,1014925,10149,,huyen-binh-chanh,xa-phuong-duc,ho-chi-minh,huyen-phu-xuyen
+,,,Huyện Nhà Bè,70141.0,701.0,Xã Văn Nhân,1014927,10149,,huyen-nha-be,xa-van-nhan,ho-chi-minh,huyen-phu-xuyen
+,,,Huyện Cần Giờ,70143.0,701.0,Xã Tri Trung,1014929,10149,,huyen-can-gio,xa-tri-trung,ho-chi-minh,huyen-phu-xuyen
+,,,Thành phố Đà Lạt,70301.0,703.0,Xã Đại Thắng,1014931,10149,,thanh-pho-da-lat,xa-dai-thang,lam-dong,huyen-phu-xuyen
+,,,Thành phố Bảo Lộc,70303.0,703.0,Xã Hồng Thái,1014933,10149,,thanh-pho-bao-loc,xa-hong-thai,lam-dong,huyen-phu-xuyen
+,,,Huyện Lạc Dương,70305.0,703.0,Xã Hoàng Long,1014935,10149,,huyen-lac-duong,xa-hoang-long,lam-dong,huyen-phu-xuyen
+,,,Huyện Đơn Dương,70307.0,703.0,Xã Quang Trung,1014937,10149,,huyen-don-duong,xa-quang-trung,lam-dong,huyen-phu-xuyen
+,,,Huyện Đức Trọng,70309.0,703.0,Xã Nam Triều,1014939,10149,,huyen-duc-trong,xa-nam-trieu,lam-dong,huyen-phu-xuyen
+,,,Huyện Lâm Hà,70311.0,703.0,Xã Tân Dân ,1014941,10149,,huyen-lam-ha,xa-tan-dan,lam-dong,huyen-phu-xuyen
+,,,Huyện Bảo Lâm ,70313.0,703.0,Xã Sơn Hà,1014943,10149,,huyen-bao-lam,xa-son-ha,lam-dong,huyen-phu-xuyen
+,,,Huyện Di Linh,70315.0,703.0,Xã Phúc Tiến,1014945,10149,,huyen-di-linh,xa-phuc-tien,lam-dong,huyen-phu-xuyen
+,,,Huyện Đạ Huoai,70317.0,703.0,Xã Vân Từ,1014947,10149,,huyen-da-huoai,xa-van-tu,lam-dong,huyen-phu-xuyen
+,,,Huyện Đạ Tẻh,70319.0,703.0,Xã Đại Xuyên,1014949,10149,,huyen-da-teh,xa-dai-xuyen,lam-dong,huyen-phu-xuyen
+,,,Huyện Cát Tiên,70321.0,703.0,Xã Phú Yên,1014951,10149,,huyen-cat-tien,xa-phu-yen,lam-dong,huyen-phu-xuyen
+,,,Huyện Đam Rông,70323.0,703.0,Xã Bạch Hạ,1014953,10149,,huyen-dam-rong,xa-bach-ha,lam-dong,huyen-phu-xuyen
+,,,Thành phố Phan Rang-Tháp Chàm,70501.0,705.0,Xã Châu Can,1014955,10149,,thanh-pho-phan-rang-thap-cham,xa-chau-can,ninh-thuan,huyen-phu-xuyen
+,,,Huyện Ninh Sơn,70503.0,705.0,Xã Nam Tiến   ,1014957,10149,,huyen-ninh-son,xa-nam-tien,ninh-thuan,huyen-phu-xuyen
+,,,Huyện Ninh Hải,70505.0,705.0,Xã Phú Cường ,1015101,10151,,huyen-ninh-hai,xa-phu-cuong,ninh-thuan,huyen-ba-vi
+,,,Huyện Ninh Phước,70507.0,705.0,Xã Cổ Đô,1015103,10151,,huyen-ninh-phuoc,xa-co-do,ninh-thuan,huyen-ba-vi
+,,,Huyện Bác ái,70509.0,705.0,Xã Tản Hồng,1015105,10151,,huyen-bac-ai,xa-tan-hong,ninh-thuan,huyen-ba-vi
+,,,Huyện Thuận Bắc,70511.0,705.0,Xã Châu Sơn,1015107,10151,,huyen-thuan-bac,xa-chau-son,ninh-thuan,huyen-ba-vi
+,,,Huyện Thuận Nam,70513.0,705.0,Xã Phong Vân,1015109,10151,,huyen-thuan-nam,xa-phong-van,ninh-thuan,huyen-ba-vi
+,,,Huyện Đồng Phú,70701.0,707.0,Xã Phú Đông,1015111,10151,,huyen-dong-phu,xa-phu-dong,binh-phuoc,huyen-ba-vi
+,,,Thị xã  Phước Long,70703.0,707.0,Xã Phú Châu,1015113,10151,,thi-xa-phuoc-long,xa-phu-chau,binh-phuoc,huyen-ba-vi
+,,,Huyện Lộc Ninh,70705.0,707.0,Xã Thái Hòa,1015115,10151,,huyen-loc-ninh,xa-thai-hoa,binh-phuoc,huyen-ba-vi
+,,,Huyện Bù Đốp,70706.0,707.0,Xã Đồng Thái,1015117,10151,,huyen-bu-dop,xa-dong-thai,binh-phuoc,huyen-ba-vi
+,,,Huyện Bù Đăng,70707.0,707.0,Xã Minh Châu,1015119,10151,,huyen-bu-dang,xa-minh-chau,binh-phuoc,huyen-ba-vi
+,,,Thị xã  Bình Long,70709.0,707.0,Xã Chu Minh,1015121,10151,,thi-xa-binh-long,xa-chu-minh,binh-phuoc,huyen-ba-vi
+,,,Huyện Chơn Thành,70710.0,707.0,Xã Cẩm Lĩnh,1015123,10151,,huyen-chon-thanh,xa-cam-linh,binh-phuoc,huyen-ba-vi
+,,,Thành phố Đồng Xoài,70711.0,707.0,Xã Sơn Đà,1015125,10151,,thanh-pho-dong-xoai,xa-son-da,binh-phuoc,huyen-ba-vi
+,,,Huyện Hớn Quản,70713.0,707.0,Xã Đông Quang,1015127,10151,,huyen-hon-quan,xa-dong-quang,binh-phuoc,huyen-ba-vi
+,,,Huyện Bù Gia Mập,70715.0,707.0,Xã Thụy An,1015129,10151,,huyen-bu-gia-map,xa-thuy-an,binh-phuoc,huyen-ba-vi
+,,,Huyện Phú Riềng,70716.0,707.0,Xã Cam Thượng,1015131,10151,,huyen-phu-rieng,xa-cam-thuong,binh-phuoc,huyen-ba-vi
+,,,Thành phố Tây Ninh,70901.0,709.0,Xã Thuần Mỹ,1015133,10151,,thanh-pho-tay-ninh,xa-thuan-my,tay-ninh,huyen-ba-vi
+,,,Huyện Tân Biên,70903.0,709.0,Xã Ba Trại,1015135,10151,,huyen-tan-bien,xa-ba-trai,tay-ninh,huyen-ba-vi
+,,,Huyện Tân Châu,70905.0,709.0,Xã Minh Quang,1015137,10151,,huyen-tan-chau,xa-minh-quang,tay-ninh,huyen-ba-vi
+,,,Huyện Dương Minh Châu,70907.0,709.0,Xã Ba Vì,1015139,10151,,huyen-duong-minh-chau,xa-ba-vi,tay-ninh,huyen-ba-vi
+,,,Huyện Châu Thành,70909.0,709.0,Xã Khánh Thượng,1015141,10151,,huyen-chau-thanh,xa-khanh-thuong,tay-ninh,huyen-ba-vi
+,,,Thị xã Hoà Thành,70911.0,709.0,Xã Vật Lại,1015145,10151,,thi-xa-hoa-thanh,xa-vat-lai,tay-ninh,huyen-ba-vi
+,,,Huyện Bến Cầu,70913.0,709.0,Xã Yên Bài,1015147,10151,,huyen-ben-cau,xa-yen-bai,tay-ninh,huyen-ba-vi
+,,,Huyện Gò Dầu,70915.0,709.0,Thị trấn Tây Đằng,1015149,10151,,huyen-go-dau,thi-tran-tay-dang,tay-ninh,huyen-ba-vi
+,,,Thị xã Trảng Bàng,70917.0,709.0,Xã Vạn Thắng,1015151,10151,,thi-xa-trang-bang,xa-van-thang,tay-ninh,huyen-ba-vi
+,,,Thành phố Thủ Dầu Một,71101.0,711.0,Xã Phú Phương,1015153,10151,,thanh-pho-thu-dau-mot,xa-phu-phuong,binh-duong,huyen-ba-vi
+,,,Thị Xã  Bến Cát,71103.0,711.0,Xã Phú Sơn,1015155,10151,,thi-xa-ben-cat,xa-phu-son,binh-duong,huyen-ba-vi
+,,,Thị xã Tân Uyên,71105.0,711.0,Xã Tòng Bạt,1015157,10151,,thi-xa-tan-uyen,xa-tong-bat,binh-duong,huyen-ba-vi
+,,,Thành phố Thuận An,71107.0,711.0,Xã Tiên Phong,1015159,10151,,thanh-pho-thuan-an,xa-tien-phong,binh-duong,huyen-ba-vi
+,,,Thành phố  Dĩ An,71109.0,711.0,Xã Tản Lĩnh,1015161,10151,,thanh-pho-di-an,xa-tan-linh,binh-duong,huyen-ba-vi
+,,,Huyện Phú Giáo,71111.0,711.0,Xã Vân Hòa,1015163,10151,,huyen-phu-giao,xa-van-hoa,binh-duong,huyen-ba-vi
+,,,Huyện Dầu tiếng,71113.0,711.0,Xã Tiên Phương,1015301,10153,,huyen-dau-tieng,xa-tien-phuong,binh-duong,huyen-chuong-my
+,,,Huyện Bàu Bàng,71115.0,711.0,Xã Đại Yên,1015303,10153,,huyen-bau-bang,xa-dai-yen,binh-duong,huyen-chuong-my
+,,,Huyện Bắc Tân Uyên,71117.0,711.0,Xã Quảng Bị,1015305,10153,,huyen-bac-tan-uyen,xa-quang-bi,binh-duong,huyen-chuong-my
+,,,Thành phố Biên Hoà,71301.0,713.0,Xã Phú Nam An,1015307,10153,,thanh-pho-bien-hoa,xa-phu-nam-an,dong-nai,huyen-chuong-my
+,,,Thành phố Long khánh,71302.0,713.0,Xã Phụng Châu,1015309,10153,,thanh-pho-long-khanh,xa-phung-chau,dong-nai,huyen-chuong-my
+,,,Huyện Tân Phú,71303.0,713.0,Xã Phú Nghĩa,1015311,10153,,huyen-tan-phu,xa-phu-nghia,dong-nai,huyen-chuong-my
+,,,Huyện Định Quán,71305.0,713.0,Xã Thủy Xuân Tiên,1015313,10153,,huyen-dinh-quan,xa-thuy-xuan-tien,dong-nai,huyen-chuong-my
+,,,Huyện Vĩnh Cửu,71307.0,713.0,Xã Tốt Động,1015315,10153,,huyen-vinh-cuu,xa-tot-dong,dong-nai,huyen-chuong-my
+,,,Huyện Trảng Bom,71308.0,713.0,Xã Hợp Đồng,1015317,10153,,huyen-trang-bom,xa-hop-dong,dong-nai,huyen-chuong-my
+,,,Huyện Thống Nhất,71309.0,713.0,Xã Hữu Văn,1015319,10153,,huyen-thong-nhat,xa-huu-van,dong-nai,huyen-chuong-my
+,,,Huyện Cẩm Mỹ,71311.0,713.0,Xã Hồng Phong,1015321,10153,,huyen-cam-my,xa-hong-phong,dong-nai,huyen-chuong-my
+,,,Huyện Xuân Lộc,71313.0,713.0,Xã Đồng Lạc,1015323,10153,,huyen-xuan-loc,xa-dong-lac,dong-nai,huyen-chuong-my
+,,,Huyện Long Thành,71315.0,713.0,Thị trấn Chúc Sơn,1015325,10153,,huyen-long-thanh,thi-tran-chuc-son,dong-nai,huyen-chuong-my
+,,,Huyện Nhơn Trạch,71317.0,713.0,Thị trấn Xuân Mai,1015327,10153,,huyen-nhon-trach,thi-tran-xuan-mai,dong-nai,huyen-chuong-my
+,,,Thành phố  Phan Thiết,71501.0,715.0,Xã Đông Sơn,1015329,10153,,thanh-pho-phan-thiet,xa-dong-son,binh-thuan,huyen-chuong-my
+,,,Huyện Tuy Phong,71503.0,715.0,Xã Đông Phương Yên,1015331,10153,,huyen-tuy-phong,xa-dong-phuong-yen,binh-thuan,huyen-chuong-my
+,,,Huyện Bắc Bình,71505.0,715.0,Xã Trường Yên,1015335,10153,,huyen-bac-binh,xa-truong-yen,binh-thuan,huyen-chuong-my
+,,,Huyện Hàm Thuận Bắc,71507.0,715.0,Xã Ngọc Hòa,1015337,10153,,huyen-ham-thuan-bac,xa-ngoc-hoa,binh-thuan,huyen-chuong-my
+,,,Huyện Hàm Thuận Nam,71509.0,715.0,Xã Thanh Bình,1015339,10153,,huyen-ham-thuan-nam,xa-thanh-binh,binh-thuan,huyen-chuong-my
+,,,Huyện Tánh Linh,71511.0,715.0,Xã Trung Hòa,1015341,10153,,huyen-tanh-linh,xa-trung-hoa,binh-thuan,huyen-chuong-my
+,,,Thị xã La Gi,71513.0,715.0,Xã Thụy Hương,1015343,10153,,thi-xa-la-gi,xa-thuy-huong,binh-thuan,huyen-chuong-my
+,,,Huyện Hàm Tân,71514.0,715.0,Xã Lam Điền,1015345,10153,,huyen-ham-tan,xa-lam-dien,binh-thuan,huyen-chuong-my
+,,,Huyện Đức Linh,71515.0,715.0,Xã Tân Tiến,1015347,10153,,huyen-duc-linh,xa-tan-tien,binh-thuan,huyen-chuong-my
+,,,Huyện Phú Quý,71517.0,715.0,Xã Nam Phương Tiến,1015349,10153,,huyen-phu-quy,xa-nam-phuong-tien,binh-thuan,huyen-chuong-my
+,,,Thành phố Vũng Tàu,71701.0,717.0,Xã Hoàng Văn Thụ,1015351,10153,,thanh-pho-vung-tau,xa-hoang-van-thu,ba-ria-vung-tau,huyen-chuong-my
+,,,Thành Phố Bà Rịa,71703.0,717.0,Xã Hoàng Diệu,1015353,10153,,thanh-pho-ba-ria,xa-hoang-dieu,ba-ria-vung-tau,huyen-chuong-my
+,,,Huyện Châu Đức,71705.0,717.0,Xã Mỹ Lương,1015355,10153,,huyen-chau-duc,xa-my-luong,ba-ria-vung-tau,huyen-chuong-my
+,,,Huyện Xuyên Mộc,71707.0,717.0,Xã Thượng Vực,1015357,10153,,huyen-xuyen-moc,xa-thuong-vuc,ba-ria-vung-tau,huyen-chuong-my
+,,,Thị Xã Phú Mỹ,71709.0,717.0,Xã Đồng Phú,1015359,10153,,thi-xa-phu-my,xa-dong-phu,ba-ria-vung-tau,huyen-chuong-my
+,,,Huyện Long Điền,71711.0,717.0,Xã Trần Phú,1015361,10153,,huyen-long-dien,xa-tran-phu,ba-ria-vung-tau,huyen-chuong-my
+,,,Huyện Đất đỏ,71712.0,717.0,Xã Văn Võ,1015363,10153,,huyen-dat-do,xa-van-vo,ba-ria-vung-tau,huyen-chuong-my
+,,,Huyện Côn Đảo,71713.0,717.0,Xã Hòa Chính,1015365,10153,,huyen-con-dao,xa-hoa-chinh,ba-ria-vung-tau,huyen-chuong-my
+,,,Thành phố Tân An,80101.0,801.0,Phường Xuân Phương,1015501,10155,,thanh-pho-tan-an,phuong-xuan-phuong,long-an,quan-nam-tu-liem
+,,,Huyện Tân Hưng,80103.0,801.0,Phường Phương Canh,1015503,10155,,huyen-tan-hung,phuong-phuong-canh,long-an,quan-nam-tu-liem
+,,,Huyện Vĩnh Hưng,80105.0,801.0,Phường Tây Mỗ,1015505,10155,,huyen-vinh-hung,phuong-tay-mo,long-an,quan-nam-tu-liem
+,,,Huyện Mộc Hoá,80107.0,801.0,Phường Đại Mỗ,1015507,10155,,huyen-moc-hoa,phuong-dai-mo,long-an,quan-nam-tu-liem
+,,,Huyện Tân Thạnh,80109.0,801.0,Phường Cầu Diễn,1015509,10155,,huyen-tan-thanh,phuong-cau-dien,long-an,quan-nam-tu-liem
+,,,Huyện Thạnh Hoá,80111.0,801.0,Phường Mỹ Đình 1,1015511,10155,,huyen-thanh-hoa,phuong-my-dinh-1,long-an,quan-nam-tu-liem
+,,,Huyện Đức Huệ,80113.0,801.0,Phường Mỹ Đình 2,1015513,10155,,huyen-duc-hue,phuong-my-dinh-2,long-an,quan-nam-tu-liem
+,,,Huyện Đức Hoà,80115.0,801.0,Phường Mễ Trì,1015515,10155,,huyen-duc-hoa,phuong-me-tri,long-an,quan-nam-tu-liem
+,,,Huyện Bến Lức,80117.0,801.0,Phường Phú Đô,1015517,10155,,huyen-ben-luc,phuong-phu-do,long-an,quan-nam-tu-liem
+,,,Huyện Thủ Thừa,80119.0,801.0,Phường Trung Văn,1015519,10155,,huyen-thu-thua,phuong-trung-van,long-an,quan-nam-tu-liem
+,,,Huyện Châu Thành ,80121.0,801.0,Phường Xuân Đỉnh,1015701,10157,,huyen-chau-thanh,phuong-xuan-dinh,long-an,quan-bac-tu-liem
+,,,Huyện Tân Trụ,80123.0,801.0,Phường Xuân Tảo,1015703,10157,,huyen-tan-tru,phuong-xuan-tao,long-an,quan-bac-tu-liem
+,,,Huyện Cần Đước,80125.0,801.0,Phường Đông Ngạc,1015705,10157,,huyen-can-duoc,phuong-dong-ngac,long-an,quan-bac-tu-liem
+,,,Huyện Cần Giuộc,80127.0,801.0,Phường Đức Thắng,1015707,10157,,huyen-can-giuoc,phuong-duc-thang,long-an,quan-bac-tu-liem
+,,,Thị xã Kiến Tường,80129.0,801.0,Phường Thụy Phương,1015709,10157,,thi-xa-kien-tuong,phuong-thuy-phuong,long-an,quan-bac-tu-liem
+,,,Thành phố Cao Lãnh,80301.0,803.0,Phường Cổ Nhuế 1,1015711,10157,,thanh-pho-cao-lanh,phuong-co-nhue-1,dong-thap,quan-bac-tu-liem
+,,,Thị xã Sa Đéc,80303.0,803.0,Phường Cổ Nhuế 2,1015713,10157,,thi-xa-sa-dec,phuong-co-nhue-2,dong-thap,quan-bac-tu-liem
+,,,Huyện Tân Hồng,80305.0,803.0,Phường Liên Mạc,1015715,10157,,huyen-tan-hong,phuong-lien-mac,dong-thap,quan-bac-tu-liem
+,,,Huyện Hồng Ngự,80307.0,803.0,Phường Thượng Cát,1015717,10157,,huyen-hong-ngu,phuong-thuong-cat,dong-thap,quan-bac-tu-liem
+,,,Huyện Tam Nông ,80309.0,803.0,Phường Tây Tựu,1015719,10157,,huyen-tam-nong,phuong-tay-tuu,dong-thap,quan-bac-tu-liem
+,,,Huyện Thanh Bình,80311.0,803.0,Phường Minh Khai ,1015721,10157,,huyen-thanh-binh,phuong-minh-khai,dong-thap,quan-bac-tu-liem
+,,,Huyện Tháp mười,80313.0,803.0,Phường Phú Diễn,1015723,10157,,huyen-thap-muoi,phuong-phu-dien,dong-thap,quan-bac-tu-liem
+,,,Huyện Cao Lãnh,80315.0,803.0,Phường Phúc Diễn,1015725,10157,,huyen-cao-lanh,phuong-phuc-dien,dong-thap,quan-bac-tu-liem
+,,,Huyện Lấp Vò,80317.0,803.0,Phường Hạ Lý,1030101,10301,,huyen-lap-vo,phuong-ha-ly,dong-thap,quan-hong-bang
+,,,Huyện Lai Vung,80319.0,803.0,Phường Sở Dầu,1030103,10301,,huyen-lai-vung,phuong-so-dau,dong-thap,quan-hong-bang
+,,,Huyện Châu Thành  ,80321.0,803.0,Phường Trại Chuối,1030105,10301,,huyen-chau-thanh,phuong-trai-chuoi,dong-thap,quan-hong-bang
+,,,Thị xã Hồng Ngự,80323.0,803.0,Phường Quán Toan,1030107,10301,,thi-xa-hong-ngu,phuong-quan-toan,dong-thap,quan-hong-bang
+,,,Thành phố Long Xuyên,80501.0,805.0,Phường Hùng Vương,1030109,10301,,thanh-pho-long-xuyen,phuong-hung-vuong,an-giang,quan-hong-bang
+,,,Thành phố Châu Đốc,80503.0,805.0,Phường Thượng Lý,1030111,10301,,thanh-pho-chau-doc,phuong-thuong-ly,an-giang,quan-hong-bang
+,,,Huyện An Phú,80505.0,805.0,Phường Minh Khai  ,1030113,10301,,huyen-an-phu,phuong-minh-khai,an-giang,quan-hong-bang
+,,,Thị xã Tân Châu,80507.0,805.0,Phường Quang Trung,1030115,10301,,thi-xa-tan-chau,phuong-quang-trung,an-giang,quan-hong-bang
+,,,Huyện Phú Tân,80509.0,805.0,Phường Hoàng Văn Thụ ,1030117,10301,,huyen-phu-tan,phuong-hoang-van-thu,an-giang,quan-hong-bang
+,,,Huyện Châu Phú,80511.0,805.0,Phường Phan Bội Châu,1030119,10301,,huyen-chau-phu,phuong-phan-boi-chau,an-giang,quan-hong-bang
+,,,Huyện Tịnh Biên,80513.0,805.0,Phường Phạm Hồng Thái,1030121,10301,,huyen-tinh-bien,phuong-pham-hong-thai,an-giang,quan-hong-bang
+,,,Huyện Tri Tôn,80515.0,805.0,Phường Cầu Tre,1030301,10303,,huyen-tri-ton,phuong-cau-tre,an-giang,quan-ngo-quyen
+,,,Huyện Chợ Mới ,80517.0,805.0,Phường Máy Chai,1030303,10303,,huyen-cho-moi,phuong-may-chai,an-giang,quan-ngo-quyen
+,,,Huyện Châu Thành   ,80519.0,805.0,Phường Lạc Viên,1030305,10303,,huyen-chau-thanh,phuong-lac-vien,an-giang,quan-ngo-quyen
+,,,Huyện Thoại Sơn,80521.0,805.0,Phường Cầu Đất,1030307,10303,,huyen-thoai-son,phuong-cau-dat,an-giang,quan-ngo-quyen
+,,,Thành phố Mỹ Tho,80701.0,807.0,Phường Máy Tơ,1030309,10303,,thanh-pho-my-tho,phuong-may-to,tien-giang,quan-ngo-quyen
+,,,Thị xã Gò Công,80703.0,807.0,Phường Vạn Mỹ,1030311,10303,,thi-xa-go-cong,phuong-van-my,tien-giang,quan-ngo-quyen
+,,,Huyện Tân Phước,80705.0,807.0,Phường Lương Khánh Thiện,1030313,10303,,huyen-tan-phuoc,phuong-luong-khanh-thien,tien-giang,quan-ngo-quyen
+,,,Huyện Châu Thành    ,80707.0,807.0,Phường Gia Viên,1030315,10303,,huyen-chau-thanh,phuong-gia-vien,tien-giang,quan-ngo-quyen
+,,,Huyện Cai Lậy,80709.0,807.0,Phường Đông Khê,1030317,10303,,huyen-cai-lay,phuong-dong-khe,tien-giang,quan-ngo-quyen
+,,,Huyện Chợ Gạo,80711.0,807.0,Phường Lê Lợi ,1030319,10303,,huyen-cho-gao,phuong-le-loi,tien-giang,quan-ngo-quyen
+,,,Huyện Cái Bè,80713.0,807.0,Phường Đằng Giang,1030321,10303,,huyen-cai-be,phuong-dang-giang,tien-giang,quan-ngo-quyen
+,,,Huyện Gò Công Tây,80715.0,807.0,Phường Lạch Tray,1030323,10303,,huyen-go-cong-tay,phuong-lach-tray,tien-giang,quan-ngo-quyen
+,,,Huyện Gò Công Đông,80717.0,807.0,Phường Đổng Quốc Bình,1030325,10303,,huyen-go-cong-dong,phuong-dong-quoc-binh,tien-giang,quan-ngo-quyen
+,,,Huyện Tân Phú Đông,80719.0,807.0,Phường Đằng Lâm,1030403,10304,,huyen-tan-phu-dong,phuong-dang-lam,tien-giang,quan-hai-an
+,,,Thị Xã Cai Lậy,80721.0,807.0,Phường Đằng Hải,1030405,10304,,thi-xa-cai-lay,phuong-dang-hai,tien-giang,quan-hai-an
+,,,Thành phố  Vĩnh Long,80901.0,809.0,Phường Nam Hải,1030407,10304,,thanh-pho-vinh-long,phuong-nam-hai,vinh-long,quan-hai-an
+,,,Huyện Long Hồ,80903.0,809.0,Phường Cát Bi,1030409,10304,,huyen-long-ho,phuong-cat-bi,vinh-long,quan-hai-an
+,,,Huyện Mang Thít,80905.0,809.0,Phường Tràng Cát,1030411,10304,,huyen-mang-thit,phuong-trang-cat,vinh-long,quan-hai-an
+,,,Thị xã Bình Minh,80907.0,809.0,Phường Đông Hải 1,1030413,10304,,thi-xa-binh-minh,phuong-dong-hai-1,vinh-long,quan-hai-an
+,,,Huyện Bình Tân,80908.0,809.0,Phường Đông Hải 2,1030415,10304,,huyen-binh-tan,phuong-dong-hai-2,vinh-long,quan-hai-an
+,,,Huyện Tam Bình,80909.0,809.0,Phường Thành Tô,1030417,10304,,huyen-tam-binh,phuong-thanh-to,vinh-long,quan-hai-an
+,,,Huyện Trà Ôn,80911.0,809.0,Phường An Biên,1030501,10305,,huyen-tra-on,phuong-an-bien,vinh-long,quan-le-chan
+,,,Huyện Vũng Liêm,80913.0,809.0,Phường Nghĩa Xá,1030503,10305,,huyen-vung-liem,phuong-nghia-xa,vinh-long,quan-le-chan
+,,,Thành phố Bến Tre,81101.0,811.0,Phường Cát Dài,1030505,10305,,thanh-pho-ben-tre,phuong-cat-dai,ben-tre,quan-le-chan
+,,,Huyện Châu Thành     ,81103.0,811.0,Phường Trần Nguyên Hãn,1030507,10305,,huyen-chau-thanh,phuong-tran-nguyen-han,ben-tre,quan-le-chan
+,,,Huyện Chợ Lách,81105.0,811.0,Phường Đông Hải,1030509,10305,,huyen-cho-lach,phuong-dong-hai,ben-tre,quan-le-chan
+,,,Huyện Mỏ Cày Nam,81107.0,811.0,Phường Dư Hàng Kênh,1030511,10305,,huyen-mo-cay-nam,phuong-du-hang-kenh,ben-tre,quan-le-chan
+,,,Huyện Mỏ Cày Bắc,81108.0,811.0,Phường Vĩnh Niệm,1030513,10305,,huyen-mo-cay-bac,phuong-vinh-niem,ben-tre,quan-le-chan
+,,,Huyện Giồng Trôm,81109.0,811.0,Phường Lam Sơn,1030515,10305,,huyen-giong-trom,phuong-lam-son,ben-tre,quan-le-chan
+,,,Huyện Bình Đại,81111.0,811.0,Phường An Dương,1030517,10305,,huyen-binh-dai,phuong-an-duong,ben-tre,quan-le-chan
+,,,Huyện Ba Tri,81113.0,811.0,Phường Hồ Nam,1030519,10305,,huyen-ba-tri,phuong-ho-nam,ben-tre,quan-le-chan
+,,,Huyện Thạnh Phú,81115.0,811.0,Phường Trại Cau,1030521,10305,,huyen-thanh-phu,phuong-trai-cau,ben-tre,quan-le-chan
+,,,Thành phố Rạch Giá,81301.0,813.0,Phường Dư Hàng,1030523,10305,,thanh-pho-rach-gia,phuong-du-hang,kien-giang,quan-le-chan
+,,,Huyện Kiên Lương,81303.0,813.0,Phường Hàng Kênh,1030525,10305,,huyen-kien-luong,phuong-hang-kenh,kien-giang,quan-le-chan
+,,,Huyện Giang Thành,81304.0,813.0,Phường Niệm Nghĩa,1030527,10305,,huyen-giang-thanh,phuong-niem-nghia,kien-giang,quan-le-chan
+,,,Huyện Hòn Đất,81305.0,813.0,Phường Kênh Dương,1030529,10305,,huyen-hon-dat,phuong-kenh-duong,kien-giang,quan-le-chan
+,,,Huyện Tân Hiệp,81307.0,813.0,Phường Quán Trữ,1030701,10307,,huyen-tan-hiep,phuong-quan-tru,kien-giang,quan-kien-an
+,,,Huyện Châu Thành      ,81309.0,813.0,Phường Ngọc Sơn,1030703,10307,,huyen-chau-thanh,phuong-ngoc-son,kien-giang,quan-kien-an
+,,,Huyện Giồng Riềng,81311.0,813.0,Phường Đồng Hoà,1030705,10307,,huyen-giong-rieng,phuong-dong-hoa,kien-giang,quan-kien-an
+,,,Huyện Gò Quao,81313.0,813.0,Phường Bắc Sơn,1030707,10307,,huyen-go-quao,phuong-bac-son,kien-giang,quan-kien-an
+,,,Huyện An Biên,81315.0,813.0,Phường Nam Sơn,1030709,10307,,huyen-an-bien,phuong-nam-son,kien-giang,quan-kien-an
+,,,Huyện An Minh,81317.0,813.0,Phường Trần Thành Ngọ,1030711,10307,,huyen-an-minh,phuong-tran-thanh-ngo,kien-giang,quan-kien-an
+,,,Huyện Vĩnh Thuận,81319.0,813.0,Phường Văn Đẩu,1030713,10307,,huyen-vinh-thuan,phuong-van-dau,kien-giang,quan-kien-an
+,,,Huyện Phú Quốc,81321.0,813.0,Phường Phù Liễn,1030715,10307,,huyen-phu-quoc,phuong-phu-lien,kien-giang,quan-kien-an
+,,,Huyện Kiên Hải,81323.0,813.0,Phường Tràng Minh,1030717,10307,,huyen-kien-hai,phuong-trang-minh,kien-giang,quan-kien-an
+,,,Thành phố Hà Tiên,81325.0,813.0,Phường Lãm Hà,1030719,10307,,thanh-pho-ha-tien,phuong-lam-ha,kien-giang,quan-kien-an
+,,,Huyện U Minh Thượng,81327.0,813.0,Phường Ngọc Hải,1030901,10309,,huyen-u-minh-thuong,phuong-ngoc-hai,kien-giang,quan-do-son
+,,,Quận Thốt Nốt,81503.0,815.0,Phường Ngọc Xuyên,1030903,10309,,quan-thot-not,phuong-ngoc-xuyen,can-tho,quan-do-son
+,,,Quận Ô Môn,81505.0,815.0,Phường Bàng La,1030905,10309,,quan-o-mon,phuong-bang-la,can-tho,quan-do-son
+,,,Quận Ninh Kiều,81519.0,815.0,Phường Vạn Hương,1030907,10309,,quan-ninh-kieu,phuong-van-huong,can-tho,quan-do-son
+,,,Quận Bình Thuỷ,81521.0,815.0,Phường Vạn Sơn,1030909,10309,,quan-binh-thuy,phuong-van-son,can-tho,quan-do-son
+,,,Quận Cái Răng,81523.0,815.0,Phường Hợp Đức,1030911,10309,,quan-cai-rang,phuong-hop-duc,can-tho,quan-do-son
+,,,Huyện Vĩnh Thạnh ,81525.0,815.0,Phường Minh Đức,1030913,10309,,huyen-vinh-thanh,phuong-minh-duc,can-tho,quan-do-son
+,,,Huyện Cờ Đỏ,81527.0,815.0,Phường Hải Sơn,1030915,10309,,huyen-co-do,phuong-hai-son,can-tho,quan-do-son
+,,,Huyện Phong Điền ,81529.0,815.0,Xã Lưu Kiếm,1031101,10311,,huyen-phong-dien,xa-luu-kiem,can-tho,huyen-thuy-nguyen
+,,,Huyện Thới Lai,81531.0,815.0,Xã Cao Nhân,1031103,10311,,huyen-thoi-lai,xa-cao-nhan,can-tho,huyen-thuy-nguyen
+,,,Thành phố Vị Thanh,81601.0,816.0,Xã Tam Hưng ,1031105,10311,,thanh-pho-vi-thanh,xa-tam-hung,hau-giang,huyen-thuy-nguyen
+,,,Huyện Châu Thành A,81603.0,816.0,Xã Dương Quan,1031107,10311,,huyen-chau-thanh-a,xa-duong-quan,hau-giang,huyen-thuy-nguyen
+,,,Huyện Châu Thành       ,81605.0,816.0,Xã An Sơn,1031109,10311,,huyen-chau-thanh,xa-an-son,hau-giang,huyen-thuy-nguyen
+,,,Thành phố Ngã Bảy,81607.0,816.0,Xã Lưu Kỳ,1031111,10311,,thanh-pho-nga-bay,xa-luu-ky,hau-giang,huyen-thuy-nguyen
+,,,Huyện Phụng Hiệp,81608.0,816.0,Xã Minh Tân ,1031113,10311,,huyen-phung-hiep,xa-minh-tan,hau-giang,huyen-thuy-nguyen
+,,,Huyện Vị Thủy,81609.0,816.0,Xã Kênh Giang,1031115,10311,,huyen-vi-thuy,xa-kenh-giang,hau-giang,huyen-thuy-nguyen
+,,,Huyện Long Mỹ,81611.0,816.0,Xã Đông Sơn ,1031117,10311,,huyen-long-my,xa-dong-son,hau-giang,huyen-thuy-nguyen
+,,,Thị Xã Long Mỹ,81612.0,816.0,Xã Thuỷ Triều,1031119,10311,,thi-xa-long-my,xa-thuy-trieu,hau-giang,huyen-thuy-nguyen
+,,,Thành phố Trà Vinh,81701.0,817.0,Xã Phả Lễ,1031121,10311,,thanh-pho-tra-vinh,xa-pha-le,tra-vinh,huyen-thuy-nguyen
+,,,Huyện Càng Long,81703.0,817.0,Xã Thuỷ Sơn,1031123,10311,,huyen-cang-long,xa-thuy-son,tra-vinh,huyen-thuy-nguyen
+,,,Huyện Châu Thành        ,81705.0,817.0,Xã Hoa Động,1031125,10311,,huyen-chau-thanh,xa-hoa-dong,tra-vinh,huyen-thuy-nguyen
+,,,Huyện Cầu Kè,81707.0,817.0,Thị trấn Núi Đèo,1031127,10311,,huyen-cau-ke,thi-tran-nui-deo,tra-vinh,huyen-thuy-nguyen
+,,,Huyện Tiểu Cần,81709.0,817.0,Thị trấn Minh Đức,1031129,10311,,huyen-tieu-can,thi-tran-minh-duc,tra-vinh,huyen-thuy-nguyen
+,,,Huyện Cầu Ngang,81711.0,817.0,Xã Lại Xuân,1031131,10311,,huyen-cau-ngang,xa-lai-xuan,tra-vinh,huyen-thuy-nguyen
+,,,Huyện Trà Cú,81713.0,817.0,Xã Kỳ Sơn,1031133,10311,,huyen-tra-cu,xa-ky-son,tra-vinh,huyen-thuy-nguyen
+,,,Huyện Duyên Hải,81715.0,817.0,Xã Liên Khê,1031135,10311,,huyen-duyen-hai,xa-lien-khe,tra-vinh,huyen-thuy-nguyen
+,,,Thị xã Duyên Hải,81716.0,817.0,Xã Gia Minh,1031137,10311,,thi-xa-duyen-hai,xa-gia-minh,tra-vinh,huyen-thuy-nguyen
+,,,Thành phố Sóc Trăng,81901.0,819.0,Xã Gia Đức,1031139,10311,,thanh-pho-soc-trang,xa-gia-duc,soc-trang,huyen-thuy-nguyen
+,,,Huyện Kế Sách,81903.0,819.0,Xã Phù Ninh,1031141,10311,,huyen-ke-sach,xa-phu-ninh,soc-trang,huyen-thuy-nguyen
+,,,Huyện Long Phú,81905.0,819.0,Xã Quảng Thanh,1031143,10311,,huyen-long-phu,xa-quang-thanh,soc-trang,huyen-thuy-nguyen
+,,,Huyện Cù Lao Dung,81906.0,819.0,Xã Chính Mỹ,1031145,10311,,huyen-cu-lao-dung,xa-chinh-my,soc-trang,huyen-thuy-nguyen
+,,,Huyện Mỹ tú,81907.0,819.0,Xã Hợp Thành,1031147,10311,,huyen-my-tu,xa-hop-thanh,soc-trang,huyen-thuy-nguyen
+,,,Huyện Mỹ Xuyên,81909.0,819.0,Xã Mỹ Đồng,1031149,10311,,huyen-my-xuyen,xa-my-dong,soc-trang,huyen-thuy-nguyen
+,,,Huyện Thạnh Trị,81911.0,819.0,Xã Hoà Bình,1031151,10311,,huyen-thanh-tri,xa-hoa-binh,soc-trang,huyen-thuy-nguyen
+,,,Thị Xã Ngã Năm,81912.0,819.0,Xã Trung Hà,1031153,10311,,thi-xa-nga-nam,xa-trung-ha,soc-trang,huyen-thuy-nguyen
+,,,Thị Xã Vĩnh Châu,81913.0,819.0,Xã An Lư,1031155,10311,,thi-xa-vinh-chau,xa-an-lu,soc-trang,huyen-thuy-nguyen
+,,,Huyện Châu Thành         ,81915.0,819.0,Xã Ngũ Lão,1031157,10311,,huyen-chau-thanh,xa-ngu-lao,soc-trang,huyen-thuy-nguyen
+,,,Huyện Trần Đề,81917.0,819.0,Xã Phục Lễ,1031159,10311,,huyen-tran-de,xa-phuc-le,soc-trang,huyen-thuy-nguyen
+,,,Thành Phố Bạc Liêu,82101.0,821.0,Xã Lập Lễ,1031161,10311,,thanh-pho-bac-lieu,xa-lap-le,bac-lieu,huyen-thuy-nguyen
+,,,Huyện Hồng Dân,82103.0,821.0,Xã Kiền Bái,1031163,10311,,huyen-hong-dan,xa-kien-bai,bac-lieu,huyen-thuy-nguyen
+,,,Huyện Vĩnh Lợi,82105.0,821.0,Xã Thiên Hương,1031165,10311,,huyen-vinh-loi,xa-thien-huong,bac-lieu,huyen-thuy-nguyen
+,,,Huyện Hoà Bình,82106.0,821.0,Xã Thuỷ Đường,1031167,10311,,huyen-hoa-binh,xa-thuy-duong,bac-lieu,huyen-thuy-nguyen
+,,,Thị Xã Giá Rai,82107.0,821.0,Xã Hoàng Động,1031169,10311,,thi-xa-gia-rai,xa-hoang-dong,bac-lieu,huyen-thuy-nguyen
+,,,Huyện Phước Long,82109.0,821.0,Xã Lâm Động,1031171,10311,,huyen-phuoc-long,xa-lam-dong,bac-lieu,huyen-thuy-nguyen
+,,,Huyện Đông Hải,82111.0,821.0,Xã Tân Dương,1031173,10311,,huyen-dong-hai,xa-tan-duong,bac-lieu,huyen-thuy-nguyen
+,,,Thành phố  Cà Mau,82301.0,823.0,Xã Bắc Sơn ,1031301,10313,,thanh-pho-ca-mau,xa-bac-son,ca-mau,huyen-an-duong
+,,,Huyện Thới Bình,82303.0,823.0,Xã Lê Thiện,1031303,10313,,huyen-thoi-binh,xa-le-thien,ca-mau,huyen-an-duong
+,,,Huyện U Minh,82305.0,823.0,Xã Hồng Phong ,1031305,10313,,huyen-u-minh,xa-hong-phong,ca-mau,huyen-an-duong
+,,,Huyện Trần Văn Thời,82307.0,823.0,Xã Nam Sơn ,1031307,10313,,huyen-tran-van-thoi,xa-nam-son,ca-mau,huyen-an-duong
+,,,Huyện Phú Tân ,82308.0,823.0,Xã Đồng Thái ,1031309,10313,,huyen-phu-tan,xa-dong-thai,ca-mau,huyen-an-duong
+,,,Huyện Cái Nước,82309.0,823.0,Thị trấn An Dương,1031311,10313,,huyen-cai-nuoc,thi-tran-an-duong,ca-mau,huyen-an-duong
+,,,Huyện Đầm Dơi,82311.0,823.0,Xã Đại Bản,1031313,10313,,huyen-dam-doi,xa-dai-ban,ca-mau,huyen-an-duong
+,,,Huyện Năm Căn,82312.0,823.0,Xã An Hoà,1031315,10313,,huyen-nam-can,xa-an-hoa,ca-mau,huyen-an-duong
+,,,Huyện Ngọc Hiển,82313.0,823.0,Xã Tân Tiến ,1031317,10313,,huyen-ngoc-hien,xa-tan-tien,ca-mau,huyen-an-duong
 ,,,,,,Xã An Hưng,1031319,10313,,,xa-an-hung,,huyen-an-duong
 ,,,,,,Xã An Hồng,1031321,10313,,,xa-an-hong,,huyen-an-duong
 ,,,,,,Xã Lê Lợi ,1031323,10313,,,xa-le-loi,,huyen-an-duong
@@ -3998,22 +3998,22 @@
 ,,,,,,Thị trấn Tam Sơn ,2191529,21915,,,thi-tran-tam-son,,huyen-song-lo
 ,,,,,,Xã Yên Thạch,2191531,21915,,,xa-yen-thach,,huyen-song-lo
 ,,,,,,Xã Tân Lập         ,2191533,21915,,,xa-tan-lap,,huyen-song-lo
-,,,,,,Phường Lê Lợi   ,2210101,22101,,,phuong-le-loi,,thanh-pho--bac-giang
-,,,,,,Phường Mỹ Độ,2210109,22101,,,phuong-my-do,,thanh-pho--bac-giang
-,,,,,,Phường Thọ Xương,2210111,22101,,,phuong-tho-xuong,,thanh-pho--bac-giang
-,,,,,,Phường Trần Nguyên Hãn ,2210113,22101,,,phuong-tran-nguyen-han,,thanh-pho--bac-giang
-,,,,,,Phường Hoàng Văn Thụ    ,2210115,22101,,,phuong-hoang-van-thu,,thanh-pho--bac-giang
-,,,,,,Phường Trần Phú   ,2210117,22101,,,phuong-tran-phu,,thanh-pho--bac-giang
-,,,,,,Xã Song Mai ,2210119,22101,,,xa-song-mai,,thanh-pho--bac-giang
-,,,,,,Phường Ngô Quyền   ,2210121,22101,,,phuong-ngo-quyen,,thanh-pho--bac-giang
-,,,,,,Xã Dĩnh Trì,2210123,22101,,,xa-dinh-tri,,thanh-pho--bac-giang
-,,,,,,Xã Tân Mỹ  ,2210125,22101,,,xa-tan-my,,thanh-pho--bac-giang
-,,,,,,Xã Tân Tiến           ,2210127,22101,,,xa-tan-tien,,thanh-pho--bac-giang
-,,,,,,Xã Đồng Sơn  ,2210129,22101,,,xa-dong-son,,thanh-pho--bac-giang
-,,,,,,Xã Song Khê,2210131,22101,,,xa-song-khe,,thanh-pho--bac-giang
-,,,,,,Phường Xương Giang,2210133,22101,,,phuong-xuong-giang,,thanh-pho--bac-giang
-,,,,,,Phường Dĩnh Kế,2210135,22101,,,phuong-dinh-ke,,thanh-pho--bac-giang
-,,,,,,Phường Đa Mai,2210137,22101,,,phuong-da-mai,,thanh-pho--bac-giang
+,,,,,,Phường Lê Lợi   ,2210101,22101,,,phuong-le-loi,,thanh-pho-bac-giang
+,,,,,,Phường Mỹ Độ,2210109,22101,,,phuong-my-do,,thanh-pho-bac-giang
+,,,,,,Phường Thọ Xương,2210111,22101,,,phuong-tho-xuong,,thanh-pho-bac-giang
+,,,,,,Phường Trần Nguyên Hãn ,2210113,22101,,,phuong-tran-nguyen-han,,thanh-pho-bac-giang
+,,,,,,Phường Hoàng Văn Thụ    ,2210115,22101,,,phuong-hoang-van-thu,,thanh-pho-bac-giang
+,,,,,,Phường Trần Phú   ,2210117,22101,,,phuong-tran-phu,,thanh-pho-bac-giang
+,,,,,,Xã Song Mai ,2210119,22101,,,xa-song-mai,,thanh-pho-bac-giang
+,,,,,,Phường Ngô Quyền   ,2210121,22101,,,phuong-ngo-quyen,,thanh-pho-bac-giang
+,,,,,,Xã Dĩnh Trì,2210123,22101,,,xa-dinh-tri,,thanh-pho-bac-giang
+,,,,,,Xã Tân Mỹ  ,2210125,22101,,,xa-tan-my,,thanh-pho-bac-giang
+,,,,,,Xã Tân Tiến           ,2210127,22101,,,xa-tan-tien,,thanh-pho-bac-giang
+,,,,,,Xã Đồng Sơn  ,2210129,22101,,,xa-dong-son,,thanh-pho-bac-giang
+,,,,,,Xã Song Khê,2210131,22101,,,xa-song-khe,,thanh-pho-bac-giang
+,,,,,,Phường Xương Giang,2210133,22101,,,phuong-xuong-giang,,thanh-pho-bac-giang
+,,,,,,Phường Dĩnh Kế,2210135,22101,,,phuong-dinh-ke,,thanh-pho-bac-giang
+,,,,,,Phường Đa Mai,2210137,22101,,,phuong-da-mai,,thanh-pho-bac-giang
 ,,,,,,Thị trấn Cầu Gồ,2210301,22103,,,thi-tran-cau-go,,huyen-yen-the
 ,,,,,,Thị trấn Bố Hạ,2210303,22103,,,thi-tran-bo-ha,,huyen-yen-the
 ,,,,,,Xã Canh Nậu ,2210307,22103,,,xa-canh-nau,,huyen-yen-the
@@ -7009,7 +7009,7 @@
 ,,,,,,Xã A Dơi,4091539,40915,,,xa-a-doi,,huyen-huong-hoa
 ,,,,,,Xã A Xing,4091541,40915,,,xa-a-xing,,huyen-huong-hoa
 ,,,,,,Xã A Túc,4091543,40915,,,xa-a-tuc,,huyen-huong-hoa
-,,,,,,Xã  Lìa,4091545,40915,,,xa--lia,,huyen-huong-hoa
+,,,,,,Xã  Lìa,4091545,40915,,,xa-lia,,huyen-huong-hoa
 ,,,,,,Xã Ba Nang,4091701,40917,,,xa-ba-nang,,huyen-da-krong
 ,,,,,,Xã Hướng Hiệp,4091703,40917,,,xa-huong-hiep,,huyen-da-krong
 ,,,,,,Xã Hải Phúc,4091705,40917,,,xa-hai-phuc,,huyen-da-krong
@@ -7117,18 +7117,18 @@
 ,,,,,,Xã Vinh Phú,4110937,41109,,,xa-vinh-phu,,huyen-phu-vang
 ,,,,,,Xã Vinh Hà,4110939,41109,,,xa-vinh-ha,,huyen-phu-vang
 ,,,,,,Xã Phú Gia ,4110941,41109,,,xa-phu-gia,,huyen-phu-vang
-,,,,,,Phường Thủy Châu,4111101,41111,,,phuong-thuy-chau,,thi-xa--huong-thuy
-,,,,,,Xã Thủy Thanh,4111103,41111,,,xa-thuy-thanh,,thi-xa--huong-thuy
-,,,,,,Phường Thủy Lương,4111105,41111,,,phuong-thuy-luong,,thi-xa--huong-thuy
-,,,,,,Xã Phú Sơn     ,4111107,41111,,,xa-phu-son,,thi-xa--huong-thuy
-,,,,,,Phường Phú Bài,4111109,41111,,,phuong-phu-bai,,thi-xa--huong-thuy
-,,,,,,Xã Thủy Vân,4111111,41111,,,xa-thuy-van,,thi-xa--huong-thuy
-,,,,,,Phường Thủy Dương,4111113,41111,,,phuong-thuy-duong,,thi-xa--huong-thuy
-,,,,,,Phường Thủy Phương,4111115,41111,,,phuong-thuy-phuong,,thi-xa--huong-thuy
-,,,,,,Xã Thủy Bằng,4111117,41111,,,xa-thuy-bang,,thi-xa--huong-thuy
-,,,,,,Xã Thủy Tân,4111119,41111,,,xa-thuy-tan,,thi-xa--huong-thuy
-,,,,,,Xã Thủy Phù,4111121,41111,,,xa-thuy-phu,,thi-xa--huong-thuy
-,,,,,,Xã Dương Hòa,4111123,41111,,,xa-duong-hoa,,thi-xa--huong-thuy
+,,,,,,Phường Thủy Châu,4111101,41111,,,phuong-thuy-chau,,thi-xa-huong-thuy
+,,,,,,Xã Thủy Thanh,4111103,41111,,,xa-thuy-thanh,,thi-xa-huong-thuy
+,,,,,,Phường Thủy Lương,4111105,41111,,,phuong-thuy-luong,,thi-xa-huong-thuy
+,,,,,,Xã Phú Sơn     ,4111107,41111,,,xa-phu-son,,thi-xa-huong-thuy
+,,,,,,Phường Phú Bài,4111109,41111,,,phuong-phu-bai,,thi-xa-huong-thuy
+,,,,,,Xã Thủy Vân,4111111,41111,,,xa-thuy-van,,thi-xa-huong-thuy
+,,,,,,Phường Thủy Dương,4111113,41111,,,phuong-thuy-duong,,thi-xa-huong-thuy
+,,,,,,Phường Thủy Phương,4111115,41111,,,phuong-thuy-phuong,,thi-xa-huong-thuy
+,,,,,,Xã Thủy Bằng,4111117,41111,,,xa-thuy-bang,,thi-xa-huong-thuy
+,,,,,,Xã Thủy Tân,4111119,41111,,,xa-thuy-tan,,thi-xa-huong-thuy
+,,,,,,Xã Thủy Phù,4111121,41111,,,xa-thuy-phu,,thi-xa-huong-thuy
+,,,,,,Xã Dương Hòa,4111123,41111,,,xa-duong-hoa,,thi-xa-huong-thuy
 ,,,,,,Xã Lộc Điền,4111301,41113,,,xa-loc-dien,,huyen-phu-loc
 ,,,,,,Xã Vinh Mỹ,4111303,41113,,,xa-vinh-my,,huyen-phu-loc
 ,,,,,,Thị trấn Phú Lộc,4111305,41113,,,thi-tran-phu-loc,,huyen-phu-loc
@@ -7926,17 +7926,17 @@
 ,,,,,,Phường Hòa Hiệp Nam,5091115,50911,,,phuong-hoa-hiep-nam,,thi-xa-dong-hoa
 ,,,,,,Xã Hòa Xuân Đông,5091117,50911,,,xa-hoa-xuan-dong,,thi-xa-dong-hoa
 ,,,,,,Xã Hòa Tâm,5091119,50911,,,xa-hoa-tam,,thi-xa-dong-hoa
-,,,,,,Thị trấn Phú Thứ ,5091201,50912,,,thi-tran-phu-thu,,huyen--tay--hoa
-,,,,,,Xã Hòa Phú  ,5091203,50912,,,xa-hoa-phu,,huyen--tay--hoa
-,,,,,,Xã Hòa Mỹ Đông,5091205,50912,,,xa-hoa-my-dong,,huyen--tay--hoa
-,,,,,,Xã Sơn Thành Tây,5091207,50912,,,xa-son-thanh-tay,,huyen--tay--hoa
-,,,,,,Xã Sơn Thành Đông,5091209,50912,,,xa-son-thanh-dong,,huyen--tay--hoa
-,,,,,,Xã Hòa Bình 1,5091211,50912,,,xa-hoa-binh-1,,huyen--tay--hoa
-,,,,,,Xã Hòa Phong ,5091213,50912,,,xa-hoa-phong,,huyen--tay--hoa
-,,,,,,Xã Hòa Tân Tây,5091215,50912,,,xa-hoa-tan-tay,,huyen--tay--hoa
-,,,,,,Xã Hòa Đồng,5091217,50912,,,xa-hoa-dong,,huyen--tay--hoa
-,,,,,,Xã Hòa Mỹ Tây,5091219,50912,,,xa-hoa-my-tay,,huyen--tay--hoa
-,,,,,,Xã Hòa Thịnh,5091221,50912,,,xa-hoa-thinh,,huyen--tay--hoa
+,,,,,,Thị trấn Phú Thứ ,5091201,50912,,,thi-tran-phu-thu,,huyen-tay-hoa
+,,,,,,Xã Hòa Phú  ,5091203,50912,,,xa-hoa-phu,,huyen-tay-hoa
+,,,,,,Xã Hòa Mỹ Đông,5091205,50912,,,xa-hoa-my-dong,,huyen-tay-hoa
+,,,,,,Xã Sơn Thành Tây,5091207,50912,,,xa-son-thanh-tay,,huyen-tay-hoa
+,,,,,,Xã Sơn Thành Đông,5091209,50912,,,xa-son-thanh-dong,,huyen-tay-hoa
+,,,,,,Xã Hòa Bình 1,5091211,50912,,,xa-hoa-binh-1,,huyen-tay-hoa
+,,,,,,Xã Hòa Phong ,5091213,50912,,,xa-hoa-phong,,huyen-tay-hoa
+,,,,,,Xã Hòa Tân Tây,5091215,50912,,,xa-hoa-tan-tay,,huyen-tay-hoa
+,,,,,,Xã Hòa Đồng,5091217,50912,,,xa-hoa-dong,,huyen-tay-hoa
+,,,,,,Xã Hòa Mỹ Tây,5091219,50912,,,xa-hoa-my-tay,,huyen-tay-hoa
+,,,,,,Xã Hòa Thịnh,5091221,50912,,,xa-hoa-thinh,,huyen-tay-hoa
 ,,,,,,Xã Sơn Giang  ,5091301,50913,,,xa-son-giang,,huyen-song-hinh
 ,,,,,,Xã Ea Bá,5091303,50913,,,xa-ea-ba,,huyen-song-hinh
 ,,,,,,Xã EaBia,5091305,50913,,,xa-eabia,,huyen-song-hinh
@@ -8190,17 +8190,17 @@
 ,,,,,,Xã Ia Dom,6011401,60114,,,xa-ia-dom,,huyen-ia-h'drai
 ,,,,,,Xã Ia Dal,6011403,60114,,,xa-ia-dal,,huyen-ia-h'drai
 ,,,,,,Xã Ia Tơi,6011405,60114,,,xa-ia-toi,,huyen-ia-h'drai
-,,,,,,Xã Đắk Tơ Kan,6011501,60115,,,xa-dak-to-kan,,huyen--tu-mo-rong
-,,,,,,Xã Ngọk Lây,6011503,60115,,,xa-ngok-lay,,huyen--tu-mo-rong
-,,,,,,Xã Đắk Na,6011505,60115,,,xa-dak-na,,huyen--tu-mo-rong
-,,,,,,Xã Măng Ri,6011507,60115,,,xa-mang-ri,,huyen--tu-mo-rong
-,,,,,,Xã Ngok Yêu,6011509,60115,,,xa-ngok-yeu,,huyen--tu-mo-rong
-,,,,,,Xã Đắk Sao,6011511,60115,,,xa-dak-sao,,huyen--tu-mo-rong
-,,,,,,Xã Đắk Rơ Ông,6011513,60115,,,xa-dak-ro-ong,,huyen--tu-mo-rong
-,,,,,,Xã Tu Mơ Rông,6011515,60115,,,xa-tu-mo-rong,,huyen--tu-mo-rong
-,,,,,,Xã Đắk Hà,6011517,60115,,,xa-dak-ha,,huyen--tu-mo-rong
-,,,,,,Xã Tê Xăng,6011519,60115,,,xa-te-xang,,huyen--tu-mo-rong
-,,,,,,Xã Văn Xuôi,6011521,60115,,,xa-van-xuoi,,huyen--tu-mo-rong
+,,,,,,Xã Đắk Tơ Kan,6011501,60115,,,xa-dak-to-kan,,huyen-tu-mo-rong
+,,,,,,Xã Ngọk Lây,6011503,60115,,,xa-ngok-lay,,huyen-tu-mo-rong
+,,,,,,Xã Đắk Na,6011505,60115,,,xa-dak-na,,huyen-tu-mo-rong
+,,,,,,Xã Măng Ri,6011507,60115,,,xa-mang-ri,,huyen-tu-mo-rong
+,,,,,,Xã Ngok Yêu,6011509,60115,,,xa-ngok-yeu,,huyen-tu-mo-rong
+,,,,,,Xã Đắk Sao,6011511,60115,,,xa-dak-sao,,huyen-tu-mo-rong
+,,,,,,Xã Đắk Rơ Ông,6011513,60115,,,xa-dak-ro-ong,,huyen-tu-mo-rong
+,,,,,,Xã Tu Mơ Rông,6011515,60115,,,xa-tu-mo-rong,,huyen-tu-mo-rong
+,,,,,,Xã Đắk Hà,6011517,60115,,,xa-dak-ha,,huyen-tu-mo-rong
+,,,,,,Xã Tê Xăng,6011519,60115,,,xa-te-xang,,huyen-tu-mo-rong
+,,,,,,Xã Văn Xuôi,6011521,60115,,,xa-van-xuoi,,huyen-tu-mo-rong
 ,,,,,,Phường Tây Sơn ,6030101,60301,,,phuong-tay-son,,thanh-pho-pleiku
 ,,,,,,Phường Yên Đỗ,6030103,60301,,,phuong-yen-do,,thanh-pho-pleiku
 ,,,,,,Phường Hội Phú,6030105,60301,,,phuong-hoi-phu,,thanh-pho-pleiku
@@ -8383,13 +8383,13 @@
 ,,,,,,Xã Trang,6032501,60325,,,xa-trang,,huyen-dak-doa
 ,,,,,,Xã Đăk Sơmei,6032503,60325,,,xa-dak-somei,,huyen-dak-doa
 ,,,,,,Xã Hải Yang,6032505,60325,,,xa-hai-yang,,huyen-dak-doa
-,,,,,,Xã K- Dang,6032507,60325,,,xa-k--dang,,huyen-dak-doa
+,,,,,,Xã K- Dang,6032507,60325,,,xa-k-dang,,huyen-dak-doa
 ,,,,,,Xã Tân Bình   ,6032509,60325,,,xa-tan-binh,,huyen-dak-doa
 ,,,,,,Xã Glar,6032511,60325,,,xa-glar,,huyen-dak-doa
 ,,,,,,Xã A Dơk,6032513,60325,,,xa-a-dok,,huyen-dak-doa
 ,,,,,,Xã Ia Pết,6032515,60325,,,xa-ia-pet,,huyen-dak-doa
 ,,,,,,Xã Ia Băng ,6032517,60325,,,xa-ia-bang,,huyen-dak-doa
-,,,,,,Xã H- Neng,6032519,60325,,,xa-h--neng,,huyen-dak-doa
+,,,,,,Xã H- Neng,6032519,60325,,,xa-h-neng,,huyen-dak-doa
 ,,,,,,Thị trấn Đăk Đoa,6032521,60325,,,thi-tran-dak-doa,,huyen-dak-doa
 ,,,,,,Xã Hà Đông ,6032523,60325,,,xa-ha-dong,,huyen-dak-doa
 ,,,,,,Xã Kon Gang,6032525,60325,,,xa-kon-gang,,huyen-dak-doa
@@ -8533,7 +8533,7 @@
 ,,,,,,Xã EaSar,6051531,60515,,,xa-easar,,huyen-ea-kar
 ,,,,,,Xã Ea Riêng,6051701,60517,,,xa-ea-rieng,,huyen-m'drak
 ,,,,,,Xã Ea Pil,6051703,60517,,,xa-ea-pil,,huyen-m'drak
-,,,,,,Xã Ea M- Doal,6051705,60517,,,xa-ea-m--doal,,huyen-m'drak
+,,,,,,Xã Ea M- Doal,6051705,60517,,,xa-ea-m-doal,,huyen-m'drak
 ,,,,,,Xã KRông á,6051707,60517,,,xa-krong-a,,huyen-m'drak
 ,,,,,,Thị trấn M-Đrắk,6051709,60517,,,thi-tran-m-drak,,huyen-m'drak
 ,,,,,,Xã Cư Prao,6051711,60517,,,xa-cu-prao,,huyen-m'drak
@@ -8632,7 +8632,7 @@
 ,,,,,,Xã Nâm Nung,6060515,60605,,,xa-nam-nung,,huyen-krong-no
 ,,,,,,Xã Đắk Nang,6060517,60605,,,xa-dak-nang,,huyen-krong-no
 ,,,,,,Xã Quảng Phú     ,6060519,60605,,,xa-quang-phu,,huyen-krong-no
-,,,,,,Xã Nâm   Đir,6060521,60605,,,xa-nam---dir,,huyen-krong-no
+,,,,,,Xã Nâm   Đir,6060521,60605,,,xa-nam-dir,,huyen-krong-no
 ,,,,,,Xã Nam Xuân  ,6060523,60605,,,xa-nam-xuan,,huyen-krong-no
 ,,,,,,Xã Đắk Gằn,6060701,60607,,,xa-dak-gan,,huyen-dak-mil
 ,,,,,,Xã Thuận An,6060703,60607,,,xa-thuan-an,,huyen-dak-mil
@@ -9090,7 +9090,7 @@
 ,,,,,,Xã Lộc Thành,7031309,70313,,,xa-loc-thanh,,huyen-bao-lam
 ,,,,,,Xã Lộc Bảo,7031311,70313,,,xa-loc-bao,,huyen-bao-lam
 ,,,,,,Xã Lộc Lâm,7031313,70313,,,xa-loc-lam,,huyen-bao-lam
-,,,,,,Xã B- Lá,7031315,70313,,,xa-b--la,,huyen-bao-lam
+,,,,,,Xã B- Lá,7031315,70313,,,xa-b-la,,huyen-bao-lam
 ,,,,,,Xã Lộc Ngãi,7031317,70313,,,xa-loc-ngai,,huyen-bao-lam
 ,,,,,,Xã Lộc Quảng,7031319,70313,,,xa-loc-quang,,huyen-bao-lam
 ,,,,,,Xã Lộc Đức,7031321,70313,,,xa-loc-duc,,huyen-bao-lam
@@ -9238,13 +9238,13 @@
 ,,,,,,Xã Tân Hoà ,7070117,70701,,,xa-tan-hoa,,huyen-dong-phu
 ,,,,,,Xã Thuận Phú,7070119,70701,,,xa-thuan-phu,,huyen-dong-phu
 ,,,,,,Xã Đồng Tiến        ,7070121,70701,,,xa-dong-tien,,huyen-dong-phu
-,,,,,,Phường Phước Bình ,7070305,70703,,,phuong-phuoc-binh,,thi-xa--phuoc-long
-,,,,,,Phường Thác Mơ,7070313,70703,,,phuong-thac-mo,,thi-xa--phuoc-long
-,,,,,,Phường Sơn Giang,7070321,70703,,,phuong-son-giang,,thi-xa--phuoc-long
-,,,,,,Xã Phước Tín,7070327,70703,,,xa-phuoc-tin,,thi-xa--phuoc-long
-,,,,,,Phường Long Thuỷ,7070343,70703,,,phuong-long-thuy,,thi-xa--phuoc-long
-,,,,,,Phường Long Phước ,7070345,70703,,,phuong-long-phuoc,,thi-xa--phuoc-long
-,,,,,,Xã Long Giang,7070347,70703,,,xa-long-giang,,thi-xa--phuoc-long
+,,,,,,Phường Phước Bình ,7070305,70703,,,phuong-phuoc-binh,,thi-xa-phuoc-long
+,,,,,,Phường Thác Mơ,7070313,70703,,,phuong-thac-mo,,thi-xa-phuoc-long
+,,,,,,Phường Sơn Giang,7070321,70703,,,phuong-son-giang,,thi-xa-phuoc-long
+,,,,,,Xã Phước Tín,7070327,70703,,,xa-phuoc-tin,,thi-xa-phuoc-long
+,,,,,,Phường Long Thuỷ,7070343,70703,,,phuong-long-thuy,,thi-xa-phuoc-long
+,,,,,,Phường Long Phước ,7070345,70703,,,phuong-long-phuoc,,thi-xa-phuoc-long
+,,,,,,Xã Long Giang,7070347,70703,,,xa-long-giang,,thi-xa-phuoc-long
 ,,,,,,Xã Lộc Điền ,7070501,70705,,,xa-loc-dien,,huyen-loc-ninh
 ,,,,,,Xã Lộc Tấn,7070503,70705,,,xa-loc-tan,,huyen-loc-ninh
 ,,,,,,Xã Lộc Hiệp,7070505,70705,,,xa-loc-hiep,,huyen-loc-ninh
@@ -9284,12 +9284,12 @@
 ,,,,,,Xã Phú Sơn       ,7070725,70707,,,xa-phu-son,,huyen-bu-dang
 ,,,,,,Xã Bình Minh        ,7070727,70707,,,xa-binh-minh,,huyen-bu-dang
 ,,,,,,Xã Nghĩa Bình   ,7070729,70707,,,xa-nghia-binh,,huyen-bu-dang
-,,,,,,Xã Thanh Phú ,7070901,70709,,,xa-thanh-phu,,thi-xa--binh-long
-,,,,,,Xã Thanh Lương    ,7070903,70709,,,xa-thanh-luong,,thi-xa--binh-long
-,,,,,,Phường An Lộc,7070909,70709,,,phuong-an-loc,,thi-xa--binh-long
-,,,,,,Phường Hưng Chiến,7070931,70709,,,phuong-hung-chien,,thi-xa--binh-long
-,,,,,,Phường Phú Thịnh ,7070933,70709,,,phuong-phu-thinh,,thi-xa--binh-long
-,,,,,,Phường Phú Đức,7070935,70709,,,phuong-phu-duc,,thi-xa--binh-long
+,,,,,,Xã Thanh Phú ,7070901,70709,,,xa-thanh-phu,,thi-xa-binh-long
+,,,,,,Xã Thanh Lương    ,7070903,70709,,,xa-thanh-luong,,thi-xa-binh-long
+,,,,,,Phường An Lộc,7070909,70709,,,phuong-an-loc,,thi-xa-binh-long
+,,,,,,Phường Hưng Chiến,7070931,70709,,,phuong-hung-chien,,thi-xa-binh-long
+,,,,,,Phường Phú Thịnh ,7070933,70709,,,phuong-phu-thinh,,thi-xa-binh-long
+,,,,,,Phường Phú Đức,7070935,70709,,,phuong-phu-duc,,thi-xa-binh-long
 ,,,,,,Xã Minh Long ,7071001,70710,,,xa-minh-long,,huyen-chon-thanh
 ,,,,,,Xã Quang Minh      ,7071004,70710,,,xa-quang-minh,,huyen-chon-thanh
 ,,,,,,Xã Nha Bích,7071005,70710,,,xa-nha-bich,,huyen-chon-thanh
@@ -9459,14 +9459,14 @@
 ,,,,,,Phường Tương Bình Hiệp,7110123,71101,,,phuong-tuong-binh-hiep,,thanh-pho-thu-dau-mot
 ,,,,,,Phường Hoà Phú,7110125,71101,,,phuong-hoa-phu,,thanh-pho-thu-dau-mot
 ,,,,,,Phường Phú Tân,7110127,71101,,,phuong-phu-tan,,thanh-pho-thu-dau-mot
-,,,,,,Phường Thới Hòa,7110307,71103,,,phuong-thoi-hoa,,thi-xa--ben-cat
-,,,,,,Xã Phú An  ,7110309,71103,,,xa-phu-an,,thi-xa--ben-cat
-,,,,,,Phường Mỹ Phước,7110311,71103,,,phuong-my-phuoc,,thi-xa--ben-cat
-,,,,,,Phường Chánh Phú Hòa,7110321,71103,,,phuong-chanh-phu-hoa,,thi-xa--ben-cat
-,,,,,,Xã An Điền,7110323,71103,,,xa-an-dien,,thi-xa--ben-cat
-,,,,,,Xã An Tây,7110325,71103,,,xa-an-tay,,thi-xa--ben-cat
-,,,,,,Phường Hòa Lợi,7110327,71103,,,phuong-hoa-loi,,thi-xa--ben-cat
-,,,,,,Phường Tân Định ,7110329,71103,,,phuong-tan-dinh,,thi-xa--ben-cat
+,,,,,,Phường Thới Hòa,7110307,71103,,,phuong-thoi-hoa,,thi-xa-ben-cat
+,,,,,,Xã Phú An  ,7110309,71103,,,xa-phu-an,,thi-xa-ben-cat
+,,,,,,Phường Mỹ Phước,7110311,71103,,,phuong-my-phuoc,,thi-xa-ben-cat
+,,,,,,Phường Chánh Phú Hòa,7110321,71103,,,phuong-chanh-phu-hoa,,thi-xa-ben-cat
+,,,,,,Xã An Điền,7110323,71103,,,xa-an-dien,,thi-xa-ben-cat
+,,,,,,Xã An Tây,7110325,71103,,,xa-an-tay,,thi-xa-ben-cat
+,,,,,,Phường Hòa Lợi,7110327,71103,,,phuong-hoa-loi,,thi-xa-ben-cat
+,,,,,,Phường Tân Định ,7110329,71103,,,phuong-tan-dinh,,thi-xa-ben-cat
 ,,,,,,Phường Tân Phước Khánh,7110505,71105,,,phuong-tan-phuoc-khanh,,thi-xa-tan-uyen
 ,,,,,,Phường Phú Chánh,7110507,71105,,,phuong-phu-chanh,,thi-xa-tan-uyen
 ,,,,,,Phường Thạnh Phước,7110509,71105,,,phuong-thanh-phuoc,,thi-xa-tan-uyen
@@ -9489,13 +9489,13 @@
 ,,,,,,Xã An Sơn  ,7110715,71107,,,xa-an-son,,thanh-pho-thuan-an
 ,,,,,,Phường Bình Nhâm,7110717,71107,,,phuong-binh-nham,,thanh-pho-thuan-an
 ,,,,,,Phường Bình Hòa,7110719,71107,,,phuong-binh-hoa,,thanh-pho-thuan-an
-,,,,,,Phường An Bình  ,7110901,71109,,,phuong-an-binh,,thanh-pho--di-an
-,,,,,,Phường Tân Đông Hiệp,7110903,71109,,,phuong-tan-dong-hiep,,thanh-pho--di-an
-,,,,,,Phường Dĩ An,7110905,71109,,,phuong-di-an,,thanh-pho--di-an
-,,,,,,Phường Tân Bình   ,7110907,71109,,,phuong-tan-binh,,thanh-pho--di-an
-,,,,,,Phường Bình An ,7110909,71109,,,phuong-binh-an,,thanh-pho--di-an
-,,,,,,Phường Bình Thắng,7110911,71109,,,phuong-binh-thang,,thanh-pho--di-an
-,,,,,,Phường Đông Hòa,7110913,71109,,,phuong-dong-hoa,,thanh-pho--di-an
+,,,,,,Phường An Bình  ,7110901,71109,,,phuong-an-binh,,thanh-pho-di-an
+,,,,,,Phường Tân Đông Hiệp,7110903,71109,,,phuong-tan-dong-hiep,,thanh-pho-di-an
+,,,,,,Phường Dĩ An,7110905,71109,,,phuong-di-an,,thanh-pho-di-an
+,,,,,,Phường Tân Bình   ,7110907,71109,,,phuong-tan-binh,,thanh-pho-di-an
+,,,,,,Phường Bình An ,7110909,71109,,,phuong-binh-an,,thanh-pho-di-an
+,,,,,,Phường Bình Thắng,7110911,71109,,,phuong-binh-thang,,thanh-pho-di-an
+,,,,,,Phường Đông Hòa,7110913,71109,,,phuong-dong-hoa,,thanh-pho-di-an
 ,,,,,,Xã An Linh,7111101,71111,,,xa-an-linh,,huyen-phu-giao
 ,,,,,,Xã An Long,7111103,71111,,,xa-an-long,,huyen-phu-giao
 ,,,,,,Xã Tân Long    ,7111105,71111,,,xa-tan-long,,huyen-phu-giao
@@ -9709,24 +9709,24 @@
 ,,,,,,Xã Long Thọ,7131719,71317,,,xa-long-tho,,huyen-nhon-trach
 ,,,,,,Xã Vĩnh Thanh,7131721,71317,,,xa-vinh-thanh,,huyen-nhon-trach
 ,,,,,,Xã Phước An  ,7131723,71317,,,xa-phuoc-an,,huyen-nhon-trach
-,,,,,,Phường Phú Tài,7150101,71501,,,phuong-phu-tai,,thanh-pho--phan-thiet
-,,,,,,Xã Tiến Thành  ,7150103,71501,,,xa-tien-thanh,,thanh-pho--phan-thiet
-,,,,,,Phường Phú Hài,7150105,71501,,,phuong-phu-hai,,thanh-pho--phan-thiet
-,,,,,,Phường Xuân An ,7150107,71501,,,phuong-xuan-an,,thanh-pho--phan-thiet
-,,,,,,Phường Lạc Đạo,7150109,71501,,,phuong-lac-dao,,thanh-pho--phan-thiet
-,,,,,,Xã Thiện Nghiệp,7150111,71501,,,xa-thien-nghiep,,thanh-pho--phan-thiet
-,,,,,,Phường Mũi Né,7150113,71501,,,phuong-mui-ne,,thanh-pho--phan-thiet
-,,,,,,Phường Hàm Tiến,7150115,71501,,,phuong-ham-tien,,thanh-pho--phan-thiet
-,,,,,,Phường Phú Thủy,7150117,71501,,,phuong-phu-thuy,,thanh-pho--phan-thiet
-,,,,,,Phường Phú Trinh,7150119,71501,,,phuong-phu-trinh,,thanh-pho--phan-thiet
-,,,,,,Phường Thanh Hải,7150121,71501,,,phuong-thanh-hai,,thanh-pho--phan-thiet
-,,,,,,Phường Bình Hưng,7150123,71501,,,phuong-binh-hung,,thanh-pho--phan-thiet
-,,,,,,Phường Đức Nghĩa,7150125,71501,,,phuong-duc-nghia,,thanh-pho--phan-thiet
-,,,,,,Phường Đức Thắng ,7150127,71501,,,phuong-duc-thang,,thanh-pho--phan-thiet
-,,,,,,Phường Hưng Long,7150129,71501,,,phuong-hung-long,,thanh-pho--phan-thiet
-,,,,,,Phường Đức Long,7150131,71501,,,phuong-duc-long,,thanh-pho--phan-thiet
-,,,,,,Xã Phong Nẫm,7150133,71501,,,xa-phong-nam,,thanh-pho--phan-thiet
-,,,,,,Xã Tiến Lợi,7150135,71501,,,xa-tien-loi,,thanh-pho--phan-thiet
+,,,,,,Phường Phú Tài,7150101,71501,,,phuong-phu-tai,,thanh-pho-phan-thiet
+,,,,,,Xã Tiến Thành  ,7150103,71501,,,xa-tien-thanh,,thanh-pho-phan-thiet
+,,,,,,Phường Phú Hài,7150105,71501,,,phuong-phu-hai,,thanh-pho-phan-thiet
+,,,,,,Phường Xuân An ,7150107,71501,,,phuong-xuan-an,,thanh-pho-phan-thiet
+,,,,,,Phường Lạc Đạo,7150109,71501,,,phuong-lac-dao,,thanh-pho-phan-thiet
+,,,,,,Xã Thiện Nghiệp,7150111,71501,,,xa-thien-nghiep,,thanh-pho-phan-thiet
+,,,,,,Phường Mũi Né,7150113,71501,,,phuong-mui-ne,,thanh-pho-phan-thiet
+,,,,,,Phường Hàm Tiến,7150115,71501,,,phuong-ham-tien,,thanh-pho-phan-thiet
+,,,,,,Phường Phú Thủy,7150117,71501,,,phuong-phu-thuy,,thanh-pho-phan-thiet
+,,,,,,Phường Phú Trinh,7150119,71501,,,phuong-phu-trinh,,thanh-pho-phan-thiet
+,,,,,,Phường Thanh Hải,7150121,71501,,,phuong-thanh-hai,,thanh-pho-phan-thiet
+,,,,,,Phường Bình Hưng,7150123,71501,,,phuong-binh-hung,,thanh-pho-phan-thiet
+,,,,,,Phường Đức Nghĩa,7150125,71501,,,phuong-duc-nghia,,thanh-pho-phan-thiet
+,,,,,,Phường Đức Thắng ,7150127,71501,,,phuong-duc-thang,,thanh-pho-phan-thiet
+,,,,,,Phường Hưng Long,7150129,71501,,,phuong-hung-long,,thanh-pho-phan-thiet
+,,,,,,Phường Đức Long,7150131,71501,,,phuong-duc-long,,thanh-pho-phan-thiet
+,,,,,,Xã Phong Nẫm,7150133,71501,,,xa-phong-nam,,thanh-pho-phan-thiet
+,,,,,,Xã Tiến Lợi,7150135,71501,,,xa-tien-loi,,thanh-pho-phan-thiet
 ,,,,,,Xã Phong Phú   ,7150301,71503,,,xa-phong-phu,,huyen-tuy-phong
 ,,,,,,Thị trấn Phan Rí Cửa,7150303,71503,,,thi-tran-phan-ri-cua,,huyen-tuy-phong
 ,,,,,,Xã Phú Lạc  ,7150305,71503,,,xa-phu-lac,,huyen-tuy-phong
@@ -10589,17 +10589,17 @@
 ,,,,,,Xã Thanh Hoà ,8072127,80721,,,xa-thanh-hoa,,thi-xa-cai-lay
 ,,,,,,Xã Phú Quý,8072129,80721,,,xa-phu-quy,,thi-xa-cai-lay
 ,,,,,,Xã Long Khánh  ,8072131,80721,,,xa-long-khanh,,thi-xa-cai-lay
-,,,,,,Phường Trường An ,8090101,80901,,,phuong-truong-an,,thanh-pho--vinh-long
-,,,,,,Phường 5             ,8090103,80901,,,phuong-5,,thanh-pho--vinh-long
-,,,,,,Phường 4               ,8090105,80901,,,phuong-4,,thanh-pho--vinh-long
-,,,,,,Phường Tân Hòa   ,8090107,80901,,,phuong-tan-hoa,,thanh-pho--vinh-long
-,,,,,,Phường 9        ,8090109,80901,,,phuong-9,,thanh-pho--vinh-long
-,,,,,,Phường 1                   ,8090111,80901,,,phuong-1,,thanh-pho--vinh-long
-,,,,,,Phường 2                  ,8090113,80901,,,phuong-2,,thanh-pho--vinh-long
-,,,,,,Phường 3                  ,8090115,80901,,,phuong-3,,thanh-pho--vinh-long
-,,,,,,Phường 8        ,8090117,80901,,,phuong-8,,thanh-pho--vinh-long
-,,,,,,Phường Tân Ngãi,8090119,80901,,,phuong-tan-ngai,,thanh-pho--vinh-long
-,,,,,,Phường Tân Hội,8090121,80901,,,phuong-tan-hoi,,thanh-pho--vinh-long
+,,,,,,Phường Trường An ,8090101,80901,,,phuong-truong-an,,thanh-pho-vinh-long
+,,,,,,Phường 5             ,8090103,80901,,,phuong-5,,thanh-pho-vinh-long
+,,,,,,Phường 4               ,8090105,80901,,,phuong-4,,thanh-pho-vinh-long
+,,,,,,Phường Tân Hòa   ,8090107,80901,,,phuong-tan-hoa,,thanh-pho-vinh-long
+,,,,,,Phường 9        ,8090109,80901,,,phuong-9,,thanh-pho-vinh-long
+,,,,,,Phường 1                   ,8090111,80901,,,phuong-1,,thanh-pho-vinh-long
+,,,,,,Phường 2                  ,8090113,80901,,,phuong-2,,thanh-pho-vinh-long
+,,,,,,Phường 3                  ,8090115,80901,,,phuong-3,,thanh-pho-vinh-long
+,,,,,,Phường 8        ,8090117,80901,,,phuong-8,,thanh-pho-vinh-long
+,,,,,,Phường Tân Ngãi,8090119,80901,,,phuong-tan-ngai,,thanh-pho-vinh-long
+,,,,,,Phường Tân Hội,8090121,80901,,,phuong-tan-hoi,,thanh-pho-vinh-long
 ,,,,,,Xã Long An    ,8090301,80903,,,xa-long-an,,huyen-long-ho
 ,,,,,,Xã Phú Quới,8090303,80903,,,xa-phu-quoi,,huyen-long-ho
 ,,,,,,Thị trấn Long Hồ,8090305,80903,,,thi-tran-long-ho,,huyen-long-ho
@@ -11029,7 +11029,7 @@
 ,,,,,,Phường Châu Văn Liêm,8150505,81505,,,phuong-chau-van-liem,,quan-o-mon
 ,,,,,,Phường Thới Long,8150507,81505,,,phuong-thoi-long,,quan-o-mon
 ,,,,,,Phường Trường Lạc,8150509,81505,,,phuong-truong-lac,,quan-o-mon
-,,,,,,Phường Thới  Hoà,8150511,81505,,,phuong-thoi--hoa,,quan-o-mon
+,,,,,,Phường Thới  Hoà,8150511,81505,,,phuong-thoi-hoa,,quan-o-mon
 ,,,,,,Phường Long Hưng ,8150513,81505,,,phuong-long-hung,,quan-o-mon
 ,,,,,,Phường An Cư,8151901,81519,,,phuong-an-cu,,quan-ninh-kieu
 ,,,,,,Phường Hưng Lợi,8151903,81519,,,phuong-hung-loi,,quan-ninh-kieu
@@ -11456,23 +11456,23 @@
 ,,,,,,Xã Định Thành A,8211117,82111,,,xa-dinh-thanh-a,,huyen-dong-hai
 ,,,,,,Xã An Trạch A,8211119,82111,,,xa-an-trach-a,,huyen-dong-hai
 ,,,,,,Xã Điền Hải ,8211121,82111,,,xa-dien-hai,,huyen-dong-hai
-,,,,,,Phường 5                  ,8230101,82301,,,phuong-5,,thanh-pho--ca-mau
-,,,,,,Xã Lý Văn Lâm,8230103,82301,,,xa-ly-van-lam,,thanh-pho--ca-mau
-,,,,,,Phường 9           ,8230105,82301,,,phuong-9,,thanh-pho--ca-mau
-,,,,,,Phường 4                   ,8230107,82301,,,phuong-4,,thanh-pho--ca-mau
-,,,,,,Phường 1                            ,8230109,82301,,,phuong-1,,thanh-pho--ca-mau
-,,,,,,Phường 2                          ,8230111,82301,,,phuong-2,,thanh-pho--ca-mau
-,,,,,,Phường 8             ,8230113,82301,,,phuong-8,,thanh-pho--ca-mau
-,,,,,,Phường 6             ,8230115,82301,,,phuong-6,,thanh-pho--ca-mau
-,,,,,,Phường 7              ,8230117,82301,,,phuong-7,,thanh-pho--ca-mau
-,,,,,,Xã An Xuyên,8230119,82301,,,xa-an-xuyen,,thanh-pho--ca-mau
-,,,,,,Xã Tân Thành                           ,8230121,82301,,,xa-tan-thanh,,thanh-pho--ca-mau
-,,,,,,Xã Tắc Vân,8230123,82301,,,xa-tac-van,,thanh-pho--ca-mau
-,,,,,,Xã Định Bình ,8230125,82301,,,xa-dinh-binh,,thanh-pho--ca-mau
-,,,,,,Xã Hòa Thành   ,8230127,82301,,,xa-hoa-thanh,,thanh-pho--ca-mau
-,,,,,,Xã Hòa Tân  ,8230129,82301,,,xa-hoa-tan,,thanh-pho--ca-mau
-,,,,,,Phường Tân Xuyên,8230131,82301,,,phuong-tan-xuyen,,thanh-pho--ca-mau
-,,,,,,Phường Tân Thành     ,8230133,82301,,,phuong-tan-thanh,,thanh-pho--ca-mau
+,,,,,,Phường 5                  ,8230101,82301,,,phuong-5,,thanh-pho-ca-mau
+,,,,,,Xã Lý Văn Lâm,8230103,82301,,,xa-ly-van-lam,,thanh-pho-ca-mau
+,,,,,,Phường 9           ,8230105,82301,,,phuong-9,,thanh-pho-ca-mau
+,,,,,,Phường 4                   ,8230107,82301,,,phuong-4,,thanh-pho-ca-mau
+,,,,,,Phường 1                            ,8230109,82301,,,phuong-1,,thanh-pho-ca-mau
+,,,,,,Phường 2                          ,8230111,82301,,,phuong-2,,thanh-pho-ca-mau
+,,,,,,Phường 8             ,8230113,82301,,,phuong-8,,thanh-pho-ca-mau
+,,,,,,Phường 6             ,8230115,82301,,,phuong-6,,thanh-pho-ca-mau
+,,,,,,Phường 7              ,8230117,82301,,,phuong-7,,thanh-pho-ca-mau
+,,,,,,Xã An Xuyên,8230119,82301,,,xa-an-xuyen,,thanh-pho-ca-mau
+,,,,,,Xã Tân Thành                           ,8230121,82301,,,xa-tan-thanh,,thanh-pho-ca-mau
+,,,,,,Xã Tắc Vân,8230123,82301,,,xa-tac-van,,thanh-pho-ca-mau
+,,,,,,Xã Định Bình ,8230125,82301,,,xa-dinh-binh,,thanh-pho-ca-mau
+,,,,,,Xã Hòa Thành   ,8230127,82301,,,xa-hoa-thanh,,thanh-pho-ca-mau
+,,,,,,Xã Hòa Tân  ,8230129,82301,,,xa-hoa-tan,,thanh-pho-ca-mau
+,,,,,,Phường Tân Xuyên,8230131,82301,,,phuong-tan-xuyen,,thanh-pho-ca-mau
+,,,,,,Phường Tân Thành     ,8230133,82301,,,phuong-tan-thanh,,thanh-pho-ca-mau
 ,,,,,,Xã Tân Lộc  ,8230301,82303,,,xa-tan-loc,,huyen-thoi-binh
 ,,,,,,Thị trấn Thới Bình,8230303,82303,,,thi-tran-thoi-binh,,huyen-thoi-binh
 ,,,,,,Xã Biển Bạch,8230305,82303,,,xa-bien-bach,,huyen-thoi-binh

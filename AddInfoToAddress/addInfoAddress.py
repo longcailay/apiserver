@@ -10,7 +10,7 @@ def addressToCode(address):
     #print(type(address))
     result = str(address)
     result = unidecode(address).strip()
-    result = result.replace(' - ','-').replace(' ','-').replace('  ','-')
+    result = result.replace(' - ','-').replace(' ','-').replace('  ','-').replace('  ','-').replace('  ','-').replace('--','-').replace('--','-').replace('--','-')
     result = result.lower()
     return result
 

@@ -1,6 +1,6 @@
 Tạo server API cho combobox chọn khu vực: Tỉnh, huyện, xã
 
-Gõ lệnh: python areasAPI.py run server
+Gõ lệnh: python areasAPI.py  để run server
 
 truy cập:
 http://127.0.0.1:5000/areas   => get danh sách tất cả các tỉnh ở việt nam

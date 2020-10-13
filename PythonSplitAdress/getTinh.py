@@ -62,22 +62,43 @@ def getDistrictCode(address):
 # result = result.replace("Tt.", "Thị trấn")
 # result = result.replace("P.", "Phường")
 # result = result.replace("p.", "Phường")
-def getVillage(address):
+
+#do xã/phường bị thiếu nên cần gọi thêm api của openstreet map bổ sung thêm phường/xã
+import requests
+def locationToDistrict(lat, lon):
+    URL = "https://nominatim.openstreetmap.org/reverse?format=json&lat=" + lat + "&lon=" + lon  + "&zoom=18&addressdetails=1"
+    # sending get request and saving the response as response object 
+    res = requests.get(url = URL)
+    # extracting data in json format 
+    data = res.json()
+    address = 'Not Found!'
+    district = 'Undefined'
+    if 'address' in data:
+        address = data['address']
+        if 'neighbourhood' in address:
+            district = address['neighbourhood']
+        else:
+            if 'suburb' in address:
+                district = address['suburb']
+    print("Processing at:  " + str(district))
+    return district
+
+def getVillage(address,lat,lon):
     temp = address.split(", ")
     result = temp[len(temp)-3].strip()# Bỏ khoản trắng đầu và cuối string
     if 'P.' in result  or 'Tt.' in result or 'Xã' in result:
         result = result.replace('P.', 'Phường')
         result = result.replace('Tt.', 'Thị trấn')
     else:
-        result = 'Undefined'
+        result = locationToDistrict(lat,lon)
     return result
 
 
 #Từ địa chỉ đầy đủ, cho ra mã phường/ xã tương ứng
 # VÍ dụ: input: 808, Đường 30/4, P. 11, Thành phố Vũng Tàu, T. Bà Rịa - Vũng Tàu
 # output: phuong-11
-def getVillageCode(address):
-    temp = getVillage(address)
+def getVillageCode(address,lat,lon):
+    temp = getVillage(address,lat,lon)
     result = unidecode(temp)
     result = result.replace(' - ','-').replace(' ','-').replace('  ','-')
     result = result.lower()
