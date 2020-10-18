@@ -80,7 +80,7 @@ def locationToDistrict(lat, lon):
         else:
             if 'suburb' in address:
                 district = address['suburb']
-    print("Processing at:  " + str(district))
+    print("OpenStreetMap bổ sung phường/xã:  " + str(district))
     return district
 
 def getVillage(address,lat,lon):

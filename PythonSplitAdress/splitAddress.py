@@ -5,12 +5,12 @@ import re
 import getTinh
 #chỉ cần thay đổi tên file đầu vào là được
 #Goi lệnh: python sliptAddress.py
-fileName = 'eduHcmEncoding.csv'
+fileName = 'giaoDucHCM_input.csv'
 
 df = pd.read_csv(fileName)
 
-fileNameResult = fileName[0:len(fileName) - 4] + 'Result.csv'
-
+#fileNameResult = fileName[0:len(fileName) - 4] + 'Result.csv'
+fileNameResult = 'output.csv'
 #Thêm cột tỉnh, quận/huyện, xã/phường, đường
 df['province'] = df['provinceCode'] = ''
 df['district'] = df['districtCode'] = ''
