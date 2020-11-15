@@ -1,4 +1,5 @@
 import connectionServer
+#trả về kết nối tới một database của một server
 def connectionDB(serverURL,port,databaseName):
     connServer = None
     if (serverURL == '') and (port == ''):
@@ -7,4 +8,8 @@ def connectionDB(serverURL,port,databaseName):
         connServer = connectionServer.connServer(serverURL, port)
     connDB = connServer[databaseName]
     return connDB
+
+#Trả về kết nối tới một database của Atlas
+def connectionDBAtlas(databaseName):
+    return connectionServer.connServerAtlas()[databaseName]
 
