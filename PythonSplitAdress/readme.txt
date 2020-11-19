@@ -2,6 +2,8 @@ cần cài các package python:
 
 	pip install pandas
 	pip install numpy
+	pip install unidecode
+	pip install requests
 
 
 run: 

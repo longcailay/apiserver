@@ -3,6 +3,8 @@ import json
 import sys
 import requests
 import ast
+import datetime
+
 sys.path.insert(0, './../Connection')
 from pymongo import ASCENDING, DESCENDING
 import connectionDB as connDB #Lỗi import cũng không sao
@@ -82,14 +84,42 @@ def addVillageAreas():
 
 
 
+def default_datetime():    
+    now = datetime.datetime.now()   
+    now.replace(microsecond=0)      
+    return now
 
 
+# class MyObject(models.Model): 
+#     created_at = models.DateTimeField(db_index=True, default=default_datetime)
+#     updated_at = models.DateTimeField(db_index=True, null=False)
+
+
+#Add two field: createdAt and UpdatedAt to all documents
+
+
+def addTwoFieldCreatedAtAndUpdatedAtt():
+    myColl = db['core_store']
+    # t = myColl.find({"key" : "plugin_users-permissions_grant"})
+    df = pd.DataFrame(list(myColl.find({"key" : "plugin_users-permissions_grant"})))
+    print(df['createdAt'][0])
+    t = df['createdAt'][0]
+    print('Kekeke')
+    collection.update_many({} , {"$set" : {"createdAt": t}})
+    collection.update_many({} , {"$set" : {"updatedAt": t}})
+    collection.update_many({}, {"$set" : {"__v": 0}})
+
+    # Xóa key createdAt tại tất cả các Collection
+    # collection.update_many({},{"$unset": { "createdAt" : 1} })
+    
+    
 #Xoa du lieu collection hien tai
-collection.delete_many({})
-addProvinceAreas()
+#collection.delete_many({})
+#addProvinceAreas()
 #collection.create_index([("provinceCode", 1),("districtCode",1)])
 
-addDistrictAreas()
-addVillageAreas()
+#addDistrictAreas()
+#addVillageAreas()
+#addTwoFieldCreatedAtAndUpdatedAtt()
 
 

@@ -80,6 +80,9 @@ def locationToDistrict(lat, lon):
         else:
             if 'suburb' in address:
                 district = address['suburb']
+            else:
+                if 'town' in address:
+                    district = address['town']
     print("OpenStreetMap bổ sung phường/xã:  " + str(district))
     return district
 
