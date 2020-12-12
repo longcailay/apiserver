@@ -1,0 +1,708 @@
+﻿STT,DistrictName,ProvinceName,Category,Population,Area,Density
+9,An Phú,An Giang,,191328 (8/2009)[2],226,845
+104,Châu Đốc,An Giang,thành phố,111267,105,1494
+106,Châu Phú,An Giang,,245102,451,543
+107,Châu Thành,An Giang,,169723,355,478
+125,Chợ Mới,An Giang,,3452,370,934
+346,Long Xuyên,An Giang,thành phố,285379,115,2415
+451,Phú Tân,An Giang,,221059 (8/2009)[2],314223,704
+540,Tân Châu,An Giang,thị xã,171888,1756846,1048
+591,Thoại Sơn,An Giang,,180551,469,385
+615,Tịnh Biên,An Giang,,120781,356,340
+627,Tri Tôn,An Giang,,133109,600,222
+20,Bà Rịa,Bà Rịa Vũng Tàu,thành phố,122424 (8/2012)[4],92,1338
+105,Châu Đức,Bà Rịa Vũng Tàu,,143306,421,341
+134,Côn Đảo,Bà Rịa Vũng Tàu,huyện đảo,5127,75,68
+174,Đất Đỏ,Bà Rịa Vũng Tàu,,69502,190,367
+339,Long Điền,Bà Rịa Vũng Tàu,,125179,77,1626
+445,Phú Mỹ,Bà Rịa Vũng Tàu,thị xã,128205,338,380
+686,Vũng Tàu,Bà Rịa Vũng Tàu,thành phố,32215,140,2111
+690,Xuyên Mộc,Bà Rịa Vũng Tàu,,134401,642,214
+35,Bắc Giang,Bắc Giang,thành phố,157439 (12/2013)[8],67,2358
+250,Hiệp Hòa,Bắc Giang,,213002,201,1059
+326,Lạng Giang,Bắc Giang,,191048 (9/2010)[48],2398480,797
+350,Lục Nam,Bắc Giang,,198358,597,332
+351,Lục Ngạn,Bắc Giang,,204416,1012,202
+519,Sơn Động,Bắc Giang,,68724,846,81
+556,Tân Yên,Bắc Giang,,158547,204,776
+666,Việt Yên,Bắc Giang,,159936,172,932
+695,Yên Dũng,Bắc Giang,,135075 (9/2010)[48],1859466,726
+706,Yên Thế,Bắc Giang,,92702,301,308
+13,Ba Bể,Bắc Kạn,,4635,684,68
+25,Bạch Thông,Bắc Kạn,,30216,547,55
+37,Bắc Kạn,Bắc Kạn,thành phố,3718,137,272
+121,Chợ Đồn,Bắc Kạn,,48122,911,53
+124,Chợ Mới,Bắc Kạn,,36747,607,61
+388,Na Rì,Bắc Kạn,,37472,853,44
+403,Ngân Sơn,Bắc Kạn,,2768,646,73
+433,Pác Nặm,Bắc Kạn,,30059,475,63
+23,Bạc Liêu,Bạc Liêu,thành phố,190045 (2014)[5],175,1077
+188,Đông Hải,Bạc Liêu,,14359,562,256
+216,Giá Rai,Bạc Liêu,thị xã,137249,354668,398
+253,Hoà Bình,Bạc Liêu,,106792,412,259
+271,Hồng Dân,Bạc Liêu,,105177,424,248
+467,Phước Long,Bạc Liêu,,1177,405,291
+675,Vĩnh Lợi,Bạc Liêu,,98155,249,394
+39,Bắc Ninh,Bắc Ninh,thành phố,188138 [9],83,3301
+211,Gia Bình,Bắc Ninh,,92269,108,855
+354,Lương Tài,Bắc Ninh,,96326,106,911
+496,Quế Võ,Bắc Ninh,,135938,149,912
+603,Thuận Thành,Bắc Ninh,,144536,118,1226
+607,Tiên Du,Bắc Ninh,,124396,96,1293
+645,Từ Sơn,Bắc Ninh,thị xã,14004,61,2285
+703,Yên Phong,Bắc Ninh,,12666,95,133
+18,Ba Tri,Bến Tre,,187398,355,528
+49,Bến Tre,Bến Tre,thành phố,150530 (4/2013)[11],71,2117
+53,Bình Đại,Bến Tre,,132193,401,330
+108,Châu Thành,Bến Tre,,157138 (4/2013)[11],225,699
+123,Chợ Lách,Bến Tre,,113716 *,168,676
+221,Giồng Trôm,Bến Tre,,168744,311,542
+366,Mỏ Cày Bắc,Bến Tre,,124377 *,155,804
+367,Mỏ Cày Nam,Bến Tre,,166474 *,219.89[51],757
+585,Thạnh Phú,Bến Tre,,128116,412,311
+6,An Lão,Bình Định,,242,690,35
+8,An Nhơn,Bình Định,thị xã,194123 (11/2013),242.6[1],804
+257,Hoài Ân,Bình Định,,84437,744,113
+259,Hoài Nhơn,Bình Định,,212063,420082,504
+457,Phù Cát,Bình Định,,188042,679,274
+459,Phù Mỹ,Bình Định,,169304,549,308
+497,Quy Nhơn,Bình Định,thành phố,311535,284,1098
+561,Tây Sơn,Bình Định,,123309,688,179
+640,Tuy Phước,Bình Định,,179985,217,830
+659,Vân Canh,Bình Định,,24661,798,31
+676,Vĩnh Thạnh,Bình Định,,27978,710,39
+33,Bàu Bàng,Bình Dương,,82024 (12/2013)[7],339,242
+42,Bắc Tân Uyên,Bình Dương,,58439 (12/2013)[7],401,146
+46,Bến Cát,Bình Dương,thị xã,203420 (12/2013)[7],234,868
+143,Dầu Tiếng,Bình Dương,,11578,721,160
+145,Dĩ An,Bình Dương,thành phố,40376,60,6718
+441,Phú Giáo,Bình Dương,,83555,542,154
+554,Tân Uyên,Bình Dương,thị xã,190564 (12/2013)[7],924920,206
+596,Thủ Dầu Một,Bình Dương,thành phố,284181[7],119,223
+599,Thuận An,Bình Dương,thành phố,508433,84,6074
+57,Bình Long,Bình Phước,thị xã,57590 (8/2009)[13],126,456
+67,Bù Đăng,Bình Phước,,133475,1503,89
+68,Bù Đốp,Bình Phước,,51576,378,137
+69,Bù Gia Mập,Bình Phước,,72907,1061,69
+126,Chơn Thành,Bình Phước,,62562 (8/2009)[13],390,161
+195,Đồng Phú,Bình Phước,,8219,929,88
+197,Đồng Xoài,Bình Phước,thành phố,80099,169,475
+268,Hớn Quản,Bình Phước,,95681 (8/2009)[13],6637977,144
+349,Lộc Ninh,Bình Phước,,109866,854,129
+450,Phú Riềng,Bình Phước,,92016,675,136
+466,Phước Long,Bình Phước,thị xã,50019 (8/2009)[13],1188393,421
+34,Bắc Bình,Bình Thuận  ,,116901,1825,64
+204,Đức Linh,Bình Thuận  ,,125033,536,233
+244,Hàm Tân,Bình Thuận  ,,69487,739,94
+245,Hàm Thuận Bắc,Bình Thuận  ,,167646,1283,131
+246,Hàm Thuận Nam,Bình Thuận  ,,98632,1052,94
+319,La Gi,Bình Thuận  ,thị xã,104525,183,571
+435,Phan Thiết,Bình Thuận  ,thành phố,216327,207,1048
+448,Phú Quý,Bình Thuận  ,huyện đảo,25738,16,1569
+536,Tánh Linh,Bình Thuận  ,,102026,1174,87
+639,Tuy Phong,Bình Thuận  ,,140708,795,177
+73,Cà Mau,Cà Mau,thành phố,204895 (6/2009)[16],250,819
+77,Cái Nước,Cà Mau,,137396,417,329
+171,Đầm Dơi,Cà Mau,,182028,826,220
+397,Năm Căn,Cà Mau,,66229,494,134
+410,Ngọc Hiển,Cà Mau,,83152 (6/2009)[16],7331513,113
+452,Phú Tân,Cà Mau,,103885,464,224
+594,Thới Bình,Cà Mau,,134286,640,210
+626,Trần Văn Thời,Cà Mau,,186252,716,260
+647,U Minh,Cà Mau,,92312 (6/2009)[16],7746150,119
+64,Bình Thủy,Cần Thơ,quận,113562,71,1609
+78,Cái Răng,Cần Thơ,quận,86278,63,138
+136,Cờ Đỏ,Cần Thơ,,124069,311,400
+426,Ninh Kiều,Cần Thơ,quận,243794,29,8349
+432,Ô Môn,Cần Thơ,quận,129683,125,1034
+437,Phong Điền,Cần Thơ,,99328,120,831
+593,Thốt Nốt,Cần Thơ,quận,158225,118,1343
+595,Thới Lai,Cần Thơ,,120964,256,473
+677,Vĩnh Thạnh,Cần Thơ,,112529,298,378
+26,Bảo Lạc,Cao Bằng,,49362,918,54
+27,Bảo Lâm,Cao Bằng,,55936,913,61
+84,Cao Bằng,Cao Bằng,thành phố,84421 (9/2012)[19],107.6[19],784
+230,Hà Quảng,Cao Bằng,,59467,811,73
+235,Hạ Lang,Cao Bằng,,25294,463,55
+252,Hòa An,Cao Bằng,,55730[19],609.5208[19],91
+415,Nguyên Bình,Cao Bằng,,3942,841,47
+475,Quảng Hòa,Cao Bằng,,6662,669,100
+562,Thạch An,Cao Bằng,,30563,691,44
+630,Trùng Khánh,Cao Bằng,,70424,688,102
+93,Cẩm Lệ,Đà Nẵng,quận,87691,33,2633
+239,Hải Châu,Đà Nẵng,quận,189561,21,9202
+256,Hòa Vang,Đà Nẵng,,116524,707,165
+263,Hoàng Sa,Đà Nẵng,huyện đảo,0,305,0
+337,Liên Chiểu,Đà Nẵng,quận,128353,76,1696
+414,Ngũ Hành Sơn,Đà Nẵng,quận,63067,37,1728
+527,Sơn Trà,Đà Nẵng,quận,127682,60,2128
+576,Thanh Khê,Đà Nẵng,quận,174557,9,1877
+70,Buôn Đôn,Đắk Lắk,,59959,1410,43
+71,Buôn Hồ,Đắk Lắk,thị xã,96685,282,343
+72,Buôn Ma Thuột,Đắk Lắk,thành phố,326135,377,865
+139,Cư Kuin,Đắk Lắk,,99551,288,345
+141,Cư M'gar,Đắk Lắk,,1636,824,198
+208,Ea H'leo,Đắk Lắk,,120968,1335,91
+209,Ea Kar,Đắk Lắk,,141331,1038,136
+210,Ea Súp,Đắk Lắk,,58579,1766,33
+309,Krông Ana,Đắk Lắk,,8101,356,227
+310,Krông Bông,Đắk Lắk,,87139,1258,69
+311,Krông Búk,Đắk Lắk,,57387,359,160
+312,Krông Năng,Đắk Lắk,,118223,615,147
+315,Krông Pắk,Đắk Lắk,,198009,626,316
+329,Lắk,Đắk Lắk,,59954,1256,48
+361,M'Đrăk,Đắk Lắk,,65094,1336,49
+140,Cư Jút,Đắk Nông,,88264,719,123
+165,Đắk Glong,Đắk Nông,,29248 (7/2010)[32],1449,20
+167,Đắk Mil,Đắk Nông,,87831,683,129
+168,Đắk R'lấp,Đắk Nông,,74087,634,117
+169,Đắk Song,Đắk Nông,,56829,808,70
+214,Gia Nghĩa,Đắk Nông,thành phố,41788,287,146
+313,Krông Nô,Đắk Nông,,62888,805,78
+637,Tuy Đức,Đắk Nông,,38656,1123,34
+176,Điện Biên,Điện Biên,,9385,1396,67
+177,Điện Biên Đông,Điện Biên,,56249,1267,44
+178,Điện Biên Phủ,Điện Biên,thành phố,80366,308,261
+373,Mường Ảng,Điện Biên,,40119,443,91
+374,Mường Chà,Điện Biên,,39456 (8/2012)[54],1199.4209 [54],33
+378,Mường Lay,Điện Biên,thị xã,1165,114,102
+379,Mường Nhé,Điện Biên,,32977 (8/2012)[54],1573.73[54],21
+398,Nậm Pồ,Điện Biên,,43542 (8/2012)[54],1498.1296[54],29
+633,Tủa Chùa,Điện Biên,,47279,679,70
+634,Tuần Giáo,Điện Biên,,77446 (8/2012)[54],1137.7682[54],68
+50,Biên Hòa,Đồng Nai,thành phố,94608,264,4184
+94,Cẩm Mỹ,Đồng Nai,,15461,468,295
+181,Định Quán,Đồng Nai,,21107,967,198
+341,Long Khánh,Đồng Nai,thành phố,145334,194,673
+345,Long Thành,Đồng Nai,,225754 [50],4310102,438
+419,Nhơn Trạch,Đồng Nai,,215556,411,385
+547,Tân Phú,Đồng Nai,,167046,775,201
+592,Thống Nhất,Đồng Nai,,163812,247,594
+623,Trảng Bom,Đồng Nai,,292699,326,753
+670,Vĩnh Cửu,Đồng Nai,,146362,1092,114
+688,Xuân Lộc,Đồng Nai,,237577,727,283
+85,Cao Lãnh,Đồng Tháp,thành phố,161292,107,1505
+86,Cao Lãnh,Đồng Tháp,,200689,491,409
+109,Châu Thành,Đồng Tháp,,150936,246,613
+273,Hồng Ngự,Đồng Tháp,,144232,210,688
+274,Hồng Ngự,Đồng Tháp,thị xã,77735,122,636
+324,Lai Vung,Đồng Tháp,,160019,238,672
+333,Lấp Vò,Đồng Tháp,,180024,246,732
+505,Sa Đéc,Đồng Tháp,thành phố,152237 (10/2013)[71],60,2545
+534,Tam Nông,Đồng Tháp,,10529,528,199
+543,Tân Hồng,Đồng Tháp,,90994,292,312
+572,Thanh Bình,Đồng Tháp,,154192,330,468
+587,Tháp Mười,Đồng Tháp,,137481,508,271
+4,An Khê,Gia Lai,thị xã,63375,199,318
+11,Ayun Pa,Gia Lai,thị xã,3489,287,122
+127,Chư Păh,Gia Lai,,69957 (12/2013)[26],980,71
+128,Chư Prông,Gia Lai,,97685,1696,58
+129,Chư Pưh,Gia Lai,,54890 (8/2009)[27],717[27],77
+130,Chư Sê,Gia Lai,,94389 (8/2009)[27],643[27],147
+161,Đắk Đoa,Gia Lai,,103923 (12/2013)[31],989,105
+162,Đak Pơ,Gia Lai,,41173 (12/2013)[26],504,82
+201,Đức Cơ,Gia Lai,,62031,723,86
+285,Ia Grai,Gia Lai,,88613,1121,79
+287,Ia Pa,Gia Lai,,4903,869,56
+288,K'Bang,Gia Lai,,61682,1841,34
+308,Kông Chro,Gia Lai,,42635,1442,30
+314,Krông Pa,Gia Lai,,72397,1628,44
+360,Mang Yang,Gia Lai,,5316,1126,47
+453,Phú Thiện,Gia Lai,,70881,502,141
+469,Pleiku,Gia Lai,thành phố,208634,262,796
+38,Bắc Mê,Hà Giang,,47339,841,56
+40,Bắc Quang,Hà Giang,,45286,1101,41
+196,Đồng Văn,Hà Giang,,64757,461,140
+229,Hà Giang,Hà Giang,thành phố,71689[39],1353193,530
+264,Hoàng Su Phì,Hà Giang,,59427,634,94
+362,Mèo Vạc,Hà Giang,,70162,577,122
+472,Quản Bạ,Hà Giang,,44506,532,83
+473,Quang Bình,Hà Giang,,56824 (12/2010)[67],775,73
+664,Vị Xuyên,Hà Giang,,95725,1488,64
+687,Xín Mần,Hà Giang,,58195,583,100
+700,Yên Minh,Hà Giang,,77625,786,99
+58,Bình Lục,Hà Nam,,133978 (7/2013)[14],144,930
+148,Duy Tiên,Hà Nam,thị xã,115011 (7/2013)[14],121,950
+299,Kim Bảng,Hà Nam,,116054 (7/2013)[14],1757172,660
+355,Lý Nhân,Hà Nam,,175878,187,942
+462,Phủ Lý,Hà Nam,thành phố,136654 (7/2013)[14],878730,1555
+577,Thanh Liêm,Hà Nam,,113077 (7/2013)[14],1647198,686
+15,Ba Đình,Hà Nội,quận,22591,9,24291
+19,Ba Vì,Hà Nội,,24612,425,579
+44,Bắc Từ Liêm,Hà Nội,quận,320414 (12/2013)[10],43,7391
+101,Cầu Giấy,Hà Nội,quận,225643,12,18804
+131,Chương Mỹ,Hà Nội,,286359,232,1233
+163,Đan Phượng,Hà Nội,,14248,77,186
+185,Đông Anh,Hà Nội,,333337,182,1831
+199,Đống Đa,Hà Nội,quận,370117,10,36286
+212,Gia Lâm,Hà Nội,,251735,114,2208
+228,Hà Đông,Hà Nội,quận,233126,48,4867
+237,Hai Bà Trưng,Hà Nội,quận,295726,10,2928
+258,Hoài Đức,Hà Nội,,191106,82,2319
+260,Hoàn Kiếm,Hà Nội,quận,147334,5,27799
+261,Hoàng Mai,Hà Nội,quận,335509,40,8844
+338,Long Biên,Hà Nội,quận,276913,60,45
+363,Mê Linh,Hà Nội,,19149,142,1352
+381,Mỹ Đức,Hà Nội,,169999,230,739
+396,Nam Từ Liêm,Hà Nội,quận,232894 (12/2013)[10],322736,7216
+456,Phú Xuyên,Hà Nội,,181388,171,106
+463,Phúc Thọ,Hà Nội,,159484,117,1362
+498,Quốc Oai,Hà Nội,,16019,147,109
+511,Sóc Sơn,Hà Nội,,282536,307,922
+524,Sơn Tây,Hà Nội,thị xã,125749,114,1108
+559,Tây Hồ,Hà Nội,quận,130639,24,5443
+565,Thạch Thất,Hà Nội,,177545,203,877
+579,Thanh Oai,Hà Nội,,16725,124,1351
+582,Thanh Trì,Hà Nội,,198706,63,3146
+583,Thanh Xuân,Hà Nội,quận,223694,9,24582
+605,Thường Tín,Hà Nội,,219246,128,1717
+650,Ứng Hòa,Hà Nội,,182008,184,991
+82,Can Lộc,Hà Tĩnh,,127515,301,424
+97,Cẩm Xuyên,Hà Tĩnh,,141216,636,222
+206,Đức Thọ,Hà Tĩnh,,104536,203,513
+232,Hà Tĩnh,Hà Tĩnh,thành phố,88957,56,158
+272,Hồng Lĩnh,Hà Tĩnh,thị xã,35436,59,605
+279,Hương Khê,Hà Tĩnh,,100212,1278,78
+280,Hương Sơn,Hà Tĩnh,,117167,1101,106
+316,Kỳ Anh,Hà Tĩnh,,120518,761617,158
+317,Kỳ Anh,Hà Tĩnh,thị xã,85508,2802503,305
+348,Lộc Hà,Hà Tĩnh,,78802,118,666
+405,Nghi Xuân,Hà Tĩnh,,9783,220,445
+563,Thạch Hà,Hà Tĩnh,,132377,356,371
+682,Vũ Quang,Hà Tĩnh,,30989,646,48
+55,Bình Giang,Hải Dương,,104167,105,994
+91,Cẩm Giàng,Hải Dương,,127186,109,1167
+119,Chí Linh,Hải Dương,thành phố,164837 (2/2010)[24],282,584
+213,Gia Lộc,Hải Dương,,11567,100,116
+240,Hải Dương,Hải Dương,thành phố,50819,112,4552
+303,Kim Thành,Hải Dương,,122482,113,1085
+304,Kinh Môn,Hải Dương,thị xã,203638,165,1232
+393,Nam Sách,Hải Dương,,112094,109,1028
+423,Ninh Giang,Hải Dương,,141533,135,1045
+574,Thanh Hà,Hải Dương,,136858,141,973
+578,Thanh Miện,Hải Dương,,12269,122,1003
+644,Tứ Kỳ,Hải Dương,,152541,165,923
+3,An Dương,Hải Phòng,,1744,98,1647
+5,An Lão,Hải Phòng,,1439,115,1152
+24,Bạch Long Vĩ,Hải Phòng,huyện đảo,902,5,200
+89,Cát Hải,Hải Phòng,huyện đảo,29676,323,92
+152,Dương Kinh,Hải Phòng,quận,487,46,1061
+184,Đồ Sơn,Hải Phòng,quận,44514,42,105
+238,Hải An,Hải Phòng,quận,103267,105,984
+270,Hồng Bàng,Hải Phòng,quận,101625,14,7057
+295,Kiến An,Hải Phòng,quận,97403,30,3302
+296,Kiến Thụy,Hải Phòng,,126324,108,1175
+335,Lê Chân,Hải Phòng,quận,209608,12,17763
+413,Ngô Quyền,Hải Phòng,quận,164612,11,14698
+604,Thủy Nguyên,Hải Phòng,,303094,243,1248
+609,Tiên Lãng,Hải Phòng,,141288,191,739
+668,Vĩnh Bảo,Hải Phòng,,173083,181,959
+110,Châu Thành,Hậu Giang,,89242 (8/2009)[23],135,663
+117,Châu Thành A,Hậu Giang,,107713 (8/2009)[23],157,688
+342,Long Mỹ,Hậu Giang,thị xã,73,144,507
+343,Long Mỹ,Hậu Giang,,85,250,340
+401,Ngã Bảy,Hậu Giang,thành phố,101192,78,1296
+465,Phụng Hiệp,Hậu Giang,,210089 (1/2011)[66],486,433
+662,Vị Thanh,Hậu Giang,thành phố,97222 (9/2010)[82],1186774,819
+663,Vị Thủy,Hậu Giang,,99476,230,432
+52,Bình Chánh,Hồ Chí Minh,,591451,253,1663
+61,Bình Tân,Hồ Chí Minh,quận,686474,52,11026
+63,Bình Thạnh,Hồ Chí Minh,quận,487985,21,22031
+99,Cần Giờ,Hồ Chí Minh,,7496,704,98
+138,Củ Chi,Hồ Chí Minh,,403038,435,790
+227,Gò Vấp,Hồ Chí Minh,quận,634146,20,26478
+266,Hóc Môn,Hồ Chí Minh,,422471,109,3197
+417,Nhà Bè,Hồ Chí Minh,,139225,100,1007
+446,Phú Nhuận,Hồ Chí Minh,quận,182477,5,35765
+482,Quận 1,Hồ Chí Minh,quận,193632,8,25049
+483,Quận 2,Hồ Chí Minh,quận,147168,50,2959
+484,Quận 3,Hồ Chí Minh,quận,196333,5,39905
+485,Quận 4,Hồ Chí Minh,quận,186727,4,44671
+486,Quận 5,Hồ Chí Minh,quận,178615,4,4183
+487,Quận 6,Hồ Chí Minh,quận,258945,7,36014
+488,Quận 7,Hồ Chí Minh,quận,310178,36,8691
+489,Quận 8,Hồ Chí Minh,quận,431969,19,22522
+490,Quận 9,Hồ Chí Minh,quận,29062,114,2549
+491,Quận 10,Hồ Chí Minh,quận,238558,6,41706
+492,Quận 11,Hồ Chí Minh,quận,230596,5,44863
+493,Quận 12,Hồ Chí Minh,quận,510326,53,9669
+539,Tân Bình,Hồ Chí Minh,quận,459029,22,20511
+548,Tân Phú,Hồ Chí Minh,quận,464493,16,28886
+597,Thủ Đức,Hồ Chí Minh,quận,528413,48,9258
+88,Cao Phong,Hòa Bình,,40949,254,161
+155,Đà Bắc,Hòa Bình,,52381 (7/2009)[29],779,67
+254,Hoà Bình,Hòa Bình,thành phố,135718,349,389
+300,Kim Bôi,Hòa Bình,,114015 (7/2009)[29],5510338,207
+321,Lạc Sơn,Hòa Bình,,132337,581,228
+322,Lạc Thủy,Hòa Bình,,60624 (7/2009)[29],3199511,189
+353,Lương Sơn,Hòa Bình,,92860 (7/2009)[29],3698541,251
+357,Mai Châu,Hòa Bình,,55663 (7/2009)[29],5645437,99
+546,Tân Lạc,Hòa Bình,,78665,523,150
+707,Yên Thủy,Hòa Bình,,5969,282,212
+12,Ân Thi,Hưng Yên,,127788,128,996
+278,Hưng Yên,Hưng Yên,thành phố,147275 (8/2013)[42],734207,2006
+292,Khoái Châu,Hưng Yên,,181403,131,1386
+301,Kim Động,Hưng Yên,,111417 (8/2013)[42],1028530,1083
+382,Mỹ Hào,Hưng Yên,thị xã,93374,79,118
+458,Phù Cừ,Hưng Yên,,77386,94,824
+610,Tiên Lữ,Hưng Yên,,83039 (8/2013)[42],78415,1059
+654,Văn Giang,Hưng Yên,,99137,72,1381
+656,Văn Lâm,Hưng Yên,,112966,74,1518
+702,Yên Mỹ,Hưng Yên,,13373,91,147
+79,Cam Lâm,Khánh Hòa,,10085,544,185
+81,Cam Ranh,Khánh Hòa,thành phố,128358 (12/2010)[18],325,395
+146,Diên Khánh,Khánh Hòa,,131719,336,392
+290,Khánh Sơn,Khánh Hòa,,2093,337,62
+291,Khánh Vĩnh,Khánh Hòa,,33714,1165,29
+416,Nha Trang,Khánh Hòa,thành phố,392279,251,1565
+425,Ninh Hòa,Khánh Hòa,thị xã,233558 (10/2010)[61],1198,195
+632,Trường Sa,Khánh Hòa,huyện đảo,195,496,39
+651,Vạn Ninh,Khánh Hòa,,126477,550,230
+2,An Biên,Kiên Giang,,125674,400,305
+7,An Minh,Kiên Giang,,115062,591,195
+111,Châu Thành,Kiên Giang,,148313,285,520
+217,Giang Thành,Kiên Giang,,28910 *,407.44[37],71
+220,Giồng Riềng,Kiên Giang,,211496,639,331
+226,Gò Quao,Kiên Giang,,138547,440,315
+231,Hà Tiên,Kiên Giang,thành phố,81576,100,812
+267,Hòn Đất,Kiên Giang,,16686,1047,159
+293,Kiên Hải,Kiên Giang,huyện đảo,20807,26,794
+294,Kiên Lương,Kiên Giang,,7475,473,158
+449,Phú Quốc,Kiên Giang,huyện đảo,91241,589,155
+504,Rạch Giá,Kiên Giang,thành phố,226316,104,2184
+542,Tân Hiệp,Kiên Giang,,142405,419,339
+648,U Minh Thượng,Kiên Giang,,67764,433,156
+678,Vĩnh Thuận,Kiên Giang,,89798,395,227
+164,Đắk Glei,Kon Tum,,38863,1495,26
+166,Đắk Hà,Kon Tum,,65206 (12/2013)[33],846,77
+170,Đắk Tô,Kon Tum,,3744,506,74
+286,Ia H'Drai,Kon Tum,,11644,9801322,12
+305,Kon Plông,Kon Tum,,2089,1381,15
+306,Kon Rẫy,Kon Tum,,22622,911,25
+307,Kon Tum,Kon Tum,thành phố,155214 (12/2013)[33],4321249,359
+411,Ngọc Hồi,Kon Tum,,41828,845,50
+507,Sa Thầy,Kon Tum,,42703,1435,30
+635,Tu Mơ Rông,Kon Tum,,22498,862,26
+323,Lai Châu,Lai Châu,thành phố,55227 (12/2013)[47],70,784
+380,Mường Tè,Lai Châu,,39921 (11/2012),2679.34[56],15
+399,Nậm Nhùn,Lai Châu,,24165 (11/2012),1388.0839[56],17
+438,Phong Thổ,Lai Châu,,66372,1029,65
+510,Sìn Hồ,Lai Châu,,74803 (11/2012)[56],1526.9603[56],49
+532,Tam Đường,Lai Châu,,46767,685,68
+555,Tân Uyên,Lai Châu,,45162,903,50
+570,Than Uyên,Lai Châu,,57837 (10/2011)[78],796805,73
+28,Bảo Lâm,Lâm Đồng,,109236,1457,75
+29,Bảo Lộc,Lâm Đồng,thành phố,153362 (4/2010)[6],233,659
+90,Cát Tiên,Lâm Đồng,,38288 (12/2013)[20],427,90
+144,Di Linh,Lâm Đồng,,160830 (12/2013)[20],1615,99
+156,Đà Lạt,Lâm Đồng,thành phố,205287,393,522
+157,Đạ Huoai,Lâm Đồng,,3345,490,68
+158,Đạ Tẻh,Lâm Đồng,,4381,524,84
+173,Đam Rông,Lâm Đồng,,38407,892,43
+200,Đơn Dương,Lâm Đồng,,93702,612,153
+207,Đức Trọng,Lâm Đồng,,166393,902,184
+320,Lạc Dương,Lâm Đồng,,20905 (12/2013)[20],13125284,16
+331,Lâm Hà,Lâm Đồng,,13769,979,141
+41,Bắc Sơn,Lạng Sơn,,65836,700,94
+54,Bình Gia,Lạng Sơn,,52087,1093,48
+87,Cao Lộc,Lạng Sơn,,73516,642,115
+118,Chi Lăng,Lạng Sơn,,73887,708,104
+179,Đình Lập,Lạng Sơn,,26429,1189,22
+284,Hữu Lũng,Lạng Sơn,,112451,808,139
+327,Lạng Sơn,Lạng Sơn,thành phố,87278,78,1118
+347,Lộc Bình,Lạng Sơn,,78324,1001,78
+621,Tràng Định,Lạng Sơn,,58441,1000,58
+655,Văn Lãng,Lạng Sơn,,50198,563,89
+657,Văn Quan,Lạng Sơn,,54068,550,98
+30,Bảo Thắng,Lào Cai,,103262,652,158
+31,Bảo Yên,Lào Cai,,76415,821,93
+32,Bát Xát,Lào Cai,,74388,1036,72
+36,Bắc Hà,Lào Cai,,53587,682,79
+328,Lào Cai,Lào Cai,thành phố,130671,282,463
+375,Mường Khương,Lào Cai,,51993 (11/2010)[55],5561453,93
+506,Sa Pa,Lào Cai,thị xã,61498,681,120
+509,Si Ma Cai,Lào Cai,,31323,235,133
+652,Văn Bàn,Lào Cai,,7922,1426,56
+48,Bến Lức,Long An,,148621,289,514
+98,Cần Đước,Long An,,16873,218,774
+100,Cần Giuộc,Long An,,168039,210,801
+112,Châu Thành,Long An,,97419,151,647
+202,Đức Hòa,Long An,,345817,427,811
+203,Đức Huệ,Long An,,59034,431,137
+298,Kiến Tường,Long An,thị xã,64589 (3/2013)[46],204.282[46],316
+371,Mộc Hóa,Long An,,29853 (4/2013)[46],297.6425[46],100
+537,Tân An,Long An,thành phố,166419 (8/2009)[74],819494,2031
+544,Tân Hưng,Long An,,47742,497,96
+552,Tân Thạnh,Long An,,75551,426,177
+553,Tân Trụ,Long An,,60278,107,566
+584,Thạnh Hóa,Long An,,53597,468,114
+598,Thủ Thừa,Long An,,89235,299,298
+671,Vĩnh Hưng,Long An,,49371,385,128
+218,Giao Thủy,Nam Định,,188875,232,813
+242,Hải Hậu,Nam Định,,256864,230,1116
+383,Mỹ Lộc,Nam Định,,69143,74,938
+390,Nam Định,Nam Định,thành phố,243186,46,5241
+395,Nam Trực,Nam Định,,192312,162,1189
+408,Nghĩa Hưng,Nam Định,,17854,251,713
+631,Trực Ninh,Nam Định,,176622,144,1231
+684,Vụ Bản,Nam Định,,129669,148,877
+689,Xuân Trường,Nam Định,,165739,113,1468
+691,Ý Yên,Nam Định,,22716,240,946
+10,Anh Sơn,Nghệ An,,99358,603,165
+132,Con Cuông,Nghệ An,,6424,1745,37
+142,Cửa Lò,Nghệ An,thị xã,70398 (9/2010)[28],28,2531
+147,Diễn Châu,Nghệ An,,266447,306,871
+183,Đô Lương,Nghệ An,,183584,354,518
+262,Hoàng Mai,Nghệ An,thị xã,105105 (4/2013)[40],169.7488[40],619
+277,Hưng Nguyên,Nghệ An,,110451,159,694
+318,Kỳ Sơn,Nghệ An,,69524,2095,33
+389,Nam Đàn,Nghệ An,,149826,294,510
+404,Nghi Lộc,Nghệ An,,184148,348,529
+406,Nghĩa Đàn,Nghệ An,,130140 (10/2011)[60],617848,211
+494,Quế Phong,Nghệ An,,62129,1895,33
+499,Quỳ Châu,Nghệ An,,53179 (5/2010)[69],10576563,50
+500,Quỳ Hợp,Nghệ An,,116554,942,124
+501,Quỳnh Lưu,Nghệ An,,279977,437.6287*[40],640
+545,Tân Kỳ,Nghệ An,,129031,726,178
+567,Thái Hòa,Nghệ An,thị xã,59962,135,444
+573,Thanh Chương,Nghệ An,,248952 (10/2011)[60],11289065,220
+646,Tương Dương,Nghệ An,,72405,2812,26
+667,Vinh,Nghệ An,thành phố,315421,105,2893
+705,Yên Thành,Nghệ An,,257747,550,468
+215,Gia Viễn,Ninh Bình,,115708,179,648
+251,Hoa Lư,Ninh Bình,,66187,103,641
+302,Kim Sơn,Ninh Bình,,164735,165,1
+418,Nho Quan,Ninh Bình,,143083,458,312
+422,Ninh Bình,Ninh Bình,thành phố,110541,48,2284
+531,Tam Điệp,Ninh Bình,thành phố,55021,105,526
+697,Yên Khánh,Ninh Bình,,13342,142,938
+701,Yên Mô,Ninh Bình,,110302 (11/2012)[86],144743,762
+22,Bác Ái,Ninh Thuận,,24304,1028,24
+424,Ninh Hải,Ninh Thuận,,8942,254,352
+427,Ninh Phước,Ninh Thuận,,135146 (6/2009)[62],3410337,396
+428,Ninh Sơn,Ninh Thuận,,71432,771,93
+434,Phan Rang Tháp Chàm,Ninh Thuận,thành phố,16173,79,205
+600,Thuận Bắc,Ninh Thuận,,37769,319,118
+602,Thuận Nam,Ninh Thuận,,54768 (6/2009)[62],564.5262[62],97
+92,Cẩm Khê,Phú Thọ,,12579,234,537
+182,Đoan Hùng,Phú Thọ,,103743,302,343
+234,Hạ Hòa,Phú Thọ,,104872,339,309
+332,Lâm Thao,Phú Thọ,,99859,98,1024
+454,Phú Thọ,Phú Thọ,thị xã,71600 (7/2013)[64],646007,1108
+460,Phù Ninh,Phú Thọ,,94094,156,602
+535,Tam Nông,Phú Thọ,,75469,156,485
+551,Tân Sơn,Phú Thọ,,76035,689,110
+571,Thanh Ba,Phú Thọ,,108015,195,553
+580,Thanh Sơn,Phú Thọ,,117665,621,190
+581,Thanh Thủy,Phú Thọ,,75588,124,611
+665,Việt Trì,Phú Thọ,thành phố,283995 (31/12/2013)[83],112,2541
+699,Yên Lập,Phú Thọ,,82213,438,188
+189,Đông Hòa,Phú Yên,,114993 (8/2013)[35],268,429
+198,Đồng Xuân,Phú Yên,,58014,1063,55
+442,Phú Hòa,Phú Yên,,103268,263,392
+513,Sông Cầu,Phú Yên,thị xã,101521 (8/2009)[72],4892848,207
+515,Sông Hinh,Phú Yên,,45352,885,51
+522,Sơn Hòa,Phú Yên,,54067,950,57
+558,Tây Hòa,Phú Yên,,116272 (8/2013)[35],6094506,191
+636,Tuy An,Phú Yên,,121355,399,304
+638,Tuy Hòa,Phú Yên,thành phố,152113,107,1424
+16,Ba Đồn,Quảng Bình,thị xã,115196 (12/2013)[3],163,706
+66,Bố Trạch,Quảng Bình,,178464,2124,84
+193,Đồng Hới,Quảng Bình,thành phố,111141,156,714
+336,Lệ Thủy,Quảng Bình,,140274,1416,99
+364,Minh Hóa,Quảng Bình,,46862,1413,33
+477,Quảng Ninh,Quảng Bình,,86598,1192,73
+478,Quảng Trạch,Quảng Bình,,95542 (12/2013)[3],4007022,238
+641,Tuyên Hóa,Quảng Bình,,77608,1149,68
+43,Bắc Trà My,Quảng Nam,,38218,823,46
+149,Duy Xuyên,Quảng Nam,,120948,299,404
+159,Đại Lộc,Quảng Nam,,145935,587,249
+175,Điện Bàn,Quảng Nam,thị xã,19783,215,921
+186,Đông Giang,Quảng Nam,,23428,813,29
+249,Hiệp Đức,Quảng Nam,,38001,494,77
+269,Hội An,Quảng Nam,thành phố,89716,62,1459
+392,Nam Giang,Quảng Nam,,22990 (1/2011)[58],18428867,12
+394,Nam Trà My,Quảng Nam,,25464,826,31
+430,Nông Sơn,Quảng Nam,,3147,456,69
+431,Núi Thành,Quảng Nam,,137481,534,257
+447,Phú Ninh,Quảng Nam,,84863 (12/2009)[63],251,337
+468,Phước Sơn,Quảng Nam,,22586,1141,20
+495,Quế Sơn,Quảng Nam,,82216,251,328
+533,Tam Kỳ,Quảng Nam,thành phố,107924,93,1165
+557,Tây Giang,Quảng Nam,,16534,903,18
+588,Thăng Bình,Quảng Nam,,176783,386,458
+611,Tiên Phước,Quảng Nam,,68877,454,152
+17,Ba Tơ,Quảng Ngãi,,51468,1137,45
+60,Bình Sơn,Quảng Ngãi,,174939,464,377
+205,Đức Phổ,Quảng Ngãi,thị xã,150927,373,405
+356,Lý Sơn,Quảng Ngãi,huyện đảo,18223,10,1822
+365,Minh Long,Quảng Ngãi,,15498,216,72
+369,Mộ Đức,Quảng Ngãi,,126059,212,594
+407,Nghĩa Hành,Quảng Ngãi,,89304,234,382
+476,Quảng Ngãi,Quảng Ngãi,thành phố,260252 (12/2013)[68],1601534,1625
+521,Sơn Hà,Quảng Ngãi,,68345,750,91
+525,Sơn Tây,Quảng Ngãi,,18092,382,47
+526,Sơn Tịnh,Quảng Ngãi,,95597 (12/2013)[68],2434131,393
+616,Trà Bồng,Quảng Ngãi,,53379,760,70
+643,Tư Nghĩa,Quảng Ngãi,,128333 (12/2013)[68],2053624,625
+14,Ba Chẽ,Quảng Ninh,,18877,609,31
+56,Bình Liêu,Quảng Ninh,,27629,475,58
+95,Cẩm Phả,Quảng Ninh,thành phố,195800 (2/2012)[21],487,403
+133,Cô Tô,Quảng Ninh,huyện đảo,4985,47,105
+172,Đầm Hà,Quảng Ninh,,33219,412,81
+192,Đông Triều,Quảng Ninh,thị xã,156627,397,394
+236,Hạ Long,Quảng Ninh,thành phố,300267,1119,268
+241,Hải Hà,Quảng Ninh,,52729,526,100
+368,Móng Cái,Quảng Ninh,thành phố,80000 (2/2010)[52],517,155
+480,Quảng Yên,Quảng Ninh,thị xã,131392,319,412
+612,Tiên Yên,Quảng Ninh,,44352,438,101
+649,Uông Bí,Quảng Ninh,thành phố,151072 (8/2011)[81],2563077,589
+660,Vân Đồn,Quảng Ninh,huyện đảo,40204,553,727
+80,Cam Lộ,Quảng Trị,,44731,347,129
+135,Cồn Cỏ,Quảng Trị,huyện đảo,83,2,38
+154,Đa Krông,Quảng Trị,,36437,1223,30
+187,Đông Hà,Quảng Trị,thành phố,93756 (8/2009)[34],73,1283
+219,Gio Linh,Quảng Trị,,72083,473,152
+243,Hải Lăng,Quảng Trị,,86335,424,204
+283,Hướng Hóa,Quảng Trị,,74216,1151,64
+479,Quảng Trị,Quảng Trị,thị xã,22294,74,301
+628,Triệu Phong,Quảng Trị,,9461,353,268
+672,Vĩnh Linh,Quảng Trị,,85584,624,137
+113,Châu Thành,Sóc Trăng,,100758,230,438
+137,Cù Lao Dung,Sóc Trăng,,62931,249,252
+289,Kế Sách,Sóc Trăng,,159562 (7/2013)[45],3528761,452
+344,Long Phú,Sóc Trăng,,112994 (8/2011)[49],263.8227[49],428
+385,Mỹ Tú,Sóc Trăng,,106361,368,289
+386,Mỹ Xuyên,Sóc Trăng,,150003 (12/2009)[57],2637212,569
+402,Ngã Năm,Sóc Trăng,thị xã,79677 (12/2013)[59],2422435,329
+512,Sóc Trăng,Sóc Trăng,thành phố,136018,76,1785
+586,Thạnh Trị,Sóc Trăng,,89091 (12/2009) [57],2875996,310
+625,Trần Đề,Sóc Trăng,,130077 (12/2009)[57],378.7598[57],343
+669,Vĩnh Châu,Sóc Trăng,thị xã,163800 (8/2011)[49],473.3948[49],346
+45,Bắc Yên,Sơn La,,56796,1099,52
+358,Mai Sơn,Sơn La,,137341,1424,96
+370,Mộc Châu,Sơn La,,104730 (6/2013)[53],1081.66[53],97
+376,Mường La,Sơn La,,91377,1425,64
+461,Phù Yên,Sơn La,,106892,1227,87
+502,Quỳnh Nhai,Sơn La,,58300 (2/2011)[70],1061,55
+517,Sông Mã,Sơn La,,126099,1632,77
+518,Sốp Cộp,Sơn La,,39038,1481,26
+523,Sơn La,Sơn La,thành phố,107282 (1/2010)[73],325,330
+601,Thuận Châu,Sơn La,,147374,1533,96
+661,Vân Hồ,Sơn La,,55797 (6/2013)[53],979.84[53],57
+694,Yên Châu,Sơn La,,68753,856,80
+47,Bến Cầu,Tây Ninh,,62934,233,270
+114,Châu Thành,Tây Ninh,,130101,571,228
+153,Dương Minh Châu,Tây Ninh,,1043,453,230
+225,Gò Dầu,Tây Ninh,,137019,251,547
+255,Hòa Thành,Tây Ninh,thị xã,147666,83,1781
+538,Tân Biên,Tây Ninh,,93813,860,110
+541,Tân Châu,Tây Ninh,,121393,1110,109
+560,Tây Ninh,Tây Ninh,thành phố,153537 (12/2013)[75],1400081,1097
+622,Trảng Bàng,Tây Ninh,thị xã,161831,340,476
+190,Đông Hưng,Thái Bình,,246335,192,1284
+276,Hưng Hà,Thái Bình,,254774,200,1271
+297,Kiến Xương,Thái Bình,,223719,199,1123
+503,Quỳnh Phụ,Thái Bình,,245188,210,117
+566,Thái Bình,Thái Bình,thành phố,268482* [76][77],68,3965
+569,Thái Thụy,Thái Bình,,267012,257,104
+608,Tiền Hải,Thái Bình,,213616,226,945
+683,Vũ Thư,Thái Bình,,224832,195,1152
+160,Đại Từ,Thái Nguyên,,160598 (12/2013)[30],569,274
+180,Định Hóa,Thái Nguyên,,87089,521,167
+194,Đồng Hỷ,Thái Nguyên,,114893 (1/2011)[36],458,251
+439,Phổ Yên,Thái Nguyên,thị xã,158619,259,558
+440,Phú Bình,Thái Nguyên,,13415,246,546
+444,Phú Lương,Thái Nguyên,,106681 (12/2013)[30],3689465,289
+514,Sông Công,Thái Nguyên,thành phố,109409,109,1
+568,Thái Nguyên,Thái Nguyên,thành phố,306842,171,1798
+681,Võ Nhai,Thái Nguyên,,64241,844,76
+21,Bá Thước,Thanh Hóa,,9636,777,124
+51,Bỉm Sơn,Thanh Hóa,thị xã,59747 [12],67,893
+96,Cẩm Thủy,Thanh Hóa,,111999 (10/2009)[22],424,264
+191,Đông Sơn,Thanh Hóa,,74217*,82,901
+233,Hà Trung,Thanh Hóa,,108049,245,442
+248,Hậu Lộc,Thanh Hóa,,165742,144,1153
+265,Hoằng Hóa,Thanh Hóa,,250534[22],225,1114
+325,Lang Chánh,Thanh Hóa,,45346,587,77
+377,Mường Lát,Thanh Hóa,,33182,809,41
+400,Nga Sơn,Thanh Hóa,,135832,158,858
+412,Ngọc Lặc,Thanh Hóa,,132870 (10/2009)[22],4852815,274
+420,Như Thanh,Thanh Hóa,,84763,567,149
+421,Như Xuân,Thanh Hóa,,64319,717,90
+429,Nông Cống,Thanh Hóa,,182898,287,638
+470,Quan Hóa,Thanh Hóa,,43789,997,44
+471,Quan Sơn,Thanh Hóa,,35435,944,38
+481,Quảng Xương,Thanh Hóa,,227971,171,1333
+508,Sầm Sơn,Thanh Hóa,thành phố,60913 (12/2009)[12],45,1354
+564,Thạch Thành,Thanh Hóa,,136221,559,244
+575,Thanh Hóa,Thanh Hóa,thành phố,350035[79],1467707,268
+589,Thiệu Hóa,Thanh Hóa,,152782,161,951
+590,Thọ Xuân,Thanh Hóa,,233752 (10/2009)[22],295885,790
+606,Thường Xuân,Thanh Hóa,,83218,1113,75
+614,Tĩnh Gia,Thanh Hóa,,214665,458,468
+629,Triệu Sơn,Thanh Hóa,,195566,292,669
+674,Vĩnh Lộc,Thanh Hóa,,80348,158,508
+696,Yên Định,Thanh Hóa,,171235 (10/2009)[22],2278309,752
+1,A Lưới,Thừa Thiên Huế,,47115,1233,34
+275,Huế,Thừa Thiên Huế,thành phố,339822 (3/2010)[41],71,4787
+281,Hương Thủy,Thừa Thiên Huế,thị xã,96525 (2/2010)[43],4581749,211
+282,Hương Trà,Thừa Thiên Huế,thị xã,118354 (11/2011)[44],518534,228
+391,Nam Đông,Thừa Thiên Huế,,22566,652,35
+436,Phong Điền,Thừa Thiên Huế,,8809,956,92
+443,Phú Lộc,Thừa Thiên Huế,,134322,730,184
+455,Phú Vang,Thừa Thiên Huế,,171231 (5/2011)[65],280,611
+474,Quảng Điền,Thừa Thiên Huế,,82811,163,514
+74,Cai Lậy,Tiền Giang,,186583 (12/2013)[17],256,729
+75,Cai Lậy,Tiền Giang,thị xã,123775 (12/2013)[17],140,883
+76,Cái Bè,Tiền Giang,,186583 (12/2013)[17],256,729
+115,Châu Thành,Tiền Giang,,259408,230,1128
+122,Chợ Gạo,Tiền Giang,,182177,229,794
+222,Gò Công,Tiền Giang,thị xã,94367,102,925
+223,Gò Công Đông,Tiền Giang,,143418 (9/2010)[38],2676816,536
+224,Gò Công Tây,Tiền Giang,,124889,180,693
+384,Mỹ Tho,Tiền Giang,thành phố,181367,82,2225
+549,Tân Phú Đông,Tiền Giang,,4043,202,200
+550,Tân Phước,Tiền Giang,,56417,333,169
+83,Càng Long,Trà Vinh,,143389,300,477
+102,Cầu Kè,Trà Vinh,,109592,244,450
+103,Cầu Ngang,Trà Vinh,,130608,319,409
+116,Châu Thành,Trà Vinh,,136786,335,408
+150,Duyên Hải,Trà Vinh,thị xã,56,177,316
+151,Duyên Hải,Trà Vinh,,835,300,278
+613,Tiểu Cần,Trà Vinh,,109122,221,495
+617,Trà Cú,Trà Vinh,,176721,370,478
+619,Trà Vinh,Trà Vinh,thành phố,131360 (3/2010)[80],680350,1931
+120,Chiêm Hóa,Tuyên Quang,,124337 (1/2011),1280.4[25],97
+247,Hàm Yên,Tuyên Quang,,109739,901,122
+330,Lâm Bình,Tuyên Quang,,29459 (1/2011),781.5217[25],38
+387,Na Hang,Tuyên Quang,,41868 (1/2011)[25],865.4969 [25],48
+520,Sơn Dương,Tuyên Quang,,171694,789,218
+642,Tuyên Quang,Tuyên Quang,thành phố,191118,184,1037
+704,Yên Sơn,Tuyên Quang,,14539,1068,136
+59,Bình Minh,Vĩnh Long,thị xã,95282 (12/2012)[15],94,1018
+62,Bình Tân,Vĩnh Long,,93142,153,609
+340,Long Hồ,Vĩnh Long,,160537,193,831
+359,Mang Thít,Vĩnh Long,,99201,160,620
+528,Tam Bình,Vĩnh Long,,153805,280,549
+618,Trà Ôn,Vĩnh Long,,134787,259,520
+673,Vĩnh Long,Vĩnh Long,thành phố,136594,48,2846
+685,Vũng Liêm,Vĩnh Long,,159183,294,541
+65,Bình Xuyên,Vĩnh Phúc,,108246,145,746
+334,Lập Thạch,Vĩnh Phúc,,118646,173,685
+464,Phúc Yên,Vĩnh Phúc,thành phố,9179,120,763
+516,Sông Lô,Vĩnh Phúc,,88616,150,590
+529,Tam Dương,Vĩnh Phúc,,94692,107,884
+530,Tam Đảo,Vĩnh Phúc,,69084,236,292
+679,Vĩnh Tường,Vĩnh Phúc,,198942 (9/2009)[84],1418202,1403
+680,Vĩnh Yên,Vĩnh Phúc,thành phố,94294,51,1856
+698,Yên Lạc,Vĩnh Phúc,,14524,107,1361
+352,Lục Yên,Yên Bái,,102946,809,127
+372,Mù Cang Chải,Yên Bái,,49255,1202,41
+409,Nghĩa Lộ,Yên Bái,thị xã,68206,108,633
+620,Trạm Tấu,Yên Bái,,26704,746,36
+624,Trấn Yên,Yên Bái,,79397,629,126
+653,Văn Chấn,Yên Bái,,144152,1211,119
+658,Văn Yên,Yên Bái,,116,1392,83
+692,Yên Bái,Yên Bái,thành phố,95361 (12/2013)[85],1067419,893
+693,Yên Bình,Yên Bái,,103776,773,134

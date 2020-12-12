@@ -1,0 +1,3 @@
+
+Thêm một trường mới cho tất cả các collection
+collection.update_many({} , {"$set" : {"CreatedAt": "Ahihi"}})

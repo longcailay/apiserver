@@ -18,17 +18,26 @@ df['village']  = df['villageCode'] = ''
 df['street']   = df['streetCode'] = ''
 
 for index, row in df.iterrows():
+    hash = df.at[index, 'hash']
     addr = df.at[index, 'address']
     location = re.findall(r"[-+]?\d*\.\d+|\d+", df.at[index, 'gps'])
     lat = location[0]
     lon = location[1]
-    df.at[index, 'province'] = getTinh.getProvince(addr)
-    df.at[index, 'provinceCode'] = getTinh.getProvinceCode(addr)
-    df.at[index, 'district'] = getTinh.getDistrict(addr)
-    df.at[index, 'districtCode'] = getTinh.getDistrictCode(addr)
-    df.at[index, 'village'] = getTinh.getVillage(addr,lat,lon)
-    df.at[index, 'villageCode'] = getTinh.getVillageCode(addr,lat,lon)
-    df.at[index, 'street'] = getTinh.getStreet(addr)
-    df.at[index, 'streetCode'] = getTinh.getStreetCode(addr)
+    try:
+        df.at[index, 'province'] = getTinh.getProvince(addr)
+        df.at[index, 'provinceCode'] = getTinh.getProvinceCode(addr)
+        df.at[index, 'district'] = getTinh.getDistrict(addr)
+        df.at[index, 'districtCode'] = getTinh.getDistrictCode(addr)
+        df.at[index, 'village'] = getTinh.getVillage(addr,lat,lon)
+        df.at[index, 'villageCode'] = getTinh.getVillageCode(addr,lat,lon)
+        df.at[index, 'street'] = getTinh.getStreet(addr)
+        df.at[index, 'streetCode'] = getTinh.getStreetCode(addr)
+    except:
+        index = index - 1
+        print("Fail...")
+        print(hash)
+    
+        
+    
 
 df.to_csv(fileNameResult,index=False, encoding='utf-8-sig')
