@@ -1,7 +1,6 @@
 import flask
 import pandas as pd
 import json
-import csv
 from flask import request, jsonify, make_response, Blueprint
 import connectionDB as connDB
 giaoDuc = Blueprint('giaoDuc', __name__)
