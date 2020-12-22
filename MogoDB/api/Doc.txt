@@ -1,0 +1,60 @@
+API file areas.py
+
+Lưu ý: Đổi lại địa chỉ IP sang IP máy ảo
+
+
+#load lên danh sách tất cả các tỉnh
+"""
+    input: Get: http://127.0.0.1:5001/areas
+    output: danh sách 63 tỉnh của cả nước
+
+"""
+
+
+#load lên danh sách tất cả các quận huyện của tỉnh
+"""
+    input: Get: http://127.0.0.1:5001/areas/ho-chi-minh
+            Get http://127.0.0.1:5001/areas/tien-giang
+    output: danh sách tất cả các quận huyện ở thành phố Hồ Chí Minh
+
+"""
+
+#load lên danh sách tất cả các xã của huyện
+"""
+    input: Get: http://127.0.0.1:5001/areas/ho-chi-minh/quan-1
+    output: danh sách tất cả các phường ở quận 1, thành phố Hồ Chí Minh
+
+"""
+
+
+#tìm kiếm danh sách 6 khu vực do người dùng nhập vào
+"""
+    input: Get: http://127.0.0.1:5001/areas/search_many?q= Quận 3
+        Params: 
+            q: là tên khu vực
+            Ví dụ: Quận 3    => xuất danh sách tối đa là 6 khu vực liên quan đến quận 3
+                    Hà Nội => xuất dánh sách tối đa là 6 khu vực liên quan đến Hà Nội
+            
+
+    output: danh sách các khu vực được truyền vào params q (Danh sách có tối đa 6 khu vực)
+
+"""
+
+
+#Tìm kiếm các utilities theo tham số vào
+"""
+    input: Get: http://127.0.0.1:5001/utilities
+        Params:
+            category: loại tiện ích (string)
+                    VD: "Nhà hàng", "Giáo dục", "Bệnh viện"
+                    hoặc "all", là tất cả các tiện ích trong khu vực
+
+            lat_1: latitude điểm trái trên (float)
+            lon_1: longitude điểm trái trên (float)
+            lat_2: latitude điểm phải dưới (float)
+            lon_2: longitude điểm phải dưới (float)
+            
+
+    output: danh sách tất cả các tiện ích trong khu vực tọa độ đó theo thể loại
+
+"""

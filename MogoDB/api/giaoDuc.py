@@ -10,8 +10,8 @@ nameColl = 'utilities'
 
 
 #tạo collection vào trong database
-db = connDB.connectionDBAtlas(nameDB)
-mycoll = db[nameColl]
+db = connDB.connectionDBAtlas2(nameDB)
+myColl = db[nameColl]
 
 #df = pd.DataFrame(list(coll.find({}))).drop(columns='_id')
 

@@ -2,7 +2,6 @@ import requests
 import flask
 import pandas as pd
 import json
-import difflib
 from flask import request, jsonify, make_response, Blueprint
 
 
