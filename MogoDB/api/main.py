@@ -13,10 +13,14 @@ app.register_blueprint(areas)
 # from giaoDuc import giaoDuc
 # app.register_blueprint(giaoDuc)
 
+#api tìm boder khu vực
+from boder import boder
+app.register_blueprint(boder)
+
 #utilities
 from utilities import utilities
 app.register_blueprint(utilities)
 
 if __name__ == "__main__":
     CORS(app)
-    app.run(host='0.0.0.0',debug=True, use_reloader=True)
+    app.run(debug=True, use_reloader=True)

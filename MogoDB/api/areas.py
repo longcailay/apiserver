@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import difflib
 from flask import request, jsonify, make_response, Blueprint
+from unidecode import unidecode
 import connectionDB as connDB
 areas = Blueprint('areas', __name__)
 
@@ -40,9 +41,11 @@ def internal_server_error():
     output: danh sách 63 tỉnh của cả nước
 
 """
-@areas.route('/areas', methods=['GET'])
-def provinces():
+@areas.route('/<areas>', methods=['GET'])
+def provinces(areas):
     try:
+        if areas != 'areas':
+            return page_not_found()
         coll = collection()
         df = pd.DataFrame(list(coll.find({"type": 1})))
         if df.empty:
@@ -110,6 +113,13 @@ def villages(provinceCode, districtCode):
         return internal_server_error()
     
 
+def formatQuery(query):
+    result = str(query)
+    result = unidecode(result).strip()
+    result = result.replace(',','').replace('  ',' ').replace('  ',' ').replace('  ',' ').replace('  ',' ').replace('  ',' ').replace('.', ' ').replace(':', ' ')
+    result = result.lower()
+    return result
+
 #tìm kiếm khu vực do người dùng nhập vào
 """
     input: Get: http://127.0.0.1:5000/areas/search?q=Hồ Chí Minh
@@ -129,13 +139,14 @@ def search():
     try:
         query_parameters = request.args
         q = query_parameters.get('q')
-        q = q.replace('Tỉnh ','').replace('tỉnh ','')
         if not q:
             return page_not_found()
+        q = q.replace('Tỉnh ','').replace('tỉnh ','')
+        q = formatQuery(q)
         coll = collection()
         df = pd.DataFrame(list(coll.find({})))
-        temp = difflib.get_close_matches(q, df['fullAddress'])
-        df = pd.DataFrame(list(coll.find({'fullAddress': temp[0]})))
+        temp = difflib.get_close_matches(q, df['fullAddressCode'])
+        df = pd.DataFrame(list(coll.find({'fullAddressCode': temp[0]})))
         if df.empty:
             data = []
             return json.dumps(data), 200
