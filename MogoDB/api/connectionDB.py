@@ -17,3 +17,11 @@ def connectionDBAtlas(databaseName):
 def connectionDBAtlas2(databaseName):
     return connectionServer.connServerAtlas2()[databaseName]
 
+#Trả về kết nối tới một database của Atlas
+def connectionDBAtlas3(databaseName):
+    try:
+        return connectionServer.connServerAtlas3()[databaseName]
+    except:
+        print("Connect failed")
+        raise
+    

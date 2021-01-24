@@ -26,4 +26,4 @@ from price import price
 app.register_blueprint(price)
 if __name__ == "__main__":
     CORS(app)
-    app.run(debug=True, use_reloader=True)
+    app.run(host='0.0.0.0', port='5000',debug=True, use_reloader=True)

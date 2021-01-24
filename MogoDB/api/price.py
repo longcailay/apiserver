@@ -6,11 +6,11 @@ from flask import request, jsonify, make_response, Blueprint
 import connectionDB as connDB
 price = Blueprint('price', __name__)
 
-nameDB = 'SuccessfullLand_DB'
+nameDB = 'LongHoDB'
 
 #tạo kết nối tới DB và trả ra collection
 def collection(nameColl):
-    db = connDB.connectionDBAtlas(nameDB)
+    db = connDB.connectionDBAtlas3(nameDB)
     coll = db[nameColl]
     return coll
 
@@ -35,7 +35,7 @@ def internal_server_error():
 
 #Tìm kiếm danh sách các thể loại bất động sản
 """
-    input: Get: http://127.0.0.1:5000/price_category
+    input: Get: http://47.241.7.27:5000/price_category
 
     output: danh sách tất cả các thể loại bất động sản đang hổ trợ
 
@@ -79,7 +79,7 @@ def getYearId(year):
 
 #Trả ra API về giá cần thiết để làm biểu đồ
 """
-    input: Get: http://127.0.0.1:5000/price/counts
+    input: Get: http://47.241.7.27:5000/price
         Params:
             type: 1,2,3 là tỉnh, huyện, hoặc xã (type của areas)
 
@@ -132,18 +132,15 @@ def get_price():
 
         #check params
         if not (type_area or province_code or category_id or year):
-            print(1)
             return page_not_found()
 
         if year not in ["2015", "2016", "2017", "2018", "2019", "all"]:
-            print(2)
             return page_not_found()
         else:
             if year != "all":
                 year_id = getYearId(year)
 
         if type_area not in ["1","2","3"]:
-            print(3)
             return page_not_found()
 
         temp = ["0"]
@@ -152,11 +149,8 @@ def get_price():
         temp.append("all")
    
         if category_id not in temp:
-            print(4)
             return page_not_found()
         else:
-            print(5)
-            print(category_id)
             if category_id != "all":
                 category_id = int(category_id)
         
@@ -192,11 +186,11 @@ def get_price():
 
         #3 year == "all" and category_id == all
         if year == "all" and category_id == "all":
-            projection = None
+            projection = {"category.average_price_year.average_price_month": 0}
 
         #4 year == "all" and category_id != "all"
         if year == "all" and category_id != "all":
-            projection = {"category": {"$slice":[category_id,1]}}
+            projection = {"category.average_price_year.average_price_month": 0,"category": {"$slice":[category_id,1]}}
 
 
 
